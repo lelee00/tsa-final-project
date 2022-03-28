@@ -1,0 +1,10 @@
+bs4
+numpy
+pandas
+regex
+requests
+lxml
+prettify
+numbers
+htmltext
+re
