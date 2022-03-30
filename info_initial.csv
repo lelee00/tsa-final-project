@@ -1,280 +1,529 @@
-﻿link,address,list_price,beds,baths,sqft
-https://www.zillow.com/homedetails/100-W-Wabash-St-Berne-IN-46711/85083197_zpid/,"100 W Wabash St, Berne, IN 46711",,2,0,1080
-https://www.zillow.com/homedetails/1002-Dearborn-St-Berne-IN-46711/85083731_zpid/,"1002 Dearborn St, Berne, IN 46711",,3,1.5,1700
-https://www.zillow.com/homedetails/1005-Dearborn-St-Berne-IN-46711/85083711_zpid/,"1005 Dearborn St, Berne, IN 46711",,3,2,1746
-https://www.zillow.com/homedetails/1005-E-Main-St-Berne-IN-46711/300206297_zpid/,"1005 E Main St, Berne, IN 46711",,0,0,4500
-https://www.zillow.com/homedetails/1005-Mill-Pond-Rd-Berne-IN-46711/85083738_zpid/,"1005 Mill Pond Rd, Berne, IN 46711",,3,3,1548
-https://www.zillow.com/homedetails/1005-W-Main-St-Berne-IN-46711/85090066_zpid/,"1005 W Main St, Berne, IN 46711",,3,1,1922
-https://www.zillow.com/homedetails/1005-W-Water-St-Berne-IN-46711/227853855_zpid/,"1005 W Water St, Berne, IN 46711",,3,2.5,1800
-https://www.zillow.com/homedetails/1006-E-Main-St-Berne-IN-46711/227855212_zpid/,"1006 E Main St, Berne, IN 46711",,4,2,2144
-https://www.zillow.com/homedetails/1006-Mill-Pond-Rd-Berne-IN-46711/85083743_zpid/,"1006 Mill Pond Rd, Berne, IN 46711",,3,3,2028
-https://www.zillow.com/homedetails/1006-W-Clark-St-Berne-IN-46711/85090044_zpid/,"1006 W Clark St, Berne, IN 46711",,3,1,936
-https://www.zillow.com/homedetails/1011-E-State-Road-218-Berne-IN-46711/227854272_zpid/,"1011 E State Road 218, Berne, IN 46711",,1,0,1760
-https://www.zillow.com/homedetails/1011-W-Water-St-Berne-IN-46711/2075437525_zpid/,"1011 W Water St, Berne, IN 46711",,3,3,1880
-https://www.zillow.com/homedetails/1012-Dearborn-St-Berne-IN-46711/85083723_zpid/,"1012 Dearborn St, Berne, IN 46711",,3,1.5,1456
-https://www.zillow.com/homedetails/1012-W-700-S-Berne-IN-46711/85083864_zpid/,"1012 W 700 S, Berne, IN 46711",,4,0,1848
-https://www.zillow.com/homedetails/1012-W-Water-St-Berne-IN-46711/85090065_zpid/,"1012 W Water St, Berne, IN 46711",,3,2,1410
-https://www.zillow.com/homedetails/1015-W-Main-St-Berne-IN-46711/85090067_zpid/,"1015 W Main St, Berne, IN 46711",,4,3,2174
-https://www.zillow.com/homedetails/1017-Dearborn-St-Berne-IN-46711/85083694_zpid/,"1017 Dearborn St, Berne, IN 46711",,4,2,2157
-https://www.zillow.com/homedetails/1017-Rose-Ln-Berne-IN-46711/85083700_zpid/,"1017 Rose Ln, Berne, IN 46711",,3,2,1700
-https://www.zillow.com/homedetails/1017-W-Water-St-Berne-IN-46711/2069878170_zpid/,"1017 W Water St, Berne, IN 46711",,3,3,2065
-https://www.zillow.com/homedetails/1018-Rose-Ln-Berne-IN-46711/85083701_zpid/,"1018 Rose Ln, Berne, IN 46711",,4,2,1428
-https://www.zillow.com/homedetails/1018-W-Clark-St-Berne-IN-46711/85090034_zpid/,"1018 W Clark St, Berne, IN 46711",,3,2,1624
-https://www.zillow.com/homedetails/102-W-300-S-Berne-IN-46711/227853506_zpid/,"102 W 300 S, Berne, IN 46711",,4,3.5,2308
-https://www.zillow.com/homedetails/1020-Dearborn-St-Berne-IN-46711/85083732_zpid/,"1020 Dearborn St, Berne, IN 46711",,3,2,1479
-https://www.zillow.com/homedetails/1020-W-Main-St-Berne-IN-46711/251677995_zpid/,"1020 W Main St, Berne, IN 46711",,1,1,728
-https://www.zillow.com/homedetails/1021-E-550-S-Berne-IN-46711/227857390_zpid/,"1021 E 550 S, Berne, IN 46711",,3,2.5,1456
-https://www.zillow.com/homedetails/1022-E-550-S-Berne-IN-46711/85090458_zpid/,"1022 E 550 S, Berne, IN 46711",,4,1.5,2060
-https://www.zillow.com/homedetails/1023-W-Main-St-Berne-IN-46711/85090028_zpid/,"1023 W Main St, Berne, IN 46711",,3,1.5,1377
-https://www.zillow.com/homedetails/1023-W-Water-St-Berne-IN-46711/85090032_zpid/,"1023 W Water St, Berne, IN 46711",,3,1.5,1676
-https://www.zillow.com/homedetails/1024-Rose-Ln-Berne-IN-46711/85083690_zpid/,"1024 Rose Ln, Berne, IN 46711",,4,3.5,3258
-https://www.zillow.com/homedetails/1024-W-Water-St-Berne-IN-46711/85090039_zpid/,"1024 W Water St, Berne, IN 46711",,2,1,1159
-https://www.zillow.com/homedetails/1026-W-Clark-St-Berne-IN-46711/85090035_zpid/,"1026 W Clark St, Berne, IN 46711",,3,2,1449
-https://www.zillow.com/homedetails/1027-W-700-S-Berne-IN-46711/85083822_zpid/,"1027 W 700 S, Berne, IN 46711",,3,2,1851
-https://www.zillow.com/homedetails/1030-W-350-S-Berne-IN-46711/85089834_zpid/,"1030 W 350 S, Berne, IN 46711",,3,1.5,1056
-https://www.zillow.com/homedetails/1033-E-450-S-Berne-IN-46711/85089839_zpid/,"1033 E 450 S, Berne, IN 46711",,3,1.5,1444
-https://www.zillow.com/homedetails/1034-W-700-S-Berne-IN-46711/85083863_zpid/,"1034 W 700 S, Berne, IN 46711",,4,2,1344
-https://www.zillow.com/homedetails/1035-Black-Bear-Path-Berne-IN-46711/251678300_zpid/,"1035 Black Bear Path, Berne, IN 46711",,3,2,2340
-https://www.zillow.com/homedetails/1035-W-Dearborn-St-Berne-IN-46711/85083673_zpid/,"1035 W Dearborn St, Berne, IN 46711",,3,2.5,1754
-https://www.zillow.com/homedetails/1037-W-700-S-Berne-IN-46711/85083837_zpid/,"1037 W 700 S, Berne, IN 46711",,3,2,1782
-https://www.zillow.com/homedetails/104-E-Main-St-Berne-IN-46711/2140873431_zpid/,"104 E Main St, Berne, IN 46711",,0,0.5,22320
-https://www.zillow.com/homedetails/104-W-Van-Buren-St-Berne-IN-46711/85083309_zpid/,"104 W Van Buren St, Berne, IN 46711",,4,2.5,1762
-https://www.zillow.com/homedetails/1040-Dearborn-St-Berne-IN-46711/85083725_zpid/,"1040 Dearborn St, Berne, IN 46711",,3,2,1594
-https://www.zillow.com/homedetails/1046-Mill-Pond-Rd-Berne-IN-46711/85083764_zpid/,"1046 Mill Pond Rd, Berne, IN 46711",,3,2.5,2459
-https://www.zillow.com/homedetails/1049-W-200-S-Berne-IN-46711/85090684_zpid/,"1049 W 200 S, Berne, IN 46711",,6,0,2228
-https://www.zillow.com/homedetails/105-E-Parr-Rd-Berne-IN-46711/85090072_zpid/,"105 E Parr Rd, Berne, IN 46711",,3,1,1387
-https://www.zillow.com/homedetails/105-Portland-St-Berne-IN-46711/111820380_zpid/,"105 Portland St, Berne, IN 46711",,3,2,1648
-https://www.zillow.com/homedetails/1050-Black-Bear-Path-Berne-IN-46711/251678299_zpid/,"1050 Black Bear Path, Berne, IN 46711",,0,0,
-https://www.zillow.com/homedetails/1055-Rose-Ln-Berne-IN-46711/85083712_zpid/,"1055 Rose Ln, Berne, IN 46711",,3,4,3000
-https://www.zillow.com/homedetails/1055-W-Main-St-Berne-IN-46711/85090054_zpid/,"1055 W Main St, Berne, IN 46711",,3,2,1235
-https://www.zillow.com/homedetails/1055-W-Water-St-Berne-IN-46711/85090036_zpid/,"1055 W Water St, Berne, IN 46711",,3,1.5,1430
-https://www.zillow.com/homedetails/1056-Rose-Ln-Berne-IN-46711/85083679_zpid/,"1056 Rose Ln, Berne, IN 46711",,4,2.5,1873
-https://www.zillow.com/homedetails/1056-W-Clark-St-Berne-IN-46711/85090045_zpid/,"1056 W Clark St, Berne, IN 46711",,3,1,1192
-https://www.zillow.com/homedetails/1056-W-Water-St-Berne-IN-46711/85090062_zpid/,"1056 W Water St, Berne, IN 46711",,3,1.5,1214
-https://www.zillow.com/homedetails/1065-W-Main-St-Berne-IN-46711/85090057_zpid/,"1065 W Main St, Berne, IN 46711",,3,2,1176
-https://www.zillow.com/homedetails/1065-W-Water-St-Berne-IN-46711/85090052_zpid/,"1065 W Water St, Berne, IN 46711",,3,1.5,1344
-https://www.zillow.com/homedetails/1066-W-Clark-St-Berne-IN-46711/85090061_zpid/,"1066 W Clark St, Berne, IN 46711",,3,1.5,1628
-https://www.zillow.com/homedetails/1066-W-Water-St-Berne-IN-46711/85090055_zpid/,"1066 W Water St, Berne, IN 46711",,2,1.5,1150
-https://www.zillow.com/homedetails/1075-W-Main-St-Berne-IN-46711/85090030_zpid/,"1075 W Main St, Berne, IN 46711",,3,1.5,1497
-https://www.zillow.com/homedetails/1075-W-Water-St-Berne-IN-46711/85090033_zpid/,"1075 W Water St, Berne, IN 46711",,2,2,1597
-https://www.zillow.com/homedetails/1076-Mill-Pond-Rd-Berne-IN-46711/85083739_zpid/,"1076 Mill Pond Rd, Berne, IN 46711",,3,2,1651
-https://www.zillow.com/homedetails/1076-W-Clark-St-Berne-IN-46711/85090060_zpid/,"1076 W Clark St, Berne, IN 46711",,3,2,1941
-https://www.zillow.com/homedetails/1076-W-Water-St-Berne-IN-46711/85090050_zpid/,"1076 W Water St, Berne, IN 46711",,3,1.5,1944
-https://www.zillow.com/homedetails/1080-W-500-S-Berne-IN-46711/2128863397_zpid/,"1080 W 500 S, Berne, IN 46711",,0,0.5,4856
-https://www.zillow.com/homedetails/1080-W-Main-St-Berne-IN-46711/85082654_zpid/,"1080 W Main St, Berne, IN 46711",,3,2,1962
-https://www.zillow.com/homedetails/1090-W-400-S-Berne-IN-46711/85089862_zpid/,"1090 W 400 S, Berne, IN 46711",,3,1.5,1485
-https://www.zillow.com/homedetails/1095-S-Us-Highway-27-Berne-IN-46711/243086393_zpid/,"1095 S Us Highway 27, Berne, IN 46711",,2,1.5,1855
-https://www.zillow.com/homedetails/1096-Hendricks-St-Berne-IN-46711/85083415_zpid/,"1096 Hendricks St, Berne, IN 46711",,4,1.5,1628
-https://www.zillow.com/homedetails/11-E-700-S-Berne-IN-46711/85083108_zpid/,"11 E 700 S, Berne, IN 46711",,2,0,1665
-https://www.zillow.com/homedetails/110-E-550-S-Berne-IN-46711/85090451_zpid/,"110 E 550 S, Berne, IN 46711",,3,2,2519
-https://www.zillow.com/homedetails/110-Hahnemann-Ct-Berne-IN-46711/97900746_zpid/,"110 Hahnemann Ct, Berne, IN 46711",,2,2,1494
-https://www.zillow.com/homedetails/110-Poplar-Ave-Berne-IN-46711/85083359_zpid/,"110 Poplar Ave, Berne, IN 46711",,2,3,3652
-https://www.zillow.com/homedetails/1100-Swiss-Way-Berne-IN-46711/249944586_zpid/,"1100 Swiss Way, Berne, IN 46711",,3,0,936
-https://www.zillow.com/homedetails/1105-W-Clark-St-Berne-IN-46711/85090037_zpid/,"1105 W Clark St, Berne, IN 46711",,3,2,3686
-https://www.zillow.com/homedetails/1105-W-Main-St-Berne-IN-46711/85090053_zpid/,"1105 W Main St, Berne, IN 46711",,3,1,1230
-https://www.zillow.com/homedetails/1105-W-Water-St-Berne-IN-46711/85090027_zpid/,"1105 W Water St, Berne, IN 46711",,3,2,1580
-https://www.zillow.com/homedetails/1105-Westwind-Trl-Berne-IN-46711/85089930_zpid/,"1105 Westwind Trl, Berne, IN 46711",,3,2,1322
-https://www.zillow.com/homedetails/1106-Mill-Pond-Rd-Berne-IN-46711/85083798_zpid/,"1106 Mill Pond Rd, Berne, IN 46711",,3,2.5,1815
-https://www.zillow.com/homedetails/1106-W-Clark-St-Berne-IN-46711/85090051_zpid/,"1106 W Clark St, Berne, IN 46711",,3,2,1476
-https://www.zillow.com/homedetails/1106-W-Water-St-Berne-IN-46711/85090026_zpid/,"1106 W Water St, Berne, IN 46711",,3,2,1583
-https://www.zillow.com/homedetails/111-W-400-S-Berne-IN-46711/227853514_zpid/,"111 W 400 S, Berne, IN 46711",,5,0,4176
-https://www.zillow.com/homedetails/1110-W-400-S-Berne-IN-46711/85089864_zpid/,"1110 W 400 S, Berne, IN 46711",,3,2.5,2352
-https://www.zillow.com/homedetails/1111-Westwind-Trl-Berne-IN-46711/85089945_zpid/,"1111 Westwind Trl, Berne, IN 46711",,3,2.5,1787
-https://www.zillow.com/homedetails/1117-W-Main-St-Berne-IN-46711/85090041_zpid/,"1117 W Main St, Berne, IN 46711",,3,2,1648
-https://www.zillow.com/homedetails/1117-W-Water-St-Berne-IN-46711/85090043_zpid/,"1117 W Water St, Berne, IN 46711",,3,2,1480
-https://www.zillow.com/homedetails/1117-Westwind-Trl-Berne-IN-46711/85089931_zpid/,"1117 Westwind Trl, Berne, IN 46711",,4,2.5,1715
-https://www.zillow.com/homedetails/1118-W-Clark-St-Berne-IN-46711/85090042_zpid/,"1118 W Clark St, Berne, IN 46711",,3,1.5,1349
-https://www.zillow.com/homedetails/1118-W-Water-St-Berne-IN-46711/85090031_zpid/,"1118 W Water St, Berne, IN 46711",,3,2.5,1430
-https://www.zillow.com/homedetails/1120-W-500-S-Berne-IN-46711/85089918_zpid/,"1120 W 500 S, Berne, IN 46711",,2,3.5,2172
-https://www.zillow.com/homedetails/1121-W-500-S-Berne-IN-46711/85089868_zpid/,"1121 W 500 S, Berne, IN 46711",,4,0.5,3652
-https://www.zillow.com/homedetails/1122-E-700-S-Berne-IN-46711/85082428_zpid/,"1122 E 700 S, Berne, IN 46711",,3,1,1716
-https://www.zillow.com/homedetails/1123-W-Clark-St-Berne-IN-46711/85090040_zpid/,"1123 W Clark St, Berne, IN 46711",,4,3,2700
-https://www.zillow.com/homedetails/1123-W-Main-St-Berne-IN-46711/85090064_zpid/,"1123 W Main St, Berne, IN 46711",,3,2,1431
-https://www.zillow.com/homedetails/1123-W-Water-St-Berne-IN-46711/85090024_zpid/,"1123 W Water St, Berne, IN 46711",,4,2.5,1984
-https://www.zillow.com/homedetails/1123-Westwind-Trl-Berne-IN-46711/85089935_zpid/,"1123 Westwind Trl, Berne, IN 46711",,3,2,1558
-https://www.zillow.com/homedetails/1124-W-Clark-St-Berne-IN-46711/85090029_zpid/,"1124 W Clark St, Berne, IN 46711",,3,2,1940
-https://www.zillow.com/homedetails/1124-W-Water-St-Berne-IN-46711/85090058_zpid/,"1124 W Water St, Berne, IN 46711",,3,1.5,1997
-https://www.zillow.com/homedetails/1124-Westwind-Trl-Berne-IN-46711/227853715_zpid/,"1124 Westwind Trl, Berne, IN 46711",,4,2.5,2092
-https://www.zillow.com/homedetails/113-W-Van-Buren-St-Berne-IN-46711/85083291_zpid/,"113 W Van Buren St, Berne, IN 46711",,3,1,1506
-https://www.zillow.com/homedetails/1130-W-500-S-Berne-IN-46711/85089919_zpid/,"1130 W 500 S, Berne, IN 46711",,2,2,1787
-https://www.zillow.com/homedetails/1132-W-400-S-Berne-IN-46711/85089861_zpid/,"1132 W 400 S, Berne, IN 46711",,4,2,2533
-https://www.zillow.com/homedetails/114-W-Van-Buren-St-Berne-IN-46711/85083191_zpid/,"114 W Van Buren St, Berne, IN 46711",,5,1,1410
-https://www.zillow.com/homedetails/1146-Mill-Pond-Rd-Berne-IN-46711/85083803_zpid/,"1146 Mill Pond Rd, Berne, IN 46711",,3,2,1848
-https://www.zillow.com/homedetails/1155-W-Main-St-Berne-IN-46711/85090023_zpid/,"1155 W Main St, Berne, IN 46711",,2,1.5,1040
-https://www.zillow.com/homedetails/1165-Mill-Pond-Rd-Berne-IN-46711/85083765_zpid/,"1165 Mill Pond Rd, Berne, IN 46711",,4,4,3675
-https://www.zillow.com/homedetails/1166-W-400-S-Berne-IN-46711/85089859_zpid/,"1166 W 400 S, Berne, IN 46711",,3,3,2134
-https://www.zillow.com/homedetails/117-W-Adams-St-Berne-IN-46711/85090290_zpid/,"117 W Adams St, Berne, IN 46711",,2,1,1800
-https://www.zillow.com/homedetails/117-W-Parr-Rd-Berne-IN-46711/85090071_zpid/,"117 W Parr Rd, Berne, IN 46711",,3,1,1208
-https://www.zillow.com/homedetails/1176-Mill-Pond-Rd-Berne-IN-46711/85083791_zpid/,"1176 Mill Pond Rd, Berne, IN 46711",,3,2.5,2393
-https://www.zillow.com/homedetails/118-E-Adams-St-Berne-IN-46711/85090090_zpid/,"118 E Adams St, Berne, IN 46711",,3,1,1472
-https://www.zillow.com/homedetails/118-E-Water-St-Berne-IN-46711/85090210_zpid/,"118 E Water St, Berne, IN 46711",,3,2,1536
-https://www.zillow.com/homedetails/118-W-Adams-St-Berne-IN-46711/85090344_zpid/,"118 W Adams St, Berne, IN 46711",,3,1,1636
-https://www.zillow.com/homedetails/1185-Mill-Pond-Rd-Berne-IN-46711/85083794_zpid/,"1185 Mill Pond Rd, Berne, IN 46711",,4,3,1848
-https://www.zillow.com/homedetails/120-Hahnemann-Ct-Berne-IN-46711/97900751_zpid/,"120 Hahnemann Ct, Berne, IN 46711",,2,2,1465
-https://www.zillow.com/homedetails/1202-E-400-S-Berne-IN-46711/249944574_zpid/,"1202 E 400 S, Berne, IN 46711",,0,0,
-https://www.zillow.com/homedetails/1205-W-Main-St-Berne-IN-46711/85090046_zpid/,"1205 W Main St, Berne, IN 46711",,3,2,1381
-https://www.zillow.com/homedetails/1205-W-Water-St-Berne-IN-46711/85090025_zpid/,"1205 W Water St, Berne, IN 46711",,2,1.5,1528
-https://www.zillow.com/homedetails/1206-Clark-St-Berne-IN-46711/85090059_zpid/,"1206 Clark St, Berne, IN 46711",,3,1.5,1100
-https://www.zillow.com/homedetails/1206-Mill-Pond-Rd-Berne-IN-46711/85083796_zpid/,"1206 Mill Pond Rd, Berne, IN 46711",,6,2.5,3276
-https://www.zillow.com/homedetails/1206-W-Water-St-Berne-IN-46711/85090048_zpid/,"1206 W Water St, Berne, IN 46711",,3,3,1986
-https://www.zillow.com/homedetails/1206-Westwind-Trl-Berne-IN-46711/85089934_zpid/,"1206 Westwind Trl, Berne, IN 46711",,3,2,1409
-https://www.zillow.com/homedetails/1208-W-500-S-Berne-IN-46711/85089920_zpid/,"1208 W 500 S, Berne, IN 46711",,3,3,2186
-https://www.zillow.com/homedetails/121-Cleveland-St-Berne-IN-46711/300178145_zpid/,"121 Cleveland St, Berne, IN 46711",,0,0,
-https://www.zillow.com/homedetails/1211-Westwind-Trl-Berne-IN-46711/85089936_zpid/,"1211 Westwind Trl, Berne, IN 46711",,3,2,1431
-https://www.zillow.com/homedetails/1217-W-Water-St-Berne-IN-46711/85090056_zpid/,"1217 W Water St, Berne, IN 46711",,3,2.5,1590
-https://www.zillow.com/homedetails/1218-W-Clark-St-Berne-IN-46711/85090047_zpid/,"1218 W Clark St, Berne, IN 46711",,4,2.5,2567
-https://www.zillow.com/homedetails/1218-W-Water-St-Berne-IN-46711/85090049_zpid/,"1218 W Water St, Berne, IN 46711",,3,2.5,1983
-https://www.zillow.com/homedetails/1219-Carrington-Way-Berne-IN-46711/127040916_zpid/,"1219 Carrington Way, Berne, IN 46711",,2,3,1493
-https://www.zillow.com/homedetails/1220-Carrington-Way-Berne-IN-46711/85083751_zpid/,"1220 Carrington Way, Berne, IN 46711",,2,2,1479
-https://www.zillow.com/homedetails/1221-Westwind-Trl-Berne-IN-46711/227853705_zpid/,"1221 Westwind Trl, Berne, IN 46711",,3,3,1623
-https://www.zillow.com/homedetails/1223-W-Main-St-Berne-IN-46711/243086381_zpid/,"1223 W Main St, Berne, IN 46711",,3,2.5,3508
-https://www.zillow.com/homedetails/1223-W-Water-St-Berne-IN-46711/243086382_zpid/,"1223 W Water St, Berne, IN 46711",,4,2.5,1952
-https://www.zillow.com/homedetails/1224-W-Clark-St-Berne-IN-46711/85090063_zpid/,"1224 W Clark St, Berne, IN 46711",,3,2,1322
-https://www.zillow.com/homedetails/1224-W-Water-St-Berne-IN-46711/85090038_zpid/,"1224 W Water St, Berne, IN 46711",,6,3,2700
-https://www.zillow.com/homedetails/1224-Westwind-Trl-Berne-IN-46711/85089944_zpid/,"1224 Westwind Trl, Berne, IN 46711",,5,4,2655
-https://www.zillow.com/homedetails/1225-Hauptstrasse-Berne-IN-46711/85083523_zpid/,"1225 Hauptstrasse, Berne, IN 46711",,3,3,2872
-https://www.zillow.com/homedetails/1225-Soudastrasse-Berne-IN-46711/227855421_zpid/,"1225 Soudastrasse, Berne, IN 46711",,3,2.5,2052
-https://www.zillow.com/homedetails/1225-Stuckistrasse-Berne-IN-46711/85083527_zpid/,"1225 Stuckistrasse, Berne, IN 46711",,3,2.5,1864
-https://www.zillow.com/homedetails/1225-W-300-S-Berne-IN-46711/249944558_zpid/,"1225 W 300 S, Berne, IN 46711",,3,2,1972
-https://www.zillow.com/homedetails/1225-W-300-S-Berne-IN-46711/85089794_zpid/,"1225 W 300 S, Berne, IN 46711",,3,2,2610
-https://www.zillow.com/homedetails/1225-Yoderstrasse-Berne-IN-46711/85083544_zpid/,"1225 Yoderstrasse, Berne, IN 46711",,3,4,3572
-https://www.zillow.com/homedetails/1226-Hauptstrasse-Berne-IN-46711/85083555_zpid/,"1226 Hauptstrasse, Berne, IN 46711",,3,2,4000
-https://www.zillow.com/homedetails/1226-Yoderstrasse-Berne-IN-46711/85083554_zpid/,"1226 Yoderstrasse, Berne, IN 46711",,3,2.5,1718
-https://www.zillow.com/homedetails/1230-Carrington-Way-Berne-IN-46711/85083755_zpid/,"1230 Carrington Way, Berne, IN 46711",,2,2,1465
-https://www.zillow.com/homedetails/1231-Carrington-Way-Berne-IN-46711/94266696_zpid/,"1231 Carrington Way, Berne, IN 46711",,2,2,1509
-https://www.zillow.com/homedetails/1233-E-700-S-Berne-IN-46711/227854958_zpid/,"1233 E 700 S, Berne, IN 46711",,3,2.5,2548
-https://www.zillow.com/homedetails/1235-Hauptstrasse-Berne-IN-46711/85083520_zpid/,"1235 Hauptstrasse, Berne, IN 46711",,3,2,2257
-https://www.zillow.com/homedetails/1235-Soudastrasse-Berne-IN-46711/85083558_zpid/,"1235 Soudastrasse, Berne, IN 46711",,3,2,1600
-https://www.zillow.com/homedetails/1235-Stuckistrasse-Berne-IN-46711/85083540_zpid/,"1235 Stuckistrasse, Berne, IN 46711",,3,1.5,1508
-https://www.zillow.com/homedetails/1235-Yoderstrasse-Berne-IN-46711/85083521_zpid/,"1235 Yoderstrasse, Berne, IN 46711",,3,2,1494
-https://www.zillow.com/homedetails/1236-Hauptstrasse-Berne-IN-46711/85083559_zpid/,"1236 Hauptstrasse, Berne, IN 46711",,3,2,1488
-https://www.zillow.com/homedetails/1236-Soudastrasse-Berne-IN-46711/85083564_zpid/,"1236 Soudastrasse, Berne, IN 46711",,2,2,1633
-https://www.zillow.com/homedetails/1236-Stuckistrasse-Berne-IN-46711/85083539_zpid/,"1236 Stuckistrasse, Berne, IN 46711",,3,3,1440
-https://www.zillow.com/homedetails/1236-Yoderstrasse-Berne-IN-46711/85083553_zpid/,"1236 Yoderstrasse, Berne, IN 46711",,3,2,3758
-https://www.zillow.com/homedetails/1237-Carrington-Way-Berne-IN-46711/94266697_zpid/,"1237 Carrington Way, Berne, IN 46711",,2,2,1613
-https://www.zillow.com/homedetails/1240-Carrington-Way-Berne-IN-46711/85083754_zpid/,"1240 Carrington Way, Berne, IN 46711",,2,2,1452
-https://www.zillow.com/homedetails/1246-Mill-Pond-Rd-Berne-IN-46711/85083762_zpid/,"1246 Mill Pond Rd, Berne, IN 46711",,4,3,2074
-https://www.zillow.com/homedetails/1246-Soudastrasse-Berne-IN-46711/227855440_zpid/,"1246 Soudastrasse, Berne, IN 46711",,3,2,1504
-https://www.zillow.com/homedetails/125-Hahnemann-Ct-Berne-IN-46711/127038604_zpid/,"125 Hahnemann Ct, Berne, IN 46711",,2,2,1581
-https://www.zillow.com/homedetails/1250-Carrington-Way-Berne-IN-46711/85083753_zpid/,"1250 Carrington Way, Berne, IN 46711",,2,1.5,1466
-https://www.zillow.com/homedetails/1251-Carrington-Way-Berne-IN-46711/97900044_zpid/,"1251 Carrington Way, Berne, IN 46711",,2,2,1451
-https://www.zillow.com/homedetails/1252-W-500-S-Berne-IN-46711/85089917_zpid/,"1252 W 500 S, Berne, IN 46711",,3,2,1798
-https://www.zillow.com/homedetails/1254-W-700-S-Berne-IN-46711/85083862_zpid/,"1254 W 700 S, Berne, IN 46711",,4,1,2240
-https://www.zillow.com/homedetails/1255-Soudastrasse-Berne-IN-46711/85083557_zpid/,"1255 Soudastrasse, Berne, IN 46711",,3,3.5,1778
-https://www.zillow.com/homedetails/1255-Stuckistrasse-Berne-IN-46711/85083515_zpid/,"1255 Stuckistrasse, Berne, IN 46711",,3,3,2504
-https://www.zillow.com/homedetails/1255-Yoderstrasse-Berne-IN-46711/85083545_zpid/,"1255 Yoderstrasse, Berne, IN 46711",,4,2,1600
-https://www.zillow.com/homedetails/1256-Hauptstrasse-Berne-IN-46711/85083529_zpid/,"1256 Hauptstrasse, Berne, IN 46711",,3,2,1760
-https://www.zillow.com/homedetails/1256-Stuckistrasse-Berne-IN-46711/85083565_zpid/,"1256 Stuckistrasse, Berne, IN 46711",,5,3,2072
-https://www.zillow.com/homedetails/1256-Yoderstrasse-Berne-IN-46711/85083528_zpid/,"1256 Yoderstrasse, Berne, IN 46711",,3,3,1641
-https://www.zillow.com/homedetails/1257-Carrington-Way-Berne-IN-46711/97900755_zpid/,"1257 Carrington Way, Berne, IN 46711",,2,2,1437
-https://www.zillow.com/homedetails/1260-Carrington-Way-Berne-IN-46711/122665636_zpid/,"1260 Carrington Way, Berne, IN 46711",,2,2,1504
-https://www.zillow.com/homedetails/1260-Mill-Pond-Rd-Berne-IN-46711/94266698_zpid/,"1260 Mill Pond Rd, Berne, IN 46711",,5,4.5,4455
-https://www.zillow.com/homedetails/1260-1498-Emmental-Dr-Berne-IN-46711/243086379_zpid/,"1260-1498 Emmental Dr, Berne, IN 46711",,2,2,1381
-https://www.zillow.com/homedetails/1261-W-200-S-Berne-IN-46711/85090683_zpid/,"1261 W 200 S, Berne, IN 46711",,9,1,3016
-https://www.zillow.com/homedetails/1265-Hauptstrasse-Berne-IN-46711/85083526_zpid/,"1265 Hauptstrasse, Berne, IN 46711",,4,3,2688
-https://www.zillow.com/homedetails/1265-Mill-Pond-Rd-Berne-IN-46711/85083771_zpid/,"1265 Mill Pond Rd, Berne, IN 46711",,4,2.5,2155
-https://www.zillow.com/homedetails/1265-Soudastrasse-Berne-IN-46711/85083560_zpid/,"1265 Soudastrasse, Berne, IN 46711",,3,3,1870
-https://www.zillow.com/homedetails/1265-Stuckistrasse-Berne-IN-46711/85083570_zpid/,"1265 Stuckistrasse, Berne, IN 46711",,2,2,1608
-https://www.zillow.com/homedetails/1265-Yoderstrasse-Berne-IN-46711/85083514_zpid/,"1265 Yoderstrasse, Berne, IN 46711",,3,2,1440
-https://www.zillow.com/homedetails/1266-Hauptstrasse-Berne-IN-46711/85083510_zpid/,"1266 Hauptstrasse, Berne, IN 46711",,3,1,1296
-https://www.zillow.com/homedetails/1266-Soudastrasse-Berne-IN-46711/227855439_zpid/,"1266 Soudastrasse, Berne, IN 46711",,2,2,1201
-https://www.zillow.com/homedetails/1266-Stuckistrasse-Berne-IN-46711/85083513_zpid/,"1266 Stuckistrasse, Berne, IN 46711",,4,1.5,1840
-https://www.zillow.com/homedetails/1266-Yoderstrasse-Berne-IN-46711/85083532_zpid/,"1266 Yoderstrasse, Berne, IN 46711",,3,2,1762
-https://www.zillow.com/homedetails/1269-W-500-S-Berne-IN-46711/227853644_zpid/,"1269 W 500 S, Berne, IN 46711",,3,2.5,1933
-https://www.zillow.com/homedetails/1270-Carrington-Way-Berne-IN-46711/122663827_zpid/,"1270 Carrington Way, Berne, IN 46711",,2,2,1504
-https://www.zillow.com/homedetails/1275-Hauptstrasse-Berne-IN-46711/85083517_zpid/,"1275 Hauptstrasse, Berne, IN 46711",,3,2,1504
-https://www.zillow.com/homedetails/1275-Stuckistrasse-Berne-IN-46711/85083530_zpid/,"1275 Stuckistrasse, Berne, IN 46711",,3,2,1742
-https://www.zillow.com/homedetails/1275-Yoderstrasse-Berne-IN-46711/85083524_zpid/,"1275 Yoderstrasse, Berne, IN 46711",,3,2,1830
-https://www.zillow.com/homedetails/1276-Hauptstrasse-Berne-IN-46711/85083556_zpid/,"1276 Hauptstrasse, Berne, IN 46711",,3,2,1418
-https://www.zillow.com/homedetails/1276-Soudastrasse-Berne-IN-46711/85083563_zpid/,"1276 Soudastrasse, Berne, IN 46711",,3,2.5,2091
-https://www.zillow.com/homedetails/1276-Stuckistrasse-Berne-IN-46711/85083533_zpid/,"1276 Stuckistrasse, Berne, IN 46711",,3,2,1488
-https://www.zillow.com/homedetails/1276-Yoderstrasse-Berne-IN-46711/85083566_zpid/,"1276 Yoderstrasse, Berne, IN 46711",,4,3,1596
-https://www.zillow.com/homedetails/1280-Carrington-Way-Berne-IN-46711/111818808_zpid/,"1280 Carrington Way, Berne, IN 46711",,2,2.5,1594
-https://www.zillow.com/homedetails/1285-Hendricks-St-Berne-IN-46711/85083454_zpid/,"1285 Hendricks St, Berne, IN 46711",,3,1,1014
-https://www.zillow.com/homedetails/1290-Carrington-Way-Berne-IN-46711/111818809_zpid/,"1290 Carrington Way, Berne, IN 46711",,2,1.5,1580
-https://www.zillow.com/homedetails/1295-Hendricks-St-Berne-IN-46711/85083458_zpid/,"1295 Hendricks St, Berne, IN 46711",,3,1,960
-https://www.zillow.com/homedetails/1296-Hendricks-St-Berne-IN-46711/85083453_zpid/,"1296 Hendricks St, Berne, IN 46711",,3,1,950
-https://www.zillow.com/homedetails/130-Hahnemann-Ct-Berne-IN-46711/127039205_zpid/,"130 Hahnemann Ct, Berne, IN 46711",,0,2,1758
-https://www.zillow.com/homedetails/1304-Us-Highway-27-N-Berne-IN-46711/249944584_zpid/,"1304 Us Highway 27 N, Berne, IN 46711",,3,1,1216
-https://www.zillow.com/homedetails/1305-Hauptstrasse-Berne-IN-46711/85083541_zpid/,"1305 Hauptstrasse, Berne, IN 46711",,3,2,1608
-https://www.zillow.com/homedetails/1305-Hendricks-St-Berne-IN-46711/85083438_zpid/,"1305 Hendricks St, Berne, IN 46711",,3,1.5,1080
-https://www.zillow.com/homedetails/1305-Soudastrasse-Berne-IN-46711/97899817_zpid/,"1305 Soudastrasse, Berne, IN 46711",,2,3,1584
-https://www.zillow.com/homedetails/1305-Stuckistrasse-Berne-IN-46711/85083525_zpid/,"1305 Stuckistrasse, Berne, IN 46711",,3,2.5,1916
-https://www.zillow.com/homedetails/1305-Yoderstrasse-Berne-IN-46711/85083546_zpid/,"1305 Yoderstrasse, Berne, IN 46711",,4,2.5,2320
-https://www.zillow.com/homedetails/1306-Hauptstrasse-Berne-IN-46711/85083548_zpid/,"1306 Hauptstrasse, Berne, IN 46711",,3,2,1756
-https://www.zillow.com/homedetails/1306-Soudastrasse-Berne-IN-46711/227855437_zpid/,"1306 Soudastrasse, Berne, IN 46711",,3,2,1640
-https://www.zillow.com/homedetails/1306-Stuckistrasse-Berne-IN-46711/85083562_zpid/,"1306 Stuckistrasse, Berne, IN 46711",,3,2,1720
-https://www.zillow.com/homedetails/1306-Yoderstrasse-Berne-IN-46711/85083552_zpid/,"1306 Yoderstrasse, Berne, IN 46711",,3,2,1484
-https://www.zillow.com/homedetails/1315-Hendricks-St-Berne-IN-46711/85083434_zpid/,"1315 Hendricks St, Berne, IN 46711",,3,1,992
-https://www.zillow.com/homedetails/1322-E-450-S-Berne-IN-46711/227853591_zpid/,"1322 E 450 S, Berne, IN 46711",,3,0,1696
-https://www.zillow.com/homedetails/1325-Hauptstrasse-Berne-IN-46711/85083535_zpid/,"1325 Hauptstrasse, Berne, IN 46711",,4,2,2400
-https://www.zillow.com/homedetails/1325-Soudastrasse-Berne-IN-46711/97899818_zpid/,"1325 Soudastrasse, Berne, IN 46711",,4,3,3150
-https://www.zillow.com/homedetails/1325-Stuckistrasse-Berne-IN-46711/85083522_zpid/,"1325 Stuckistrasse, Berne, IN 46711",,4,2.5,2292
-https://www.zillow.com/homedetails/1325-Yoderstrasse-Berne-IN-46711/85083531_zpid/,"1325 Yoderstrasse, Berne, IN 46711",,3,2,1824
-https://www.zillow.com/homedetails/1326-Hauptstrasse-Berne-IN-46711/85083518_zpid/,"1326 Hauptstrasse, Berne, IN 46711",,3,2,1602
-https://www.zillow.com/homedetails/1326-Stuckistrasse-Berne-IN-46711/85083538_zpid/,"1326 Stuckistrasse, Berne, IN 46711",,3,2,1732
-https://www.zillow.com/homedetails/1326-Yoderstrasse-Berne-IN-46711/85083551_zpid/,"1326 Yoderstrasse, Berne, IN 46711",,4,2.5,2240
-https://www.zillow.com/homedetails/1332-W-350-S-Berne-IN-46711/85089833_zpid/,"1332 W 350 S, Berne, IN 46711",,1,1,1100
-https://www.zillow.com/homedetails/1335-Hendricks-St-Berne-IN-46711/85083442_zpid/,"1335 Hendricks St, Berne, IN 46711",,3,1,1032
-https://www.zillow.com/homedetails/1345-Colonial-Ct-Berne-IN-46711/85083419_zpid/,"1345 Colonial Ct, Berne, IN 46711",,3,2,1108
-https://www.zillow.com/homedetails/1345-Hauptstrasse-Berne-IN-46711/85083507_zpid/,"1345 Hauptstrasse, Berne, IN 46711",,3,2,1539
-https://www.zillow.com/homedetails/1345-Yoderstrasse-Berne-IN-46711/85083549_zpid/,"1345 Yoderstrasse, Berne, IN 46711",,3,2,1692
-https://www.zillow.com/homedetails/1346-Colonial-Ct-Berne-IN-46711/227855303_zpid/,"1346 Colonial Ct, Berne, IN 46711",,3,2,1344
-https://www.zillow.com/homedetails/1346-Hauptstrasse-Berne-IN-46711/85083519_zpid/,"1346 Hauptstrasse, Berne, IN 46711",,3,2,1741
-https://www.zillow.com/homedetails/1346-Hendricks-St-Berne-IN-46711/85083440_zpid/,"1346 Hendricks St, Berne, IN 46711",,5,2,1968
-https://www.zillow.com/homedetails/1346-Stuckistrasse-Berne-IN-46711/85083537_zpid/,"1346 Stuckistrasse, Berne, IN 46711",,3,2,1460
-https://www.zillow.com/homedetails/1346-Yoderstrasse-Berne-IN-46711/85083509_zpid/,"1346 Yoderstrasse, Berne, IN 46711",,3,1.5,1350
-https://www.zillow.com/homedetails/135-Hahnemann-Ct-Berne-IN-46711/111820402_zpid/,"135 Hahnemann Ct, Berne, IN 46711",,2,2,1494
-https://www.zillow.com/homedetails/1352-W-350-S-Berne-IN-46711/227853492_zpid/,"1352 W 350 S, Berne, IN 46711",,3,2,3429
-https://www.zillow.com/homedetails/1353-E-400-S-Berne-IN-46711/227853543_zpid/,"1353 E 400 S, Berne, IN 46711",,3,0,3228
-https://www.zillow.com/homedetails/1355-Hendricks-St-Berne-IN-46711/85083451_zpid/,"1355 Hendricks St, Berne, IN 46711",,3,1,1008
-https://www.zillow.com/homedetails/1356-E-650-S-Berne-IN-46711/227854959_zpid/,"1356 E 650 S, Berne, IN 46711",,3,1,1615
-https://www.zillow.com/homedetails/1357-Old-Colonial-Dr-Berne-IN-46711/227855676_zpid/,"1357 Old Colonial Dr, Berne, IN 46711",,4,2.5,2530
-https://www.zillow.com/homedetails/1361-W-300-S-Berne-IN-46711/227853454_zpid/,"1361 W 300 S, Berne, IN 46711",,3,2,1972
-https://www.zillow.com/homedetails/1363-W-500-S-Berne-IN-46711/85089869_zpid/,"1363 W 500 S, Berne, IN 46711",,3,2.5,2110
-https://www.zillow.com/homedetails/1365-Colonial-Ct-Berne-IN-46711/85083420_zpid/,"1365 Colonial Ct, Berne, IN 46711",,3,2,1138
-https://www.zillow.com/homedetails/1365-Glenwood-Ct-Berne-IN-46711/85083456_zpid/,"1365 Glenwood Ct, Berne, IN 46711",,3,2,1332
-https://www.zillow.com/homedetails/1365-Hauptstrasse-Berne-IN-46711/85083534_zpid/,"1365 Hauptstrasse, Berne, IN 46711",,4,2.5,1830
-https://www.zillow.com/homedetails/1365-Soudastrasse-Berne-IN-46711/85083561_zpid/,"1365 Soudastrasse, Berne, IN 46711",,3,3,1988
-https://www.zillow.com/homedetails/1365-Yoderstrasse-Berne-IN-46711/85083516_zpid/,"1365 Yoderstrasse, Berne, IN 46711",,3,2.5,1928
-https://www.zillow.com/homedetails/1366-Hendricks-St-Berne-IN-46711/85083441_zpid/,"1366 Hendricks St, Berne, IN 46711",,3,1,1008
-https://www.zillow.com/homedetails/1366-Soudastrasse-Berne-IN-46711/2096581727_zpid/,"1366 Soudastrasse, Berne, IN 46711",,3,2,1511
-https://www.zillow.com/homedetails/1366-Soudastrasse-Berne-IN-46711/227855434_zpid/,"1366 Soudastrasse, Berne, IN 46711",,3,3,1511
-https://www.zillow.com/homedetails/1366-Stuckistrasse-Berne-IN-46711/227855375_zpid/,"1366 Stuckistrasse, Berne, IN 46711",,3,2,1428
-https://www.zillow.com/homedetails/1366-Yoderstrasse-Berne-IN-46711/85083569_zpid/,"1366 Yoderstrasse, Berne, IN 46711",,3,2,1677
-https://www.zillow.com/homedetails/1367-E-400-S-Berne-IN-46711/227853542_zpid/,"1367 E 400 S, Berne, IN 46711",,2,0.5,2688
-https://www.zillow.com/homedetails/1375-Hendricks-St-Berne-IN-46711/85083425_zpid/,"1375 Hendricks St, Berne, IN 46711",,3,1,1008
-https://www.zillow.com/homedetails/1375-Old-Colonial-Dr-Berne-IN-46711/85083758_zpid/,"1375 Old Colonial Dr, Berne, IN 46711",,3,2.5,1724
-https://www.zillow.com/homedetails/1380-Carrington-Way-Berne-IN-46711/251678319_zpid/,"1380 Carrington Way, Berne, IN 46711",,0,0,
-https://www.zillow.com/homedetails/1380-Carrington-Way-Berne-IN-46711/251678321_zpid/,"1380 Carrington Way, Berne, IN 46711",,3,2.5,1627
-https://www.zillow.com/homedetails/1383-W-400-S-Berne-IN-46711/227853495_zpid/,"1383 W 400 S, Berne, IN 46711",,7,0,3776
-https://www.zillow.com/homedetails/1385-Hauptstrasse-Berne-IN-46711/85083512_zpid/,"1385 Hauptstrasse, Berne, IN 46711",,4,2.5,1970
-https://www.zillow.com/homedetails/1385-Soudastrasse-Berne-IN-46711/94263671_zpid/,"1385 Soudastrasse, Berne, IN 46711",,3,3,1729
-https://www.zillow.com/homedetails/1385-Stuckistrasse-Berne-IN-46711/85083568_zpid/,"1385 Stuckistrasse, Berne, IN 46711",,3,2.5,2388
-https://www.zillow.com/homedetails/1385-Yoderstrasse-Berne-IN-46711/227855407_zpid/,"1385 Yoderstrasse, Berne, IN 46711",,4,4.5,3322
-https://www.zillow.com/homedetails/1386-Hauptstrasse-Berne-IN-46711/111820407_zpid/,"1386 Hauptstrasse, Berne, IN 46711",,3,2.5,3493
-https://www.zillow.com/homedetails/1386-Old-Colonial-Dr-Berne-IN-46711/85083811_zpid/,"1386 Old Colonial Dr, Berne, IN 46711",,4,2.5,2036
-https://www.zillow.com/homedetails/1386-Soudastrasse-Berne-IN-46711/227855433_zpid/,"1386 Soudastrasse, Berne, IN 46711",,0,0,
-https://www.zillow.com/homedetails/1386-Stuckistrasse-Berne-IN-46711/85083571_zpid/,"1386 Stuckistrasse, Berne, IN 46711",,3,2.5,1920
-https://www.zillow.com/homedetails/1386-Yoderstrasse-Berne-IN-46711/85083550_zpid/,"1386 Yoderstrasse, Berne, IN 46711",,4,3.5,1740
-https://www.zillow.com/homedetails/1388-W-300-S-Berne-IN-46711/227853484_zpid/,"1388 W 300 S, Berne, IN 46711",,4,2,2187
-https://www.zillow.com/homedetails/1390-Carrington-Way-Berne-IN-46711/251678323_zpid/,"1390 Carrington Way, Berne, IN 46711",,3,2,1713
-https://www.zillow.com/homedetails/1395-Claw-Ct-Berne-IN-46711/251678328_zpid/,"1395 Claw Ct, Berne, IN 46711",,4,3.5,1873
-https://www.zillow.com/homedetails/1395-Colonial-Ct-Berne-IN-46711/85083421_zpid/,"1395 Colonial Ct, Berne, IN 46711",,3,2,1301
-https://www.zillow.com/homedetails/1395-Glenwood-Ct-Berne-IN-46711/97899819_zpid/,"1395 Glenwood Ct, Berne, IN 46711",,3,2,1108
-https://www.zillow.com/homedetails/1395-Hendricks-St-Berne-IN-46711/85083445_zpid/,"1395 Hendricks St, Berne, IN 46711",,3,1,984
-https://www.zillow.com/homedetails/1395-Old-Colonial-Dr-Berne-IN-46711/85083806_zpid/,"1395 Old Colonial Dr, Berne, IN 46711",,3,2,1656
-https://www.zillow.com/homedetails/1396-E-700-S-Berne-IN-46711/249944674_zpid/,"1396 E 700 S, Berne, IN 46711",,4,2,3520
-https://www.zillow.com/homedetails/1396-Glenwood-Ct-Berne-IN-46711/227855291_zpid/,"1396 Glenwood Ct, Berne, IN 46711",,3,1.5,1440
-https://www.zillow.com/homedetails/1396-Hendricks-St-Berne-IN-46711/85083450_zpid/,"1396 Hendricks St, Berne, IN 46711",,3,1,1008
-https://www.zillow.com/homedetails/140-Hahnemann-Ct-Berne-IN-46711/127040913_zpid/,"140 Hahnemann Ct, Berne, IN 46711",,2,2.5,1750
-https://www.zillow.com/homedetails/1400-Carrington-Way-Berne-IN-46711/251678327_zpid/,"1400 Carrington Way, Berne, IN 46711",,3,2.5,2667
-https://www.zillow.com/homedetails/1405-Colonial-Ct-Berne-IN-46711/85083422_zpid/,"1405 Colonial Ct, Berne, IN 46711",,3,2,1081
-https://www.zillow.com/homedetails/1405-Hendricks-St-Berne-IN-46711/85083439_zpid/,"1405 Hendricks St, Berne, IN 46711",,3,1.5,1056
-https://www.zillow.com/homedetails/1406-Hendricks-St-Berne-IN-46711/85083431_zpid/,"1406 Hendricks St, Berne, IN 46711",,3,1,960
-https://www.zillow.com/homedetails/1410-E-State-Road-218-Berne-IN-46711/227854948_zpid/,"1410 E State Road 218, Berne, IN 46711",,5,0,2790
-https://www.zillow.com/homedetails/1422-Carrington-Way-Berne-IN-46711/124604578_zpid/,"1422 Carrington Way, Berne, IN 46711",,3,3,3073
-https://www.zillow.com/homedetails/1425-Colonial-Ct-Berne-IN-46711/227855298_zpid/,"1425 Colonial Ct, Berne, IN 46711",,3,2,1303
-https://www.zillow.com/homedetails/1425-Glenwood-Ct-Berne-IN-46711/94263672_zpid/,"1425 Glenwood Ct, Berne, IN 46711",,2,2,962
-https://www.zillow.com/homedetails/1425-Hendricks-St-Berne-IN-46711/85083447_zpid/,"1425 Hendricks St, Berne, IN 46711",,3,1,1008
-https://www.zillow.com/homedetails/1425-Old-Colonial-Dr-Berne-IN-46711/94266700_zpid/,"1425 Old Colonial Dr, Berne, IN 46711",,2,2.5,1789
+,link,address,list_price,beds,baths,sqft
+0,https://www.zillow.com/homedetails/100-W-Wabash-St-Berne-IN-46711/85083197_zpid/,"100 W Wabash St, Berne, IN 46711",,2,0.0,1080.0
+1,https://www.zillow.com/homedetails/1002-Dearborn-St-Berne-IN-46711/85083731_zpid/,"1002 Dearborn St, Berne, IN 46711",,3,1.5,1700.0
+2,https://www.zillow.com/homedetails/1005-Dearborn-St-Berne-IN-46711/85083711_zpid/,"1005 Dearborn St, Berne, IN 46711",,3,2.0,1746.0
+3,https://www.zillow.com/homedetails/1005-E-Main-St-Berne-IN-46711/300206297_zpid/,"1005 E Main St, Berne, IN 46711",,0,0.0,4500.0
+4,https://www.zillow.com/homedetails/1005-Mill-Pond-Rd-Berne-IN-46711/85083738_zpid/,"1005 Mill Pond Rd, Berne, IN 46711",,3,3.0,1548.0
+5,https://www.zillow.com/homedetails/1005-W-Main-St-Berne-IN-46711/85090066_zpid/,"1005 W Main St, Berne, IN 46711",,3,1.0,1922.0
+6,https://www.zillow.com/homedetails/1005-W-Water-St-Berne-IN-46711/227853855_zpid/,"1005 W Water St, Berne, IN 46711",,3,2.5,1800.0
+7,https://www.zillow.com/homedetails/1006-E-Main-St-Berne-IN-46711/227855212_zpid/,"1006 E Main St, Berne, IN 46711",,4,2.0,2144.0
+8,https://www.zillow.com/homedetails/1006-Mill-Pond-Rd-Berne-IN-46711/85083743_zpid/,"1006 Mill Pond Rd, Berne, IN 46711",,3,3.0,2028.0
+9,https://www.zillow.com/homedetails/1006-W-Clark-St-Berne-IN-46711/85090044_zpid/,"1006 W Clark St, Berne, IN 46711",,3,1.0,936.0
+10,https://www.zillow.com/homedetails/1011-E-State-Road-218-Berne-IN-46711/227854272_zpid/,"1011 E State Road 218, Berne, IN 46711",,1,0.0,1760.0
+11,https://www.zillow.com/homedetails/1011-W-Water-St-Berne-IN-46711/2075437525_zpid/,"1011 W Water St, Berne, IN 46711",,3,3.0,1880.0
+12,https://www.zillow.com/homedetails/1012-Dearborn-St-Berne-IN-46711/85083723_zpid/,"1012 Dearborn St, Berne, IN 46711",,3,1.5,1456.0
+13,https://www.zillow.com/homedetails/1012-W-700-S-Berne-IN-46711/85083864_zpid/,"1012 W 700 S, Berne, IN 46711",,4,0.0,1848.0
+14,https://www.zillow.com/homedetails/1012-W-Water-St-Berne-IN-46711/85090065_zpid/,"1012 W Water St, Berne, IN 46711",,3,2.0,1410.0
+15,https://www.zillow.com/homedetails/1015-W-Main-St-Berne-IN-46711/85090067_zpid/,"1015 W Main St, Berne, IN 46711",,4,3.0,2174.0
+16,https://www.zillow.com/homedetails/1017-Dearborn-St-Berne-IN-46711/85083694_zpid/,"1017 Dearborn St, Berne, IN 46711",,4,2.0,2157.0
+17,https://www.zillow.com/homedetails/1017-Rose-Ln-Berne-IN-46711/85083700_zpid/,"1017 Rose Ln, Berne, IN 46711",,3,2.0,1700.0
+18,https://www.zillow.com/homedetails/1017-W-Water-St-Berne-IN-46711/2069878170_zpid/,"1017 W Water St, Berne, IN 46711",,3,3.0,2065.0
+19,https://www.zillow.com/homedetails/1018-Rose-Ln-Berne-IN-46711/85083701_zpid/,"1018 Rose Ln, Berne, IN 46711",,4,2.0,1428.0
+20,https://www.zillow.com/homedetails/1018-W-Clark-St-Berne-IN-46711/85090034_zpid/,"1018 W Clark St, Berne, IN 46711",,3,2.0,1624.0
+21,https://www.zillow.com/homedetails/102-W-300-S-Berne-IN-46711/227853506_zpid/,"102 W 300 S, Berne, IN 46711",,4,3.5,2308.0
+22,https://www.zillow.com/homedetails/1020-Dearborn-St-Berne-IN-46711/85083732_zpid/,"1020 Dearborn St, Berne, IN 46711",,3,2.0,1479.0
+23,https://www.zillow.com/homedetails/1020-W-Main-St-Berne-IN-46711/251677995_zpid/,"1020 W Main St, Berne, IN 46711",,1,1.0,728.0
+24,https://www.zillow.com/homedetails/1021-E-550-S-Berne-IN-46711/227857390_zpid/,"1021 E 550 S, Berne, IN 46711",,3,2.5,1456.0
+25,https://www.zillow.com/homedetails/1022-E-550-S-Berne-IN-46711/85090458_zpid/,"1022 E 550 S, Berne, IN 46711",,4,1.5,2060.0
+26,https://www.zillow.com/homedetails/1023-W-Main-St-Berne-IN-46711/85090028_zpid/,"1023 W Main St, Berne, IN 46711",,3,1.5,1377.0
+27,https://www.zillow.com/homedetails/1023-W-Water-St-Berne-IN-46711/85090032_zpid/,"1023 W Water St, Berne, IN 46711",,3,1.5,1676.0
+28,https://www.zillow.com/homedetails/1024-Rose-Ln-Berne-IN-46711/85083690_zpid/,"1024 Rose Ln, Berne, IN 46711",,4,3.5,3258.0
+29,https://www.zillow.com/homedetails/1024-W-Water-St-Berne-IN-46711/85090039_zpid/,"1024 W Water St, Berne, IN 46711",,2,1.0,1159.0
+30,https://www.zillow.com/homedetails/1026-W-Clark-St-Berne-IN-46711/85090035_zpid/,"1026 W Clark St, Berne, IN 46711",,3,2.0,1449.0
+31,https://www.zillow.com/homedetails/1027-W-700-S-Berne-IN-46711/85083822_zpid/,"1027 W 700 S, Berne, IN 46711",,3,2.0,1851.0
+32,https://www.zillow.com/homedetails/1030-W-350-S-Berne-IN-46711/85089834_zpid/,"1030 W 350 S, Berne, IN 46711",,3,1.5,1056.0
+33,https://www.zillow.com/homedetails/1033-E-450-S-Berne-IN-46711/85089839_zpid/,"1033 E 450 S, Berne, IN 46711",,3,1.5,1444.0
+34,https://www.zillow.com/homedetails/1034-W-700-S-Berne-IN-46711/85083863_zpid/,"1034 W 700 S, Berne, IN 46711",,4,2.0,1344.0
+35,https://www.zillow.com/homedetails/1035-Black-Bear-Path-Berne-IN-46711/251678300_zpid/,"1035 Black Bear Path, Berne, IN 46711",,3,2.0,2340.0
+36,https://www.zillow.com/homedetails/1035-W-Dearborn-St-Berne-IN-46711/85083673_zpid/,"1035 W Dearborn St, Berne, IN 46711",,3,2.5,1754.0
+37,https://www.zillow.com/homedetails/1037-W-700-S-Berne-IN-46711/85083837_zpid/,"1037 W 700 S, Berne, IN 46711",,3,2.0,1782.0
+38,https://www.zillow.com/homedetails/104-E-Main-St-Berne-IN-46711/2140873431_zpid/,"104 E Main St, Berne, IN 46711",,0,0.5,22320.0
+39,https://www.zillow.com/homedetails/104-W-Van-Buren-St-Berne-IN-46711/85083309_zpid/,"104 W Van Buren St, Berne, IN 46711",,4,2.5,1762.0
+40,https://www.zillow.com/homedetails/1040-Dearborn-St-Berne-IN-46711/85083725_zpid/,"1040 Dearborn St, Berne, IN 46711",,3,2.0,1594.0
+41,https://www.zillow.com/homedetails/1046-Mill-Pond-Rd-Berne-IN-46711/85083764_zpid/,"1046 Mill Pond Rd, Berne, IN 46711",,3,2.5,2459.0
+42,https://www.zillow.com/homedetails/1049-W-200-S-Berne-IN-46711/85090684_zpid/,"1049 W 200 S, Berne, IN 46711",,6,0.0,2228.0
+43,https://www.zillow.com/homedetails/105-E-Parr-Rd-Berne-IN-46711/85090072_zpid/,"105 E Parr Rd, Berne, IN 46711",,3,1.0,1387.0
+44,https://www.zillow.com/homedetails/105-Portland-St-Berne-IN-46711/111820380_zpid/,"105 Portland St, Berne, IN 46711",,3,2.0,1648.0
+45,https://www.zillow.com/homedetails/1050-Black-Bear-Path-Berne-IN-46711/251678299_zpid/,"1050 Black Bear Path, Berne, IN 46711",,0,0.0,
+46,https://www.zillow.com/homedetails/1055-Rose-Ln-Berne-IN-46711/85083712_zpid/,"1055 Rose Ln, Berne, IN 46711",,3,4.0,3000.0
+47,https://www.zillow.com/homedetails/1055-W-Main-St-Berne-IN-46711/85090054_zpid/,"1055 W Main St, Berne, IN 46711",,3,2.0,1235.0
+48,https://www.zillow.com/homedetails/1055-W-Water-St-Berne-IN-46711/85090036_zpid/,"1055 W Water St, Berne, IN 46711",,3,1.5,1430.0
+49,https://www.zillow.com/homedetails/1056-Rose-Ln-Berne-IN-46711/85083679_zpid/,"1056 Rose Ln, Berne, IN 46711",,4,2.5,1873.0
+50,https://www.zillow.com/homedetails/1056-W-Clark-St-Berne-IN-46711/85090045_zpid/,"1056 W Clark St, Berne, IN 46711",,3,1.0,1192.0
+51,https://www.zillow.com/homedetails/1056-W-Water-St-Berne-IN-46711/85090062_zpid/,"1056 W Water St, Berne, IN 46711",,3,1.5,1214.0
+52,https://www.zillow.com/homedetails/1065-W-Main-St-Berne-IN-46711/85090057_zpid/,"1065 W Main St, Berne, IN 46711",,3,2.0,1176.0
+53,https://www.zillow.com/homedetails/1065-W-Water-St-Berne-IN-46711/85090052_zpid/,"1065 W Water St, Berne, IN 46711",,3,1.5,1344.0
+54,https://www.zillow.com/homedetails/1066-W-Clark-St-Berne-IN-46711/85090061_zpid/,"1066 W Clark St, Berne, IN 46711",,3,1.5,1628.0
+55,https://www.zillow.com/homedetails/1066-W-Water-St-Berne-IN-46711/85090055_zpid/,"1066 W Water St, Berne, IN 46711",,2,1.5,1150.0
+56,https://www.zillow.com/homedetails/1075-W-Main-St-Berne-IN-46711/85090030_zpid/,"1075 W Main St, Berne, IN 46711",,3,1.5,1497.0
+57,https://www.zillow.com/homedetails/1075-W-Water-St-Berne-IN-46711/85090033_zpid/,"1075 W Water St, Berne, IN 46711",,2,2.0,1597.0
+58,https://www.zillow.com/homedetails/1076-Mill-Pond-Rd-Berne-IN-46711/85083739_zpid/,"1076 Mill Pond Rd, Berne, IN 46711",,3,2.0,1651.0
+59,https://www.zillow.com/homedetails/1076-W-Clark-St-Berne-IN-46711/85090060_zpid/,"1076 W Clark St, Berne, IN 46711",,3,2.0,1941.0
+60,https://www.zillow.com/homedetails/1076-W-Water-St-Berne-IN-46711/85090050_zpid/,"1076 W Water St, Berne, IN 46711",,3,1.5,1944.0
+61,https://www.zillow.com/homedetails/1080-W-500-S-Berne-IN-46711/2128863397_zpid/,"1080 W 500 S, Berne, IN 46711",,0,0.5,4856.0
+62,https://www.zillow.com/homedetails/1080-W-Main-St-Berne-IN-46711/85082654_zpid/,"1080 W Main St, Berne, IN 46711",,3,2.0,1962.0
+63,https://www.zillow.com/homedetails/1090-W-400-S-Berne-IN-46711/85089862_zpid/,"1090 W 400 S, Berne, IN 46711",,3,1.5,1485.0
+64,https://www.zillow.com/homedetails/1095-S-Us-Highway-27-Berne-IN-46711/243086393_zpid/,"1095 S Us Highway 27, Berne, IN 46711",,2,1.5,1855.0
+65,https://www.zillow.com/homedetails/1096-Hendricks-St-Berne-IN-46711/85083415_zpid/,"1096 Hendricks St, Berne, IN 46711",,4,1.5,1628.0
+66,https://www.zillow.com/homedetails/11-E-700-S-Berne-IN-46711/85083108_zpid/,"11 E 700 S, Berne, IN 46711",,2,0.0,1665.0
+67,https://www.zillow.com/homedetails/110-E-550-S-Berne-IN-46711/85090451_zpid/,"110 E 550 S, Berne, IN 46711",,3,2.0,2519.0
+68,https://www.zillow.com/homedetails/110-Hahnemann-Ct-Berne-IN-46711/97900746_zpid/,"110 Hahnemann Ct, Berne, IN 46711",,2,2.0,1494.0
+69,https://www.zillow.com/homedetails/110-Poplar-Ave-Berne-IN-46711/85083359_zpid/,"110 Poplar Ave, Berne, IN 46711",,2,3.0,3652.0
+70,https://www.zillow.com/homedetails/1100-Swiss-Way-Berne-IN-46711/249944586_zpid/,"1100 Swiss Way, Berne, IN 46711",,3,0.0,936.0
+71,https://www.zillow.com/homedetails/1105-W-Clark-St-Berne-IN-46711/85090037_zpid/,"1105 W Clark St, Berne, IN 46711",,3,2.0,3686.0
+72,https://www.zillow.com/homedetails/1105-W-Main-St-Berne-IN-46711/85090053_zpid/,"1105 W Main St, Berne, IN 46711",,3,1.0,1230.0
+73,https://www.zillow.com/homedetails/1105-W-Water-St-Berne-IN-46711/85090027_zpid/,"1105 W Water St, Berne, IN 46711",,3,2.0,1580.0
+74,https://www.zillow.com/homedetails/1105-Westwind-Trl-Berne-IN-46711/85089930_zpid/,"1105 Westwind Trl, Berne, IN 46711",,3,2.0,1322.0
+75,https://www.zillow.com/homedetails/1106-Mill-Pond-Rd-Berne-IN-46711/85083798_zpid/,"1106 Mill Pond Rd, Berne, IN 46711",,3,2.5,1815.0
+76,https://www.zillow.com/homedetails/1106-W-Clark-St-Berne-IN-46711/85090051_zpid/,"1106 W Clark St, Berne, IN 46711",,3,2.0,1476.0
+77,https://www.zillow.com/homedetails/1106-W-Water-St-Berne-IN-46711/85090026_zpid/,"1106 W Water St, Berne, IN 46711",,3,2.0,1583.0
+78,https://www.zillow.com/homedetails/111-W-400-S-Berne-IN-46711/227853514_zpid/,"111 W 400 S, Berne, IN 46711",,5,0.0,4176.0
+79,https://www.zillow.com/homedetails/1110-W-400-S-Berne-IN-46711/85089864_zpid/,"1110 W 400 S, Berne, IN 46711",,3,2.5,2352.0
+80,https://www.zillow.com/homedetails/1111-Westwind-Trl-Berne-IN-46711/85089945_zpid/,"1111 Westwind Trl, Berne, IN 46711",,3,2.5,1787.0
+81,https://www.zillow.com/homedetails/1117-W-Main-St-Berne-IN-46711/85090041_zpid/,"1117 W Main St, Berne, IN 46711",,3,2.0,1648.0
+82,https://www.zillow.com/homedetails/1117-W-Water-St-Berne-IN-46711/85090043_zpid/,"1117 W Water St, Berne, IN 46711",,3,2.0,1480.0
+83,https://www.zillow.com/homedetails/1117-Westwind-Trl-Berne-IN-46711/85089931_zpid/,"1117 Westwind Trl, Berne, IN 46711",,4,2.5,1715.0
+84,https://www.zillow.com/homedetails/1118-W-Clark-St-Berne-IN-46711/85090042_zpid/,"1118 W Clark St, Berne, IN 46711",,3,1.5,1349.0
+85,https://www.zillow.com/homedetails/1118-W-Water-St-Berne-IN-46711/85090031_zpid/,"1118 W Water St, Berne, IN 46711",,3,2.5,1430.0
+86,https://www.zillow.com/homedetails/1120-W-500-S-Berne-IN-46711/85089918_zpid/,"1120 W 500 S, Berne, IN 46711",,2,3.5,2172.0
+87,https://www.zillow.com/homedetails/1121-W-500-S-Berne-IN-46711/85089868_zpid/,"1121 W 500 S, Berne, IN 46711",,4,0.5,3652.0
+88,https://www.zillow.com/homedetails/1122-E-700-S-Berne-IN-46711/85082428_zpid/,"1122 E 700 S, Berne, IN 46711",,3,1.0,1716.0
+89,https://www.zillow.com/homedetails/1123-W-Clark-St-Berne-IN-46711/85090040_zpid/,"1123 W Clark St, Berne, IN 46711",,4,3.0,2700.0
+90,https://www.zillow.com/homedetails/1123-W-Main-St-Berne-IN-46711/85090064_zpid/,"1123 W Main St, Berne, IN 46711",,3,2.0,1431.0
+91,https://www.zillow.com/homedetails/1123-W-Water-St-Berne-IN-46711/85090024_zpid/,"1123 W Water St, Berne, IN 46711",,4,2.5,1984.0
+92,https://www.zillow.com/homedetails/1123-Westwind-Trl-Berne-IN-46711/85089935_zpid/,"1123 Westwind Trl, Berne, IN 46711",,3,2.0,1558.0
+93,https://www.zillow.com/homedetails/1124-W-Clark-St-Berne-IN-46711/85090029_zpid/,"1124 W Clark St, Berne, IN 46711",,3,2.0,1940.0
+94,https://www.zillow.com/homedetails/1124-W-Water-St-Berne-IN-46711/85090058_zpid/,"1124 W Water St, Berne, IN 46711",,3,1.5,1997.0
+95,https://www.zillow.com/homedetails/1124-Westwind-Trl-Berne-IN-46711/227853715_zpid/,"1124 Westwind Trl, Berne, IN 46711",,4,2.5,2092.0
+96,https://www.zillow.com/homedetails/113-W-Van-Buren-St-Berne-IN-46711/85083291_zpid/,"113 W Van Buren St, Berne, IN 46711",,3,1.0,1506.0
+97,https://www.zillow.com/homedetails/1130-W-500-S-Berne-IN-46711/85089919_zpid/,"1130 W 500 S, Berne, IN 46711",,2,2.0,1787.0
+98,https://www.zillow.com/homedetails/1132-W-400-S-Berne-IN-46711/85089861_zpid/,"1132 W 400 S, Berne, IN 46711",,4,2.0,2533.0
+99,https://www.zillow.com/homedetails/114-W-Van-Buren-St-Berne-IN-46711/85083191_zpid/,"114 W Van Buren St, Berne, IN 46711",,5,1.0,1410.0
+100,https://www.zillow.com/homedetails/1146-Mill-Pond-Rd-Berne-IN-46711/85083803_zpid/,"1146 Mill Pond Rd, Berne, IN 46711",,3,2.0,1848.0
+101,https://www.zillow.com/homedetails/1155-W-Main-St-Berne-IN-46711/85090023_zpid/,"1155 W Main St, Berne, IN 46711",,2,1.5,1040.0
+102,https://www.zillow.com/homedetails/1165-Mill-Pond-Rd-Berne-IN-46711/85083765_zpid/,"1165 Mill Pond Rd, Berne, IN 46711",,4,4.0,3675.0
+103,https://www.zillow.com/homedetails/1166-W-400-S-Berne-IN-46711/85089859_zpid/,"1166 W 400 S, Berne, IN 46711",,3,3.0,2134.0
+104,https://www.zillow.com/homedetails/117-W-Adams-St-Berne-IN-46711/85090290_zpid/,"117 W Adams St, Berne, IN 46711",,2,1.0,1800.0
+105,https://www.zillow.com/homedetails/117-W-Parr-Rd-Berne-IN-46711/85090071_zpid/,"117 W Parr Rd, Berne, IN 46711",,3,1.0,1208.0
+106,https://www.zillow.com/homedetails/1176-Mill-Pond-Rd-Berne-IN-46711/85083791_zpid/,"1176 Mill Pond Rd, Berne, IN 46711",,3,2.5,2393.0
+107,https://www.zillow.com/homedetails/118-E-Adams-St-Berne-IN-46711/85090090_zpid/,"118 E Adams St, Berne, IN 46711",,3,1.0,1472.0
+108,https://www.zillow.com/homedetails/118-E-Water-St-Berne-IN-46711/85090210_zpid/,"118 E Water St, Berne, IN 46711",,3,2.0,1536.0
+109,https://www.zillow.com/homedetails/118-W-Adams-St-Berne-IN-46711/85090344_zpid/,"118 W Adams St, Berne, IN 46711",,3,1.0,1636.0
+110,https://www.zillow.com/homedetails/1185-Mill-Pond-Rd-Berne-IN-46711/85083794_zpid/,"1185 Mill Pond Rd, Berne, IN 46711",,4,3.0,1848.0
+111,https://www.zillow.com/homedetails/120-Hahnemann-Ct-Berne-IN-46711/97900751_zpid/,"120 Hahnemann Ct, Berne, IN 46711",,2,2.0,1465.0
+112,https://www.zillow.com/homedetails/1202-E-400-S-Berne-IN-46711/249944574_zpid/,"1202 E 400 S, Berne, IN 46711",,0,0.0,
+113,https://www.zillow.com/homedetails/1205-W-Main-St-Berne-IN-46711/85090046_zpid/,"1205 W Main St, Berne, IN 46711",,3,2.0,1381.0
+114,https://www.zillow.com/homedetails/1205-W-Water-St-Berne-IN-46711/85090025_zpid/,"1205 W Water St, Berne, IN 46711",,2,1.5,1528.0
+115,https://www.zillow.com/homedetails/1206-Clark-St-Berne-IN-46711/85090059_zpid/,"1206 Clark St, Berne, IN 46711",,3,1.5,1100.0
+116,https://www.zillow.com/homedetails/1206-Mill-Pond-Rd-Berne-IN-46711/85083796_zpid/,"1206 Mill Pond Rd, Berne, IN 46711",,6,2.5,3276.0
+117,https://www.zillow.com/homedetails/1206-W-Water-St-Berne-IN-46711/85090048_zpid/,"1206 W Water St, Berne, IN 46711",,3,3.0,1986.0
+118,https://www.zillow.com/homedetails/1206-Westwind-Trl-Berne-IN-46711/85089934_zpid/,"1206 Westwind Trl, Berne, IN 46711",,3,2.0,1409.0
+119,https://www.zillow.com/homedetails/1208-W-500-S-Berne-IN-46711/85089920_zpid/,"1208 W 500 S, Berne, IN 46711",,3,3.0,2186.0
+120,https://www.zillow.com/homedetails/121-Cleveland-St-Berne-IN-46711/300178145_zpid/,"121 Cleveland St, Berne, IN 46711",,0,0.0,
+121,https://www.zillow.com/homedetails/1211-Westwind-Trl-Berne-IN-46711/85089936_zpid/,"1211 Westwind Trl, Berne, IN 46711",,3,2.0,1431.0
+122,https://www.zillow.com/homedetails/1217-W-Water-St-Berne-IN-46711/85090056_zpid/,"1217 W Water St, Berne, IN 46711",,3,2.5,1590.0
+123,https://www.zillow.com/homedetails/1218-W-Clark-St-Berne-IN-46711/85090047_zpid/,"1218 W Clark St, Berne, IN 46711",,4,2.5,2567.0
+124,https://www.zillow.com/homedetails/1218-W-Water-St-Berne-IN-46711/85090049_zpid/,"1218 W Water St, Berne, IN 46711",,3,2.5,1983.0
+125,https://www.zillow.com/homedetails/1219-Carrington-Way-Berne-IN-46711/127040916_zpid/,"1219 Carrington Way, Berne, IN 46711",,2,3.0,1493.0
+126,https://www.zillow.com/homedetails/1220-Carrington-Way-Berne-IN-46711/85083751_zpid/,"1220 Carrington Way, Berne, IN 46711",,2,2.0,1479.0
+127,https://www.zillow.com/homedetails/1221-Westwind-Trl-Berne-IN-46711/227853705_zpid/,"1221 Westwind Trl, Berne, IN 46711",,3,3.0,1623.0
+128,https://www.zillow.com/homedetails/1223-W-Main-St-Berne-IN-46711/243086381_zpid/,"1223 W Main St, Berne, IN 46711",,3,2.5,3508.0
+129,https://www.zillow.com/homedetails/1223-W-Water-St-Berne-IN-46711/243086382_zpid/,"1223 W Water St, Berne, IN 46711",,4,2.5,1952.0
+130,https://www.zillow.com/homedetails/1224-W-Clark-St-Berne-IN-46711/85090063_zpid/,"1224 W Clark St, Berne, IN 46711",,3,2.0,1322.0
+131,https://www.zillow.com/homedetails/1224-W-Water-St-Berne-IN-46711/85090038_zpid/,"1224 W Water St, Berne, IN 46711",,6,3.0,2700.0
+132,https://www.zillow.com/homedetails/1224-Westwind-Trl-Berne-IN-46711/85089944_zpid/,"1224 Westwind Trl, Berne, IN 46711",,5,4.0,2655.0
+133,https://www.zillow.com/homedetails/1225-Hauptstrasse-Berne-IN-46711/85083523_zpid/,"1225 Hauptstrasse, Berne, IN 46711",,3,3.0,2872.0
+134,https://www.zillow.com/homedetails/1225-Soudastrasse-Berne-IN-46711/227855421_zpid/,"1225 Soudastrasse, Berne, IN 46711",,3,2.5,2052.0
+135,https://www.zillow.com/homedetails/1225-Stuckistrasse-Berne-IN-46711/85083527_zpid/,"1225 Stuckistrasse, Berne, IN 46711",,3,2.5,1864.0
+136,https://www.zillow.com/homedetails/1225-W-300-S-Berne-IN-46711/249944558_zpid/,"1225 W 300 S, Berne, IN 46711",,3,2.0,1972.0
+137,https://www.zillow.com/homedetails/1225-W-300-S-Berne-IN-46711/85089794_zpid/,"1225 W 300 S, Berne, IN 46711",,3,2.0,2610.0
+138,https://www.zillow.com/homedetails/1225-Yoderstrasse-Berne-IN-46711/85083544_zpid/,"1225 Yoderstrasse, Berne, IN 46711",,3,4.0,3572.0
+139,https://www.zillow.com/homedetails/1226-Hauptstrasse-Berne-IN-46711/85083555_zpid/,"1226 Hauptstrasse, Berne, IN 46711",,3,2.0,4000.0
+140,https://www.zillow.com/homedetails/1226-Yoderstrasse-Berne-IN-46711/85083554_zpid/,"1226 Yoderstrasse, Berne, IN 46711",,3,2.5,1718.0
+141,https://www.zillow.com/homedetails/1230-Carrington-Way-Berne-IN-46711/85083755_zpid/,"1230 Carrington Way, Berne, IN 46711",,2,2.0,1465.0
+142,https://www.zillow.com/homedetails/1231-Carrington-Way-Berne-IN-46711/94266696_zpid/,"1231 Carrington Way, Berne, IN 46711",,2,2.0,1509.0
+143,https://www.zillow.com/homedetails/1233-E-700-S-Berne-IN-46711/227854958_zpid/,"1233 E 700 S, Berne, IN 46711",,3,2.5,2548.0
+144,https://www.zillow.com/homedetails/1235-Hauptstrasse-Berne-IN-46711/85083520_zpid/,"1235 Hauptstrasse, Berne, IN 46711",,3,2.0,2257.0
+145,https://www.zillow.com/homedetails/1235-Soudastrasse-Berne-IN-46711/85083558_zpid/,"1235 Soudastrasse, Berne, IN 46711",,3,2.0,1600.0
+146,https://www.zillow.com/homedetails/1235-Stuckistrasse-Berne-IN-46711/85083540_zpid/,"1235 Stuckistrasse, Berne, IN 46711",,3,1.5,1508.0
+147,https://www.zillow.com/homedetails/1235-Yoderstrasse-Berne-IN-46711/85083521_zpid/,"1235 Yoderstrasse, Berne, IN 46711",,3,2.0,1494.0
+148,https://www.zillow.com/homedetails/1236-Hauptstrasse-Berne-IN-46711/85083559_zpid/,"1236 Hauptstrasse, Berne, IN 46711",,3,2.0,1488.0
+149,https://www.zillow.com/homedetails/1236-Soudastrasse-Berne-IN-46711/85083564_zpid/,"1236 Soudastrasse, Berne, IN 46711",,2,2.0,1633.0
+150,https://www.zillow.com/homedetails/1236-Stuckistrasse-Berne-IN-46711/85083539_zpid/,"1236 Stuckistrasse, Berne, IN 46711",,3,3.0,1440.0
+151,https://www.zillow.com/homedetails/1236-Yoderstrasse-Berne-IN-46711/85083553_zpid/,"1236 Yoderstrasse, Berne, IN 46711",,3,2.0,3758.0
+152,https://www.zillow.com/homedetails/1237-Carrington-Way-Berne-IN-46711/94266697_zpid/,"1237 Carrington Way, Berne, IN 46711",,2,2.0,1613.0
+153,https://www.zillow.com/homedetails/1240-Carrington-Way-Berne-IN-46711/85083754_zpid/,"1240 Carrington Way, Berne, IN 46711",,2,2.0,1452.0
+154,https://www.zillow.com/homedetails/1246-Mill-Pond-Rd-Berne-IN-46711/85083762_zpid/,"1246 Mill Pond Rd, Berne, IN 46711",,4,3.0,2074.0
+155,https://www.zillow.com/homedetails/1246-Soudastrasse-Berne-IN-46711/227855440_zpid/,"1246 Soudastrasse, Berne, IN 46711",,3,2.0,1504.0
+156,https://www.zillow.com/homedetails/125-Hahnemann-Ct-Berne-IN-46711/127038604_zpid/,"125 Hahnemann Ct, Berne, IN 46711",,2,2.0,1581.0
+157,https://www.zillow.com/homedetails/1250-Carrington-Way-Berne-IN-46711/85083753_zpid/,"1250 Carrington Way, Berne, IN 46711",,2,1.5,1466.0
+158,https://www.zillow.com/homedetails/1251-Carrington-Way-Berne-IN-46711/97900044_zpid/,"1251 Carrington Way, Berne, IN 46711",,2,2.0,1451.0
+159,https://www.zillow.com/homedetails/1252-W-500-S-Berne-IN-46711/85089917_zpid/,"1252 W 500 S, Berne, IN 46711",,3,2.0,1798.0
+160,https://www.zillow.com/homedetails/1254-W-700-S-Berne-IN-46711/85083862_zpid/,"1254 W 700 S, Berne, IN 46711",,4,1.0,2240.0
+161,https://www.zillow.com/homedetails/1255-Soudastrasse-Berne-IN-46711/85083557_zpid/,"1255 Soudastrasse, Berne, IN 46711",,3,3.5,1778.0
+162,https://www.zillow.com/homedetails/1255-Stuckistrasse-Berne-IN-46711/85083515_zpid/,"1255 Stuckistrasse, Berne, IN 46711",,3,3.0,2504.0
+163,https://www.zillow.com/homedetails/1255-Yoderstrasse-Berne-IN-46711/85083545_zpid/,"1255 Yoderstrasse, Berne, IN 46711",,4,2.0,1600.0
+164,https://www.zillow.com/homedetails/1256-Hauptstrasse-Berne-IN-46711/85083529_zpid/,"1256 Hauptstrasse, Berne, IN 46711",,3,2.0,1760.0
+165,https://www.zillow.com/homedetails/1256-Stuckistrasse-Berne-IN-46711/85083565_zpid/,"1256 Stuckistrasse, Berne, IN 46711",,5,3.0,2072.0
+166,https://www.zillow.com/homedetails/1256-Yoderstrasse-Berne-IN-46711/85083528_zpid/,"1256 Yoderstrasse, Berne, IN 46711",,3,3.0,1641.0
+167,https://www.zillow.com/homedetails/1257-Carrington-Way-Berne-IN-46711/97900755_zpid/,"1257 Carrington Way, Berne, IN 46711",,2,2.0,1437.0
+168,https://www.zillow.com/homedetails/1260-Carrington-Way-Berne-IN-46711/122665636_zpid/,"1260 Carrington Way, Berne, IN 46711",,2,2.0,1504.0
+169,https://www.zillow.com/homedetails/1260-Mill-Pond-Rd-Berne-IN-46711/94266698_zpid/,"1260 Mill Pond Rd, Berne, IN 46711",,5,4.5,4455.0
+170,https://www.zillow.com/homedetails/1260-1498-Emmental-Dr-Berne-IN-46711/243086379_zpid/,"1260-1498 Emmental Dr, Berne, IN 46711",,2,2.0,1381.0
+171,https://www.zillow.com/homedetails/1261-W-200-S-Berne-IN-46711/85090683_zpid/,"1261 W 200 S, Berne, IN 46711",,9,1.0,3016.0
+172,https://www.zillow.com/homedetails/1265-Hauptstrasse-Berne-IN-46711/85083526_zpid/,"1265 Hauptstrasse, Berne, IN 46711",,4,3.0,2688.0
+173,https://www.zillow.com/homedetails/1265-Mill-Pond-Rd-Berne-IN-46711/85083771_zpid/,"1265 Mill Pond Rd, Berne, IN 46711",,4,2.5,2155.0
+174,https://www.zillow.com/homedetails/1265-Soudastrasse-Berne-IN-46711/85083560_zpid/,"1265 Soudastrasse, Berne, IN 46711",,3,3.0,1870.0
+175,https://www.zillow.com/homedetails/1265-Stuckistrasse-Berne-IN-46711/85083570_zpid/,"1265 Stuckistrasse, Berne, IN 46711",,2,2.0,1608.0
+176,https://www.zillow.com/homedetails/1265-Yoderstrasse-Berne-IN-46711/85083514_zpid/,"1265 Yoderstrasse, Berne, IN 46711",,3,2.0,1440.0
+177,https://www.zillow.com/homedetails/1266-Hauptstrasse-Berne-IN-46711/85083510_zpid/,"1266 Hauptstrasse, Berne, IN 46711",,3,1.0,1296.0
+178,https://www.zillow.com/homedetails/1266-Soudastrasse-Berne-IN-46711/227855439_zpid/,"1266 Soudastrasse, Berne, IN 46711",,2,2.0,1201.0
+179,https://www.zillow.com/homedetails/1266-Stuckistrasse-Berne-IN-46711/85083513_zpid/,"1266 Stuckistrasse, Berne, IN 46711",,4,1.5,1840.0
+180,https://www.zillow.com/homedetails/1266-Yoderstrasse-Berne-IN-46711/85083532_zpid/,"1266 Yoderstrasse, Berne, IN 46711",,3,2.0,1762.0
+181,https://www.zillow.com/homedetails/1269-W-500-S-Berne-IN-46711/227853644_zpid/,"1269 W 500 S, Berne, IN 46711",,3,2.5,1933.0
+182,https://www.zillow.com/homedetails/1270-Carrington-Way-Berne-IN-46711/122663827_zpid/,"1270 Carrington Way, Berne, IN 46711",,2,2.0,1504.0
+183,https://www.zillow.com/homedetails/1275-Hauptstrasse-Berne-IN-46711/85083517_zpid/,"1275 Hauptstrasse, Berne, IN 46711",,3,2.0,1504.0
+184,https://www.zillow.com/homedetails/1275-Stuckistrasse-Berne-IN-46711/85083530_zpid/,"1275 Stuckistrasse, Berne, IN 46711",,3,2.0,1742.0
+185,https://www.zillow.com/homedetails/1275-Yoderstrasse-Berne-IN-46711/85083524_zpid/,"1275 Yoderstrasse, Berne, IN 46711",,3,2.0,1830.0
+186,https://www.zillow.com/homedetails/1276-Hauptstrasse-Berne-IN-46711/85083556_zpid/,"1276 Hauptstrasse, Berne, IN 46711",,3,2.0,1418.0
+187,https://www.zillow.com/homedetails/1276-Soudastrasse-Berne-IN-46711/85083563_zpid/,"1276 Soudastrasse, Berne, IN 46711",,3,2.5,2091.0
+188,https://www.zillow.com/homedetails/1276-Stuckistrasse-Berne-IN-46711/85083533_zpid/,"1276 Stuckistrasse, Berne, IN 46711",,3,2.0,1488.0
+189,https://www.zillow.com/homedetails/1276-Yoderstrasse-Berne-IN-46711/85083566_zpid/,"1276 Yoderstrasse, Berne, IN 46711",,4,3.0,1596.0
+190,https://www.zillow.com/homedetails/1280-Carrington-Way-Berne-IN-46711/111818808_zpid/,"1280 Carrington Way, Berne, IN 46711",,2,2.5,1594.0
+191,https://www.zillow.com/homedetails/1285-Hendricks-St-Berne-IN-46711/85083454_zpid/,"1285 Hendricks St, Berne, IN 46711",,3,1.0,1014.0
+192,https://www.zillow.com/homedetails/1290-Carrington-Way-Berne-IN-46711/111818809_zpid/,"1290 Carrington Way, Berne, IN 46711",,2,1.5,1580.0
+193,https://www.zillow.com/homedetails/1295-Hendricks-St-Berne-IN-46711/85083458_zpid/,"1295 Hendricks St, Berne, IN 46711",,3,1.0,960.0
+194,https://www.zillow.com/homedetails/1296-Hendricks-St-Berne-IN-46711/85083453_zpid/,"1296 Hendricks St, Berne, IN 46711",,3,1.0,950.0
+195,https://www.zillow.com/homedetails/130-Hahnemann-Ct-Berne-IN-46711/127039205_zpid/,"130 Hahnemann Ct, Berne, IN 46711",,0,2.0,1758.0
+196,https://www.zillow.com/homedetails/1304-Us-Highway-27-N-Berne-IN-46711/249944584_zpid/,"1304 Us Highway 27 N, Berne, IN 46711",,3,1.0,1216.0
+197,https://www.zillow.com/homedetails/1305-Hauptstrasse-Berne-IN-46711/85083541_zpid/,"1305 Hauptstrasse, Berne, IN 46711",,3,2.0,1608.0
+198,https://www.zillow.com/homedetails/1305-Hendricks-St-Berne-IN-46711/85083438_zpid/,"1305 Hendricks St, Berne, IN 46711",,3,1.5,1080.0
+199,https://www.zillow.com/homedetails/1305-Soudastrasse-Berne-IN-46711/97899817_zpid/,"1305 Soudastrasse, Berne, IN 46711",,2,3.0,1584.0
+200,https://www.zillow.com/homedetails/1305-Stuckistrasse-Berne-IN-46711/85083525_zpid/,"1305 Stuckistrasse, Berne, IN 46711",,3,2.5,1916.0
+201,https://www.zillow.com/homedetails/1305-Yoderstrasse-Berne-IN-46711/85083546_zpid/,"1305 Yoderstrasse, Berne, IN 46711",,4,2.5,2320.0
+202,https://www.zillow.com/homedetails/1306-Hauptstrasse-Berne-IN-46711/85083548_zpid/,"1306 Hauptstrasse, Berne, IN 46711",,3,2.0,1756.0
+203,https://www.zillow.com/homedetails/1306-Soudastrasse-Berne-IN-46711/227855437_zpid/,"1306 Soudastrasse, Berne, IN 46711",,3,2.0,1640.0
+204,https://www.zillow.com/homedetails/1306-Stuckistrasse-Berne-IN-46711/85083562_zpid/,"1306 Stuckistrasse, Berne, IN 46711",,3,2.0,1720.0
+205,https://www.zillow.com/homedetails/1306-Yoderstrasse-Berne-IN-46711/85083552_zpid/,"1306 Yoderstrasse, Berne, IN 46711",,3,2.0,1484.0
+206,https://www.zillow.com/homedetails/1315-Hendricks-St-Berne-IN-46711/85083434_zpid/,"1315 Hendricks St, Berne, IN 46711",,3,1.0,992.0
+207,https://www.zillow.com/homedetails/1322-E-450-S-Berne-IN-46711/227853591_zpid/,"1322 E 450 S, Berne, IN 46711",,3,0.0,1696.0
+208,https://www.zillow.com/homedetails/1325-Hauptstrasse-Berne-IN-46711/85083535_zpid/,"1325 Hauptstrasse, Berne, IN 46711",,4,2.0,2400.0
+209,https://www.zillow.com/homedetails/1325-Soudastrasse-Berne-IN-46711/97899818_zpid/,"1325 Soudastrasse, Berne, IN 46711",,4,3.0,3150.0
+210,https://www.zillow.com/homedetails/1325-Stuckistrasse-Berne-IN-46711/85083522_zpid/,"1325 Stuckistrasse, Berne, IN 46711",,4,2.5,2292.0
+211,https://www.zillow.com/homedetails/1325-Yoderstrasse-Berne-IN-46711/85083531_zpid/,"1325 Yoderstrasse, Berne, IN 46711",,3,2.0,1824.0
+212,https://www.zillow.com/homedetails/1326-Hauptstrasse-Berne-IN-46711/85083518_zpid/,"1326 Hauptstrasse, Berne, IN 46711",,3,2.0,1602.0
+213,https://www.zillow.com/homedetails/1326-Stuckistrasse-Berne-IN-46711/85083538_zpid/,"1326 Stuckistrasse, Berne, IN 46711",,3,2.0,1732.0
+214,https://www.zillow.com/homedetails/1326-Yoderstrasse-Berne-IN-46711/85083551_zpid/,"1326 Yoderstrasse, Berne, IN 46711",,4,2.5,2240.0
+215,https://www.zillow.com/homedetails/1332-W-350-S-Berne-IN-46711/85089833_zpid/,"1332 W 350 S, Berne, IN 46711",,1,1.0,1100.0
+216,https://www.zillow.com/homedetails/1335-Hendricks-St-Berne-IN-46711/85083442_zpid/,"1335 Hendricks St, Berne, IN 46711",,3,1.0,1032.0
+217,https://www.zillow.com/homedetails/1345-Colonial-Ct-Berne-IN-46711/85083419_zpid/,"1345 Colonial Ct, Berne, IN 46711",,3,2.0,1108.0
+218,https://www.zillow.com/homedetails/1345-Hauptstrasse-Berne-IN-46711/85083507_zpid/,"1345 Hauptstrasse, Berne, IN 46711",,3,2.0,1539.0
+219,https://www.zillow.com/homedetails/1345-Yoderstrasse-Berne-IN-46711/85083549_zpid/,"1345 Yoderstrasse, Berne, IN 46711",,3,2.0,1692.0
+220,https://www.zillow.com/homedetails/1346-Colonial-Ct-Berne-IN-46711/227855303_zpid/,"1346 Colonial Ct, Berne, IN 46711",,3,2.0,1344.0
+221,https://www.zillow.com/homedetails/1346-Hauptstrasse-Berne-IN-46711/85083519_zpid/,"1346 Hauptstrasse, Berne, IN 46711",,3,2.0,1741.0
+222,https://www.zillow.com/homedetails/1346-Hendricks-St-Berne-IN-46711/85083440_zpid/,"1346 Hendricks St, Berne, IN 46711",,5,2.0,1968.0
+223,https://www.zillow.com/homedetails/1346-Stuckistrasse-Berne-IN-46711/85083537_zpid/,"1346 Stuckistrasse, Berne, IN 46711",,3,2.0,1460.0
+224,https://www.zillow.com/homedetails/1346-Yoderstrasse-Berne-IN-46711/85083509_zpid/,"1346 Yoderstrasse, Berne, IN 46711",,3,1.5,1350.0
+225,https://www.zillow.com/homedetails/135-Hahnemann-Ct-Berne-IN-46711/111820402_zpid/,"135 Hahnemann Ct, Berne, IN 46711",,2,2.0,1494.0
+226,https://www.zillow.com/homedetails/1352-W-350-S-Berne-IN-46711/227853492_zpid/,"1352 W 350 S, Berne, IN 46711",,3,2.0,3429.0
+227,https://www.zillow.com/homedetails/1353-E-400-S-Berne-IN-46711/227853543_zpid/,"1353 E 400 S, Berne, IN 46711",,3,0.0,3228.0
+228,https://www.zillow.com/homedetails/1355-Hendricks-St-Berne-IN-46711/85083451_zpid/,"1355 Hendricks St, Berne, IN 46711",,3,1.0,1008.0
+229,https://www.zillow.com/homedetails/1356-E-650-S-Berne-IN-46711/227854959_zpid/,"1356 E 650 S, Berne, IN 46711",,3,1.0,1615.0
+230,https://www.zillow.com/homedetails/1357-Old-Colonial-Dr-Berne-IN-46711/227855676_zpid/,"1357 Old Colonial Dr, Berne, IN 46711",,4,2.5,2530.0
+231,https://www.zillow.com/homedetails/1361-W-300-S-Berne-IN-46711/227853454_zpid/,"1361 W 300 S, Berne, IN 46711",,3,2.0,1972.0
+232,https://www.zillow.com/homedetails/1363-W-500-S-Berne-IN-46711/85089869_zpid/,"1363 W 500 S, Berne, IN 46711",,3,2.5,2110.0
+233,https://www.zillow.com/homedetails/1365-Colonial-Ct-Berne-IN-46711/85083420_zpid/,"1365 Colonial Ct, Berne, IN 46711",,3,2.0,1138.0
+234,https://www.zillow.com/homedetails/1365-Glenwood-Ct-Berne-IN-46711/85083456_zpid/,"1365 Glenwood Ct, Berne, IN 46711",,3,2.0,1332.0
+235,https://www.zillow.com/homedetails/1365-Hauptstrasse-Berne-IN-46711/85083534_zpid/,"1365 Hauptstrasse, Berne, IN 46711",,4,2.5,1830.0
+236,https://www.zillow.com/homedetails/1365-Soudastrasse-Berne-IN-46711/85083561_zpid/,"1365 Soudastrasse, Berne, IN 46711",,3,3.0,1988.0
+237,https://www.zillow.com/homedetails/1365-Yoderstrasse-Berne-IN-46711/85083516_zpid/,"1365 Yoderstrasse, Berne, IN 46711",,3,2.5,1928.0
+238,https://www.zillow.com/homedetails/1366-Hendricks-St-Berne-IN-46711/85083441_zpid/,"1366 Hendricks St, Berne, IN 46711",,3,1.0,1008.0
+239,https://www.zillow.com/homedetails/1366-Soudastrasse-Berne-IN-46711/2096581727_zpid/,"1366 Soudastrasse, Berne, IN 46711",,3,2.0,1511.0
+240,https://www.zillow.com/homedetails/1366-Soudastrasse-Berne-IN-46711/227855434_zpid/,"1366 Soudastrasse, Berne, IN 46711",,3,3.0,1511.0
+241,https://www.zillow.com/homedetails/1366-Stuckistrasse-Berne-IN-46711/227855375_zpid/,"1366 Stuckistrasse, Berne, IN 46711",,3,2.0,1428.0
+242,https://www.zillow.com/homedetails/1366-Yoderstrasse-Berne-IN-46711/85083569_zpid/,"1366 Yoderstrasse, Berne, IN 46711",,3,2.0,1677.0
+243,https://www.zillow.com/homedetails/1367-E-400-S-Berne-IN-46711/227853542_zpid/,"1367 E 400 S, Berne, IN 46711",,2,0.5,2688.0
+244,https://www.zillow.com/homedetails/1375-Hendricks-St-Berne-IN-46711/85083425_zpid/,"1375 Hendricks St, Berne, IN 46711",,3,1.0,1008.0
+245,https://www.zillow.com/homedetails/1375-Old-Colonial-Dr-Berne-IN-46711/85083758_zpid/,"1375 Old Colonial Dr, Berne, IN 46711",,3,2.5,1724.0
+246,https://www.zillow.com/homedetails/1380-Carrington-Way-Berne-IN-46711/251678319_zpid/,"1380 Carrington Way, Berne, IN 46711",,0,0.0,
+247,https://www.zillow.com/homedetails/1380-Carrington-Way-Berne-IN-46711/251678321_zpid/,"1380 Carrington Way, Berne, IN 46711",,3,2.5,1627.0
+248,https://www.zillow.com/homedetails/1383-W-400-S-Berne-IN-46711/227853495_zpid/,"1383 W 400 S, Berne, IN 46711",,7,0.0,3776.0
+249,https://www.zillow.com/homedetails/1385-Hauptstrasse-Berne-IN-46711/85083512_zpid/,"1385 Hauptstrasse, Berne, IN 46711",,4,2.5,1970.0
+250,https://www.zillow.com/homedetails/1385-Soudastrasse-Berne-IN-46711/94263671_zpid/,"1385 Soudastrasse, Berne, IN 46711",,3,3.0,1729.0
+251,https://www.zillow.com/homedetails/1385-Stuckistrasse-Berne-IN-46711/85083568_zpid/,"1385 Stuckistrasse, Berne, IN 46711",,3,2.5,2388.0
+252,https://www.zillow.com/homedetails/1385-Yoderstrasse-Berne-IN-46711/227855407_zpid/,"1385 Yoderstrasse, Berne, IN 46711",,4,4.5,3322.0
+253,https://www.zillow.com/homedetails/1386-Hauptstrasse-Berne-IN-46711/111820407_zpid/,"1386 Hauptstrasse, Berne, IN 46711",,3,2.5,3493.0
+254,https://www.zillow.com/homedetails/1386-Old-Colonial-Dr-Berne-IN-46711/85083811_zpid/,"1386 Old Colonial Dr, Berne, IN 46711",,4,2.5,2036.0
+255,https://www.zillow.com/homedetails/1386-Soudastrasse-Berne-IN-46711/227855433_zpid/,"1386 Soudastrasse, Berne, IN 46711",,0,0.0,
+256,https://www.zillow.com/homedetails/1386-Stuckistrasse-Berne-IN-46711/85083571_zpid/,"1386 Stuckistrasse, Berne, IN 46711",,3,2.5,1920.0
+257,https://www.zillow.com/homedetails/1386-Yoderstrasse-Berne-IN-46711/85083550_zpid/,"1386 Yoderstrasse, Berne, IN 46711",,4,3.5,1740.0
+258,https://www.zillow.com/homedetails/1388-W-300-S-Berne-IN-46711/227853484_zpid/,"1388 W 300 S, Berne, IN 46711",,4,2.0,2187.0
+259,https://www.zillow.com/homedetails/1390-Carrington-Way-Berne-IN-46711/251678323_zpid/,"1390 Carrington Way, Berne, IN 46711",,3,2.0,1713.0
+260,https://www.zillow.com/homedetails/1395-Claw-Ct-Berne-IN-46711/251678328_zpid/,"1395 Claw Ct, Berne, IN 46711",,4,3.5,1873.0
+261,https://www.zillow.com/homedetails/1395-Colonial-Ct-Berne-IN-46711/85083421_zpid/,"1395 Colonial Ct, Berne, IN 46711",,3,2.0,1301.0
+262,https://www.zillow.com/homedetails/1395-Glenwood-Ct-Berne-IN-46711/97899819_zpid/,"1395 Glenwood Ct, Berne, IN 46711",,3,2.0,1108.0
+263,https://www.zillow.com/homedetails/1395-Hendricks-St-Berne-IN-46711/85083445_zpid/,"1395 Hendricks St, Berne, IN 46711",,3,1.0,984.0
+264,https://www.zillow.com/homedetails/1395-Old-Colonial-Dr-Berne-IN-46711/85083806_zpid/,"1395 Old Colonial Dr, Berne, IN 46711",,3,2.0,1656.0
+265,https://www.zillow.com/homedetails/1396-E-700-S-Berne-IN-46711/249944674_zpid/,"1396 E 700 S, Berne, IN 46711",,4,2.0,3520.0
+266,https://www.zillow.com/homedetails/1396-Glenwood-Ct-Berne-IN-46711/227855291_zpid/,"1396 Glenwood Ct, Berne, IN 46711",,3,1.5,1440.0
+267,https://www.zillow.com/homedetails/1396-Hendricks-St-Berne-IN-46711/85083450_zpid/,"1396 Hendricks St, Berne, IN 46711",,3,1.0,1008.0
+268,https://www.zillow.com/homedetails/140-Hahnemann-Ct-Berne-IN-46711/127040913_zpid/,"140 Hahnemann Ct, Berne, IN 46711",,2,2.5,1750.0
+269,https://www.zillow.com/homedetails/1400-Carrington-Way-Berne-IN-46711/251678327_zpid/,"1400 Carrington Way, Berne, IN 46711",,3,2.5,2667.0
+270,https://www.zillow.com/homedetails/1405-Colonial-Ct-Berne-IN-46711/85083422_zpid/,"1405 Colonial Ct, Berne, IN 46711",,3,2.0,1081.0
+271,https://www.zillow.com/homedetails/1405-Hendricks-St-Berne-IN-46711/85083439_zpid/,"1405 Hendricks St, Berne, IN 46711",,3,1.5,1056.0
+272,https://www.zillow.com/homedetails/1406-Hendricks-St-Berne-IN-46711/85083431_zpid/,"1406 Hendricks St, Berne, IN 46711",,3,1.0,960.0
+273,https://www.zillow.com/homedetails/1410-E-State-Road-218-Berne-IN-46711/227854948_zpid/,"1410 E State Road 218, Berne, IN 46711",,5,0.0,2790.0
+274,https://www.zillow.com/homedetails/1422-Carrington-Way-Berne-IN-46711/124604578_zpid/,"1422 Carrington Way, Berne, IN 46711",,3,3.0,3073.0
+275,https://www.zillow.com/homedetails/1425-Colonial-Ct-Berne-IN-46711/227855298_zpid/,"1425 Colonial Ct, Berne, IN 46711",,3,2.0,1303.0
+276,https://www.zillow.com/homedetails/1425-Glenwood-Ct-Berne-IN-46711/94263672_zpid/,"1425 Glenwood Ct, Berne, IN 46711",,2,2.0,962.0
+277,https://www.zillow.com/homedetails/1425-Hendricks-St-Berne-IN-46711/85083447_zpid/,"1425 Hendricks St, Berne, IN 46711",,3,1.0,1008.0
+278,https://www.zillow.com/homedetails/1425-Old-Colonial-Dr-Berne-IN-46711/94266700_zpid/,"1425 Old Colonial Dr, Berne, IN 46711",,2,2.5,1789.0
+279,https://www.zillow.com/homedetails/1086-E-200-S-Bluffton-IN-46714/85788711_zpid/,"1086 E 200 S, Bluffton, IN 46714",,3,2,1742
+280,https://www.zillow.com/homedetails/1418-Parlor-City-Dr-Bluffton-IN-46714/85788597_zpid/,"1418 Parlor City Dr, Bluffton, IN 46714",,3,2,1588
+281,https://www.zillow.com/homedetails/109-Greenbriar-Dr-Bluffton-IN-46714/85787622_zpid/,"109 Greenbriar Dr, Bluffton, IN 46714",,3,2,1154
+282,https://www.zillow.com/homedetails/1609-W-400-S-Bluffton-IN-46714/85791490_zpid/,"1609 W 400 S, Bluffton, IN 46714",,3,2,1512
+283,https://www.zillow.com/homedetails/1227-W-South-St-Bluffton-IN-46714/85790933_zpid/,"1227 W South St, Bluffton, IN 46714",,3,1,912
+284,https://www.zillow.com/homedetails/215-W-Spring-St-UNIT-A-3-Bluffton-IN-46714/85789388_zpid/,"215 W Spring St UNIT A-3, Bluffton, IN 46714",,2,1,972
+285,https://www.zillow.com/homedetails/1009-W-Central-Ave-Bluffton-IN-46714/85789746_zpid/,"1009 W Central Ave, Bluffton, IN 46714",,3,1,727
+286,https://www.zillow.com/homedetails/1596-N-William-Wells-Cir-Bluffton-IN-46714/2124823734_zpid/,"1596 N William Wells Cir, Bluffton, IN 46714",,0,0,
+287,https://www.zillow.com/homedetails/1513-Bell-Brook-Ct-Bluffton-IN-46714/85787483_zpid/,"1513 Bell Brook Ct, Bluffton, IN 46714",,3,3.5,2027
+288,https://www.zillow.com/homedetails/319-W-Cherry-St-Bluffton-IN-46714/85790111_zpid/,"319 W Cherry St, Bluffton, IN 46714",,3,1,1272
+289,https://www.zillow.com/homedetails/214-Elm-Grove-Rd-Bluffton-IN-46714/85789196_zpid/,"214 Elm Grove Rd, Bluffton, IN 46714",,4,2.5,2064
+290,https://www.zillow.com/homedetails/2231-SE-State-Route-116-Bluffton-IN-46714/120616061_zpid/,"2231 SE State Route 116, Bluffton, IN 46714",,3,1,1848
+291,https://www.zillow.com/homedetails/1870-E-South-Timberidge-Rd-Bluffton-IN-46714/85787381_zpid/,"1870 E South Timberidge Rd, Bluffton, IN 46714",,3,2.5,2588
+292,https://www.zillow.com/homedetails/327-E-Spring-St-Bluffton-IN-46714/85790584_zpid/,"327 E Spring St, Bluffton, IN 46714",,3,1,894
+293,https://www.zillow.com/homedetails/1285-N-600-E-Bluffton-IN-46714/85788213_zpid/,"1285 N 600 E, Bluffton, IN 46714",,3,1,1372
+294,https://www.zillow.com/homedetails/126-Hillcrest-Rd-Bluffton-IN-46714/85787658_zpid/,"126 Hillcrest Rd, Bluffton, IN 46714",,3,1.5,1280
+295,https://www.zillow.com/homedetails/1124-W-South-St-Bluffton-IN-46714/85790866_zpid/,"1124 W South St, Bluffton, IN 46714",,3,1,1381
+296,https://www.zillow.com/homedetails/1425-S-450-E-Bluffton-IN-46714/85788449_zpid/,"1425 S 450 E, Bluffton, IN 46714",,4,3.5,3351
+297,https://www.zillow.com/homedetails/1337-S-400-E-Bluffton-IN-46714/252309487_zpid/,"1337 S 400 E, Bluffton, IN 46714",,3,2.5,1824
+298,https://www.zillow.com/homedetails/1541-Wexford-Ct-Bluffton-IN-46714/85787529_zpid/,"1541 Wexford Ct, Bluffton, IN 46714",,3,3.5,2207
+299,https://www.zillow.com/homedetails/1028-W-Cherry-St-Bluffton-IN-46714/85789832_zpid/,"1028 W Cherry St, Bluffton, IN 46714",,2,1,797
+300,https://www.zillow.com/homedetails/1464-W-Cherry-St-Bluffton-IN-46714/85790957_zpid/,"1464 W Cherry St, Bluffton, IN 46714",,3,1,1056
+301,https://www.zillow.com/homedetails/1113-W-South-St-Bluffton-IN-46714/85790864_zpid/,"1113 W South St, Bluffton, IN 46714",,2,1,1244
+302,https://www.zillow.com/homedetails/220-W-Cherry-St-APT-1-Bluffton-IN-46714/2085483296_zpid/,"220 W Cherry St APT 1, Bluffton, IN 46714",,2,1,
+303,https://www.zillow.com/homedetails/121-123-W-Townley-St-Bluffton-IN-46714/228167185_zpid/,"121-123 W Townley St, Bluffton, IN 46714",,4,2,1792
+304,https://www.zillow.com/homedetails/1311-W-South-St-Bluffton-IN-46714/85790932_zpid/,"1311 W South St, Bluffton, IN 46714",,2,1,1126
+305,https://www.zillow.com/homedetails/1402-Deerbrook-Ct-Bluffton-IN-46714/85788557_zpid/,"1402 Deerbrook Ct, Bluffton, IN 46714",,3,2,1400
+306,https://www.zillow.com/homedetails/1704-S-Sutton-Circle-Dr-Bluffton-IN-46714/85787561_zpid/,"1704 S Sutton Circle Dr, Bluffton, IN 46714",,4,3,2720
+307,https://www.zillow.com/homedetails/223-W-Madison-Ave-7-Bluffton-IN-46714/94631982_zpid/,"223 W Madison Ave #7, Bluffton, IN 46714",,3,2,1578
+308,https://www.zillow.com/homedetails/1024-Compromise-Ln-Bluffton-IN-46714/85789198_zpid/,"1024 Compromise Ln, Bluffton, IN 46714",,4,2,2120
+309,https://www.zillow.com/homedetails/1296-W-300-N-Bluffton-IN-46714/85786711_zpid/,"1296 W 300 N, Bluffton, IN 46714",,4,3,2820
+310,https://www.zillow.com/homedetails/306-E-Wiley-Ave-Bluffton-IN-46714/85789625_zpid/,"306 E Wiley Ave, Bluffton, IN 46714",,2,1,1276
+311,https://www.zillow.com/homedetails/2190-E-350-N-Bluffton-IN-46714/85787039_zpid/,"2190 E 350 N, Bluffton, IN 46714",,3,2,1859
+312,https://www.zillow.com/homedetails/1559-Wexford-Ct-Bluffton-IN-46714/85787534_zpid/,"1559 Wexford Ct, Bluffton, IN 46714",,3,3,2344
+313,https://www.zillow.com/homedetails/212-E-Washington-St-Bluffton-IN-46714/85790474_zpid/,"212 E Washington St, Bluffton, IN 46714",,3,1,1288
+314,https://www.zillow.com/homedetails/3034-E-350-S-Bluffton-IN-46714/85788769_zpid/,"3034 E 350 S, Bluffton, IN 46714",,3,1.5,2022
+315,https://www.zillow.com/homedetails/206-Briarcrest-Pl-Bluffton-IN-46714/85787541_zpid/,"206 Briarcrest Pl, Bluffton, IN 46714",,3,2,1438
+316,https://www.zillow.com/homedetails/1419-Parlor-City-Dr-Bluffton-IN-46714/85788571_zpid/,"1419 Parlor City Dr, Bluffton, IN 46714",,4,4,3446
+317,https://www.zillow.com/homedetails/1023-W-Cherry-St-Bluffton-IN-46714/85789791_zpid/,"1023 W Cherry St, Bluffton, IN 46714",,3,1,1008
+318,https://www.zillow.com/homedetails/129-E-Washington-St-Bluffton-IN-46714/85790299_zpid/,"129 E Washington St, Bluffton, IN 46714",,4,2,1748
+319,https://www.zillow.com/homedetails/2262-W-100-N-Bluffton-IN-46714/85786799_zpid/,"2262 W 100 N, Bluffton, IN 46714",,3,1,1680
+320,https://www.zillow.com/homedetails/1563-Kensington-Dr-Bluffton-IN-46714/94626398_zpid/,"1563 Kensington Dr, Bluffton, IN 46714",,3,2,2431
+321,https://www.zillow.com/homedetails/204-E-Wabash-St-Bluffton-IN-46714/85790296_zpid/,"204 E Wabash St, Bluffton, IN 46714",,3,1,2352
+322,https://www.zillow.com/homedetails/1220-W-500-S-Bluffton-IN-46714/85791555_zpid/,"1220 W 500 S, Bluffton, IN 46714",,3,2.5,2072
+323,https://www.zillow.com/homedetails/1606-N-Sutton-Circle-Dr-Bluffton-IN-46714/94631952_zpid/,"1606 N Sutton Circle Dr, Bluffton, IN 46714",,3,2,1765
+324,https://www.zillow.com/homedetails/1630-W-200-N-Bluffton-IN-46714/228164274_zpid/,"1630 W 200 N, Bluffton, IN 46714",,3,1,1568
+325,https://www.zillow.com/homedetails/1834-E-700-S-Bluffton-IN-46714/85784390_zpid/,"1834 E 700 S, Bluffton, IN 46714",,2,2,2602
+326,https://www.zillow.com/homedetails/3349-S-700-W-1-Bluffton-IN-46714/85089637_zpid/,"3349 S 700 W #1, Bluffton, IN 46714",,3,2.5,2528
+327,https://www.zillow.com/homedetails/1521-Parlor-City-Dr-Bluffton-IN-46714/85788580_zpid/,"1521 Parlor City Dr, Bluffton, IN 46714",,3,2.5,2056
+328,https://www.zillow.com/homedetails/325-Greenbriar-Dr-Bluffton-IN-46714/85787635_zpid/,"325 Greenbriar Dr, Bluffton, IN 46714",,3,2,1262
+329,https://www.zillow.com/homedetails/327-E-Wiley-Ave-Bluffton-IN-46714/85789689_zpid/,"327 E Wiley Ave, Bluffton, IN 46714",,2,2,728
+330,https://www.zillow.com/homedetails/2585-SW-Church-Rd-Bluffton-IN-46714/85788262_zpid/,"2585 SW Church Rd, Bluffton, IN 46714",,2,2,1320
+331,https://www.zillow.com/homedetails/1927-S-Hoosier-Hwy-Bluffton-IN-46714/85791203_zpid/,"1927 S Hoosier Hwy, Bluffton, IN 46714",,3,2,1508
+332,https://www.zillow.com/homedetails/327-S-Johnson-St-Bluffton-IN-46714/85790413_zpid/,"327 S Johnson St, Bluffton, IN 46714",,4,2,2202
+333,https://www.zillow.com/homedetails/320-E-South-St-Bluffton-IN-46714/85790379_zpid/,"320 E South St, Bluffton, IN 46714",,4,1,1567
+334,https://www.zillow.com/homedetails/1215-E-Spring-St-Bluffton-IN-46714/85789031_zpid/,"1215 E Spring St, Bluffton, IN 46714",,4,2,2132
+335,https://www.zillow.com/homedetails/327-W-Market-St-Bluffton-IN-46714/85790055_zpid/,"327 W Market St, Bluffton, IN 46714",,3,3.5,3096
+336,https://www.zillow.com/homedetails/219-E-Washington-St-Bluffton-IN-46714/85790464_zpid/,"219 E Washington St, Bluffton, IN 46714",,6,3,2816
+337,https://www.zillow.com/homedetails/1241-Sunnyglenn-Ct-Bluffton-IN-46714/85790816_zpid/,"1241 Sunnyglenn Ct, Bluffton, IN 46714",,3,1,1008
+338,https://www.zillow.com/homedetails/2455-W-200-N-Bluffton-IN-46714/85786708_zpid/,"2455 W 200 N, Bluffton, IN 46714",,3,1,2526
+339,https://www.zillow.com/homedetails/216-E-Townley-St-Bluffton-IN-46714/85790674_zpid/,"216 E Townley St, Bluffton, IN 46714",,4,1,980
+340,https://www.zillow.com/homedetails/2635-W-State-Route-218-Bluffton-IN-46714/120614403_zpid/,"2635 W State Route 218, Bluffton, IN 46714",,3,1.5,2446
+341,https://www.zillow.com/homedetails/204-W-Central-Ave-Bluffton-IN-46714/85789704_zpid/,"204 W Central Ave, Bluffton, IN 46714",,4,2,1892
+342,https://www.zillow.com/homedetails/1219-W-Central-Ave-Bluffton-IN-46714/85790924_zpid/,"1219 W Central Ave, Bluffton, IN 46714",,2,1,720
+343,https://www.zillow.com/homedetails/1430-Lancaster-St-Bluffton-IN-46714/85791075_zpid/,"1430 Lancaster St, Bluffton, IN 46714",,3,1,1056
+344,https://www.zillow.com/homedetails/1412-Hunter-Rd-Bluffton-IN-46714/85787691_zpid/,"1412 Hunter Rd, Bluffton, IN 46714",,2,1,960
+345,https://www.zillow.com/homedetails/1440-Parlor-City-Dr-Bluffton-IN-46714/85788596_zpid/,"1440 Parlor City Dr, Bluffton, IN 46714",,3,2.5,2080
+346,https://www.zillow.com/homedetails/215-E-Silver-St-Bluffton-IN-46714/85790604_zpid/,"215 E Silver St, Bluffton, IN 46714",,3,1.5,1328
+347,https://www.zillow.com/homedetails/124-W-300-N-Bluffton-IN-46714/85786727_zpid/,"124 W 300 N, Bluffton, IN 46714",,3,2,2319
+348,https://www.zillow.com/homedetails/1605-Greenfield-Ln-Bluffton-IN-46714/85791222_zpid/,"1605 Greenfield Ln, Bluffton, IN 46714",,3,2,1150
+349,https://www.zillow.com/homedetails/220-Oak-Forest-Dr-Bluffton-IN-46714/99221681_zpid/,"220 Oak Forest Dr, Bluffton, IN 46714",,4,2.5,1824
+350,https://www.zillow.com/homedetails/1158-N-450-E-Bluffton-IN-46714/85787389_zpid/,"1158 N 450 E, Bluffton, IN 46714",,3,2.5,1797
+351,https://www.zillow.com/homedetails/2805-E-700-S-Bluffton-IN-46714/85784358_zpid/,"2805 E 700 S, Bluffton, IN 46714",,3,2,2147
+352,https://www.zillow.com/homedetails/1658-1660-S-Wayne-St-Bluffton-IN-46714/94631963_zpid/,"1658-1660 S Wayne St, Bluffton, IN 46714",,4,2,1774
+353,https://www.zillow.com/homedetails/2844-E-Center-Dr-Bluffton-IN-46714/85787174_zpid/,"2844 E Center Dr, Bluffton, IN 46714",,5,3,2086
+354,https://www.zillow.com/homedetails/1018-Ranch-Rd-Bluffton-IN-46714/85789048_zpid/,"1018 Ranch Rd, Bluffton, IN 46714",,2,1,1567
+355,https://www.zillow.com/homedetails/122-E-Dustman-Rd-Bluffton-IN-46714/85787957_zpid/,"122 E Dustman Rd, Bluffton, IN 46714",,3,1,912
+356,https://www.zillow.com/homedetails/337-Grassland-Ct-Bluffton-IN-46714/85787273_zpid/,"337 Grassland Ct, Bluffton, IN 46714",,3,2,1390
+357,https://www.zillow.com/homedetails/1010-Farmington-Dr-Bluffton-IN-46714/228168910_zpid/,"1010 Farmington Dr, Bluffton, IN 46714",,3,2,1507
+358,https://www.zillow.com/homedetails/2695-S-State-Road-301-Bluffton-IN-46714/120615053_zpid/,"2695 S State Road 301, Bluffton, IN 46714",,2,1.5,1344
+359,https://www.zillow.com/homedetails/1128-W-Washington-St-Bluffton-IN-46714/85791020_zpid/,"1128 W Washington St, Bluffton, IN 46714",,2,1,1050
+360,https://www.zillow.com/homedetails/1115-W-Cherry-St-Bluffton-IN-46714/85791017_zpid/,"1115 W Cherry St, Bluffton, IN 46714",,2,1,1428
+361,https://www.zillow.com/homedetails/328-W-Central-Ave-APT-8-Bluffton-IN-46714/85789780_zpid/,"328 W Central Ave APT 8, Bluffton, IN 46714",,2,1,860
+362,https://www.zillow.com/homedetails/118-E-South-St-Bluffton-IN-46714/85790454_zpid/,"118 E South St, Bluffton, IN 46714",,3,1.5,1980
+363,https://www.zillow.com/homedetails/194-N-Oak-St-Bluffton-IN-46714/94631977_zpid/,"194 N Oak St, Bluffton, IN 46714",,4,2,1745
+364,https://www.zillow.com/homedetails/2282-N-Shady-Ln-Bluffton-IN-46714/85787158_zpid/,"2282 N Shady Ln, Bluffton, IN 46714",,3,2,1692
+365,https://www.zillow.com/homedetails/3218-W-Oak-Rd-Bluffton-IN-46714/85786670_zpid/,"3218 W Oak Rd, Bluffton, IN 46714",,3,2,2596
+366,https://www.zillow.com/homedetails/223-Greenbriar-Dr-Bluffton-IN-46714/85787629_zpid/,"223 Greenbriar Dr, Bluffton, IN 46714",,3,2,1237
+367,https://www.zillow.com/homedetails/109-Hillcrest-Rd-Bluffton-IN-46714/85787689_zpid/,"109 Hillcrest Rd, Bluffton, IN 46714",,2,3,2272
+368,https://www.zillow.com/homedetails/205-W-Spring-St-UNIT-A-1-Bluffton-IN-46714/94631978_zpid/,"205 W Spring St UNIT A-1, Bluffton, IN 46714",,2,1,960
+369,https://www.zillow.com/homedetails/180-N-Oak-St-Bluffton-IN-46714/94631968_zpid/,"180 N Oak St, Bluffton, IN 46714",,4,1,1904
+370,https://www.zillow.com/homedetails/312-E-South-St-Bluffton-IN-46714/85790311_zpid/,"312 E South St, Bluffton, IN 46714",,3,2,1843
+371,https://www.zillow.com/homedetails/1617-W-State-Route-124-Bluffton-IN-46714/120611000_zpid/,"1617 W State Route 124, Bluffton, IN 46714",,3,2,2803
+372,https://www.zillow.com/homedetails/18-Woodlawn-St-Bluffton-IN-46714/85791053_zpid/,"18 Woodlawn St, Bluffton, IN 46714",,4,2,1908
+373,https://www.zillow.com/homedetails/2380-N-300-W-Bluffton-IN-46714/228164234_zpid/,"2380 N 300 W, Bluffton, IN 46714",,3,2,1887
+374,https://www.zillow.com/homedetails/1860-E-350-N-Bluffton-IN-46714/228164718_zpid/,"1860 E 350 N, Bluffton, IN 46714",,3,1.5,1344
+375,https://www.zillow.com/homedetails/1536-Kensington-Dr-Bluffton-IN-46714/85787526_zpid/,"1536 Kensington Dr, Bluffton, IN 46714",,3,2,1926
+376,https://www.zillow.com/homedetails/122-E-Horton-St-Bluffton-IN-46714/85790614_zpid/,"122 E Horton St, Bluffton, IN 46714",,3,1,1326
+377,https://www.zillow.com/homedetails/2750-N-100-E-Bluffton-IN-46714/228164811_zpid/,"2750 N 100 E, Bluffton, IN 46714",,3,1,2194
+378,https://www.zillow.com/homedetails/17-Sunset-Dr-Bluffton-IN-46714/85787989_zpid/,"17 Sunset Dr, Bluffton, IN 46714",,3,1,950
+379,https://www.zillow.com/homedetails/218-S-Morgan-St-Bluffton-IN-46714/85790027_zpid/,"218 S Morgan St, Bluffton, IN 46714",,2,1,834
+380,https://www.zillow.com/homedetails/1009-Sherwood-Dr-Bluffton-IN-46714/85789122_zpid/,"1009 Sherwood Dr, Bluffton, IN 46714",,3,2,1352
+381,https://www.zillow.com/homedetails/1215-Echo-Ln-Bluffton-IN-46714/85789085_zpid/,"1215 Echo Ln, Bluffton, IN 46714",,4,2.5,2324
+382,https://www.zillow.com/homedetails/154-E-Linn-Rd-Bluffton-IN-46714/85791167_zpid/,"154 E Linn Rd, Bluffton, IN 46714",,3,1,988
+383,https://www.zillow.com/homedetails/226-W-Cherry-St-Bluffton-IN-46714/85790399_zpid/,"226 W Cherry St, Bluffton, IN 46714",,4,2,2352
+384,https://www.zillow.com/homedetails/320-Northwood-Dr-Bluffton-IN-46714/85787425_zpid/,"320 Northwood Dr, Bluffton, IN 46714",,3,3,2914
+385,https://www.zillow.com/homedetails/2548-SE-State-Road-116-Bluffton-IN-46714/252309484_zpid/,"2548 SE State Road 116, Bluffton, IN 46714",,3,1,1503
+386,https://www.zillow.com/homedetails/1025-W-Central-Ave-Bluffton-IN-46714/85789744_zpid/,"1025 W Central Ave, Bluffton, IN 46714",,2,1,1192
+387,https://www.zillow.com/homedetails/1991-E-North-Timberidge-Rd-Bluffton-IN-46714/85787337_zpid/,"1991 E North Timberidge Rd, Bluffton, IN 46714",,3,2,2587
+388,https://www.zillow.com/homedetails/1250-Virginia-Ct-Bluffton-IN-46714/112209937_zpid/,"1250 Virginia Ct, Bluffton, IN 46714",,3,2,1298
+389,https://www.zillow.com/homedetails/1138-Sherwood-Dr-Bluffton-IN-46714/85789100_zpid/,"1138 Sherwood Dr, Bluffton, IN 46714",,4,2,1924
+390,https://www.zillow.com/homedetails/3194-E-400-N-Bluffton-IN-46714/85787018_zpid/,"3194 E 400 N, Bluffton, IN 46714",,3,2.5,1544
+391,https://www.zillow.com/homedetails/2150-Red-Oak-Ct-Bluffton-IN-46714/228165131_zpid/,"2150 Red Oak Ct, Bluffton, IN 46714",,3,3,2209
+392,https://www.zillow.com/homedetails/1249-Manor-Dr-Bluffton-IN-46714/85791192_zpid/,"1249 Manor Dr, Bluffton, IN 46714",,3,2,1716
+393,https://www.zillow.com/homedetails/1007-S-Morgan-St-Bluffton-IN-46714/85789922_zpid/,"1007 S Morgan St, Bluffton, IN 46714",,3,2,1393
+394,https://www.zillow.com/homedetails/1364-S-400-W-Bluffton-IN-46714/227852704_zpid/,"1364 S 400 W, Bluffton, IN 46714",,3,1.5,1815
+395,https://www.zillow.com/homedetails/211-E-Wiley-Ave-Bluffton-IN-46714/85789687_zpid/,"211 E Wiley Ave, Bluffton, IN 46714",,3,2,3008
+396,https://www.zillow.com/homedetails/322-E-Arnold-St-Bluffton-IN-46714/85790670_zpid/,"322 E Arnold St, Bluffton, IN 46714",,3,1,768
+397,https://www.zillow.com/homedetails/267-W-State-Route-124-Bluffton-IN-46714/120611687_zpid/,"267 W State Route 124, Bluffton, IN 46714",,5,3,3196
+398,https://www.zillow.com/homedetails/1720-N-Fairway-Ln-Bluffton-IN-46714/85787347_zpid/,"1720 N Fairway Ln, Bluffton, IN 46714",,3,3,3121
+399,https://www.zillow.com/homedetails/311-E-Cherry-St-Bluffton-IN-46714/85790425_zpid/,"311 E Cherry St, Bluffton, IN 46714",,2,1,942
+400,https://www.zillow.com/homedetails/2737-SE-Mulberry-St-Bluffton-IN-46714/94631992_zpid/,"2737 SE Mulberry St, Bluffton, IN 46714",,2,1,672
+401,https://www.zillow.com/homedetails/205-E-South-St-Bluffton-IN-46714/85790319_zpid/,"205 E South St, Bluffton, IN 46714",,2,1,1144
+402,https://www.zillow.com/homedetails/2218-N-Oak-Dr-Bluffton-IN-46714/85787144_zpid/,"2218 N Oak Dr, Bluffton, IN 46714",,3,3,2358
+403,https://www.zillow.com/homedetails/184-E-100-S-Bluffton-IN-46714/85791170_zpid/,"184 E 100 S, Bluffton, IN 46714",,3,1,1080
+404,https://www.zillow.com/homedetails/314-W-Cherry-St-Bluffton-IN-46714/85790491_zpid/,"314 W Cherry St, Bluffton, IN 46714",,4,2,2110
+405,https://www.zillow.com/homedetails/1425-Brookhaven-Ct-Bluffton-IN-46714/85788560_zpid/,"1425 Brookhaven Ct, Bluffton, IN 46714",,3,2,1566
+406,https://www.zillow.com/homedetails/1599-SE-State-Route-116-Bluffton-IN-46714/120615388_zpid/,"1599 SE State Route 116, Bluffton, IN 46714",,3,1.5,1248
+407,https://www.zillow.com/homedetails/1644-E-550-S-Bluffton-IN-46714/228169574_zpid/,"1644 E 550 S, Bluffton, IN 46714",,3,2,1040
+408,https://www.zillow.com/homedetails/227-W-Central-Ave-Bluffton-IN-46714/85790442_zpid/,"227 W Central Ave, Bluffton, IN 46714",,4,3,2188
+409,https://www.zillow.com/homedetails/225-W-Townley-St-Bluffton-IN-46714/85790747_zpid/,"225 W Townley St, Bluffton, IN 46714",,3,1,960
+410,https://www.zillow.com/homedetails/1310-Orchard-View-Dr-Bluffton-IN-46714/85787420_zpid/,"1310 Orchard View Dr, Bluffton, IN 46714",,3,2.5,1888
+411,https://www.zillow.com/homedetails/1570-Greenfield-Ln-Bluffton-IN-46714/85791228_zpid/,"1570 Greenfield Ln, Bluffton, IN 46714",,3,2,1322
+412,https://www.zillow.com/homedetails/27-Sunrise-Way-Bluffton-IN-46714/85788012_zpid/,"27 Sunrise Way, Bluffton, IN 46714",,4,3,1844
+413,https://www.zillow.com/homedetails/3110-S-800-E-Bluffton-IN-46714/228166369_zpid/,"3110 S 800 E, Bluffton, IN 46714",,3,2.5,1913
+414,https://www.zillow.com/homedetails/1128-W-Wiley-Ave-Bluffton-IN-46714/85790783_zpid/,"1128 W Wiley Ave, Bluffton, IN 46714",,2,1,1104
+415,https://www.zillow.com/homedetails/1430-W-Central-Ave-Bluffton-IN-46714/85790895_zpid/,"1430 W Central Ave, Bluffton, IN 46714",,3,2,1404
+416,https://www.zillow.com/homedetails/216-S-Baldwin-St-Bluffton-IN-46714/85789793_zpid/,"216 S Baldwin St, Bluffton, IN 46714",,3,1,900
+417,https://www.zillow.com/homedetails/1540-Shadow-Run-Trl-Bluffton-IN-46714/228165258_zpid/,"1540 Shadow Run Trl, Bluffton, IN 46714",,3,3,2220
+418,https://www.zillow.com/homedetails/1560-Wheatfield-Ct-Bluffton-IN-46714/85791220_zpid/,"1560 Wheatfield Ct, Bluffton, IN 46714",,3,3,1667
+419,https://www.zillow.com/homedetails/1408-Brookhaven-Ct-Bluffton-IN-46714/2079310514_zpid/,"1408 Brookhaven Ct, Bluffton, IN 46714",,3,3,1940
+420,https://www.zillow.com/homedetails/140-S-800-E-Bluffton-IN-46714/85788357_zpid/,"140 S 800 E, Bluffton, IN 46714",,4,3,3782
+421,https://www.zillow.com/homedetails/115-E-Central-Ave-Bluffton-IN-46714/85790290_zpid/,"115 E Central Ave, Bluffton, IN 46714",,3,3,3128
+422,https://www.zillow.com/homedetails/1316-Garr-St-Bluffton-IN-46714/85787665_zpid/,"1316 Garr St, Bluffton, IN 46714",,3,2,1120
+423,https://www.zillow.com/homedetails/132-Willowbrook-Trl-Bluffton-IN-46714/85787579_zpid/,"132 Willowbrook Trl, Bluffton, IN 46714",,4,2.5,1946
+424,https://www.zillow.com/homedetails/1135-Fawncrest-Ct-Bluffton-IN-46714/94626418_zpid/,"1135 Fawncrest Ct, Bluffton, IN 46714",,3,3,2841
+425,https://www.zillow.com/homedetails/1584-1586-Wayne-St-Bluffton-IN-46714/248448298_zpid/,"1584-1586 Wayne St, Bluffton, IN 46714",,4,2,1748
+426,https://www.zillow.com/homedetails/122-W-South-St-Bluffton-IN-46714/85790438_zpid/,"122 W South St, Bluffton, IN 46714",,3,1.5,1358
+427,https://www.zillow.com/homedetails/2060-Fieldcrest-Dr-Bluffton-IN-46714/85787308_zpid/,"2060 Fieldcrest Dr, Bluffton, IN 46714",,3,2.5,1622
+428,https://www.zillow.com/homedetails/1554-Kensington-Dr-Bluffton-IN-46714/99221692_zpid/,"1554 Kensington Dr, Bluffton, IN 46714",,3,3,2014
+429,https://www.zillow.com/homedetails/2864-S-600-E-Bluffton-IN-46714/85788486_zpid/,"2864 S 600 E, Bluffton, IN 46714",,3,2,2352
+430,https://www.zillow.com/homedetails/1223-W-South-St-Bluffton-IN-46714/85790930_zpid/,"1223 W South St, Bluffton, IN 46714",,2,1,888
+431,https://www.zillow.com/homedetails/2200-N-Main-St-Bluffton-IN-46714/295477309_zpid/,"2200 N Main St, Bluffton, IN 46714",,0,0,9360
+432,https://www.zillow.com/homedetails/302-E-Market-St-Bluffton-IN-46714/85790447_zpid/,"302 E Market St, Bluffton, IN 46714",,3,2,2016
+433,https://www.zillow.com/homedetails/1949-S-Pleasant-Haven-Ct-Bluffton-IN-46714/85791300_zpid/,"1949 S Pleasant Haven Ct, Bluffton, IN 46714",,3,2,1400
+434,https://www.zillow.com/homedetails/2767-N-300-W-Bluffton-IN-46714/85786699_zpid/,"2767 N 300 W, Bluffton, IN 46714",,3,3,2458
+435,https://www.zillow.com/homedetails/310-Elm-Grove-Rd-Bluffton-IN-46714/85789189_zpid/,"310 Elm Grove Rd, Bluffton, IN 46714",,3,2.5,3124
+436,https://www.zillow.com/homedetails/324-W-South-St-Bluffton-IN-46714/85790192_zpid/,"324 W South St, Bluffton, IN 46714",,3,2,2016
+437,https://www.zillow.com/homedetails/202-Oak-Forest-Dr-Bluffton-IN-46714/99221680_zpid/,"202 Oak Forest Dr, Bluffton, IN 46714",,4,3,3000
+438,https://www.zillow.com/homedetails/1317-Lancaster-St-Bluffton-IN-46714/85787745_zpid/,"1317 Lancaster St, Bluffton, IN 46714",,3,2,2347
+439,https://www.zillow.com/homedetails/1653-E-550-S-Bluffton-IN-46714/85788897_zpid/,"1653 E 550 S, Bluffton, IN 46714",,3,2.5,2858
+440,https://www.zillow.com/homedetails/213-E-Perry-St-Bluffton-IN-46714/2112267937_zpid/,"213 E Perry St, Bluffton, IN 46714",,0,1,2720
+441,https://www.zillow.com/homedetails/1005-Abbey-Ln-Bluffton-IN-46714/85787909_zpid/,"1005 Abbey Ln, Bluffton, IN 46714",,3,2,1248
+442,https://www.zillow.com/homedetails/1527-W-Western-Ave-Bluffton-IN-46714/85790773_zpid/,"1527 W Western Ave, Bluffton, IN 46714",,3,1.5,1860
+443,https://www.zillow.com/homedetails/2284-N-Oak-Dr-Bluffton-IN-46714/85787154_zpid/,"2284 N Oak Dr, Bluffton, IN 46714",,3,2,2728
+444,https://www.zillow.com/homedetails/123-E-Spring-St-Bluffton-IN-46714/228167242_zpid/,"123 E Spring St, Bluffton, IN 46714",,0,0,
+445,https://www.zillow.com/homedetails/2011-S-500-W-1-Bluffton-IN-46714/85089612_zpid/,"2011 S 500 W #1, Bluffton, IN 46714",,3,2,1416
+446,https://www.zillow.com/homedetails/320-W-Central-Ave-Bluffton-IN-46714/85789251_zpid/,"320 W Central Ave, Bluffton, IN 46714",,4,2,2161
+447,https://www.zillow.com/homedetails/1025-W-Cherry-St-Bluffton-IN-46714/85789835_zpid/,"1025 W Cherry St, Bluffton, IN 46714",,3,1,1496
+448,https://www.zillow.com/homedetails/328-W-Central-Ave-APT-10-Bluffton-IN-46714/85789711_zpid/,"328 W Central Ave APT 10, Bluffton, IN 46714",,2,1,700
+449,https://www.zillow.com/homedetails/1541-Shadow-Run-Trl-Bluffton-IN-46714/228165261_zpid/,"1541 Shadow Run Trl, Bluffton, IN 46714",,3,3,2124
+450,https://www.zillow.com/homedetails/212-Lindenwood-Dr-Bluffton-IN-46714/85787470_zpid/,"212 Lindenwood Dr, Bluffton, IN 46714",,3,4,2285
+451,https://www.zillow.com/homedetails/256-E-Dustman-Rd-Bluffton-IN-46714/85787968_zpid/,"256 E Dustman Rd, Bluffton, IN 46714",,3,1,1204
+452,https://www.zillow.com/homedetails/1941-S-No-Number-Rd-Bluffton-IN-46714/85791289_zpid/,"1941 S No Number Rd, Bluffton, IN 46714",,3,2,1380
+453,https://www.zillow.com/homedetails/255-S-State-Route-201-Bluffton-IN-46714/228171344_zpid/,"255 S State Route 201, Bluffton, IN 46714",,4,2.5,2826
+454,https://www.zillow.com/homedetails/1346-Manor-Dr-Bluffton-IN-46714/85791191_zpid/,"1346 Manor Dr, Bluffton, IN 46714",,3,2,1428
+455,https://www.zillow.com/homedetails/1408-Deerbrook-Ct-Bluffton-IN-46714/85788554_zpid/,"1408 Deerbrook Ct, Bluffton, IN 46714",,3,3,1656
+456,https://www.zillow.com/homedetails/3070-S-500-W-1-Bluffton-IN-46714/227852781_zpid/,"3070 S 500 W #1, Bluffton, IN 46714",,5,0,3732
+457,https://www.zillow.com/homedetails/218-Hickory-Knoll-Dr-Bluffton-IN-46714/85787430_zpid/,"218 Hickory Knoll Dr, Bluffton, IN 46714",,4,2,1568
+458,https://www.zillow.com/homedetails/312-Hale-St-Bluffton-IN-46714/295477323_zpid/,"312 Hale St, Bluffton, IN 46714",,0,0,
+459,https://www.zillow.com/homedetails/1122-W-Washington-St-Bluffton-IN-46714/85791016_zpid/,"1122 W Washington St, Bluffton, IN 46714",,3,2,1159
+460,https://www.zillow.com/homedetails/303-W-Wabash-St-APT-1-Bluffton-IN-46714/2086636023_zpid/,"303 W Wabash St APT 1, Bluffton, IN 46714",,2,1,
+461,https://www.zillow.com/homedetails/1144-Wildwood-Ln-Bluffton-IN-46714/85789213_zpid/,"1144 Wildwood Ln, Bluffton, IN 46714",,4,3,3019
+462,https://www.zillow.com/homedetails/1518-Bell-Brook-Ct-Bluffton-IN-46714/85787488_zpid/,"1518 Bell Brook Ct, Bluffton, IN 46714",,4,2.5,2069
+463,https://www.zillow.com/homedetails/1936-S-Hoosier-Hwy-Bluffton-IN-46714/85791213_zpid/,"1936 S Hoosier Hwy, Bluffton, IN 46714",,3,1,2389
+464,https://www.zillow.com/homedetails/1010-W-Washington-St-Bluffton-IN-46714/85789811_zpid/,"1010 W Washington St, Bluffton, IN 46714",,3,1,1724
+465,https://www.zillow.com/homedetails/1002-S-Williams-St-Bluffton-IN-46714/85790026_zpid/,"1002 S Williams St, Bluffton, IN 46714",,2,2,1324
+466,https://www.zillow.com/homedetails/2504-S-200-W-Bluffton-IN-46714/85791348_zpid/,"2504 S 200 W, Bluffton, IN 46714",,3,1,1456
+467,https://www.zillow.com/homedetails/1008-S-Morgan-St-Bluffton-IN-46714/85789945_zpid/,"1008 S Morgan St, Bluffton, IN 46714",,3,1,1248
+468,https://www.zillow.com/homedetails/215-Columbian-Ave-Bluffton-IN-46714/85790788_zpid/,"215 Columbian Ave, Bluffton, IN 46714",,3,2,1187
+469,https://www.zillow.com/homedetails/175-N-450-E-Bluffton-IN-46714/85788054_zpid/,"175 N 450 E, Bluffton, IN 46714",,3,2,2104
+470,https://www.zillow.com/homedetails/1771-E-South-Timberidge-Rd-Bluffton-IN-46714/85787370_zpid/,"1771 E South Timberidge Rd, Bluffton, IN 46714",,5,3.5,2886
+471,https://www.zillow.com/homedetails/11-Westgate-Rd-Bluffton-IN-46714/85791048_zpid/,"11 Westgate Rd, Bluffton, IN 46714",,3,1.5,1040
+472,https://www.zillow.com/homedetails/1733-W-300-N-Bluffton-IN-46714/85786659_zpid/,"1733 W 300 N, Bluffton, IN 46714",,3,1,1392
+473,https://www.zillow.com/homedetails/2937-W-State-Route-218-Bluffton-IN-46714/2077789970_zpid/,"2937 W State Route 218, Bluffton, IN 46714",,4,1,3924
+474,https://www.zillow.com/homedetails/1608-S-Wayne-St-Bluffton-IN-46714/2086823933_zpid/,"1608 S Wayne St, Bluffton, IN 46714",,2,1,800
+475,https://www.zillow.com/homedetails/324-E-Wiley-Ave-Bluffton-IN-46714/85789675_zpid/,"324 E Wiley Ave, Bluffton, IN 46714",,3,2,1144
+476,https://www.zillow.com/homedetails/1204-Sunnyglenn-Ct-Bluffton-IN-46714/85790802_zpid/,"1204 Sunnyglenn Ct, Bluffton, IN 46714",,2,1,864
+477,https://www.zillow.com/homedetails/1234-W-Cherry-St-Bluffton-IN-46714/85790919_zpid/,"1234 W Cherry St, Bluffton, IN 46714",,3,2,2316
+478,https://www.zillow.com/homedetails/2836-SE-Wabash-St-Bluffton-IN-46714/295477343_zpid/,"2836 SE Wabash St, Bluffton, IN 46714",,0,0,
+479,https://www.zillow.com/homedetails/1228-W-South-St-Bluffton-IN-46714/85790944_zpid/,"1228 W South St, Bluffton, IN 46714",,3,1,1500
+480,https://www.zillow.com/homedetails/1202-Ridgewood-Ln-Bluffton-IN-46714/85788530_zpid/,"1202 Ridgewood Ln, Bluffton, IN 46714",,4,2.5,1904
+481,https://www.zillow.com/homedetails/1800-E-250-N-Bluffton-IN-46714/85787359_zpid/,"1800 E 250 N, Bluffton, IN 46714",,3,3,1796
+482,https://www.zillow.com/homedetails/1123-S-Jersey-St-Bluffton-IN-46714/85789858_zpid/,"1123 S Jersey St, Bluffton, IN 46714",,3,1,1008
+483,https://www.zillow.com/homedetails/1540-Wexford-Ct-Bluffton-IN-46714/85787538_zpid/,"1540 Wexford Ct, Bluffton, IN 46714",,3,3.5,1792
+484,https://www.zillow.com/homedetails/327-W-South-St-Bluffton-IN-46714/85790004_zpid/,"327 W South St, Bluffton, IN 46714",,3,1,1424
+485,https://www.zillow.com/homedetails/1413-Parlor-City-Dr-Bluffton-IN-46714/85788569_zpid/,"1413 Parlor City Dr, Bluffton, IN 46714",,3,2.5,2330
+486,https://www.zillow.com/homedetails/1643-N-William-Wells-Cir-Bluffton-IN-46714/85787704_zpid/,"1643 N William Wells Cir, Bluffton, IN 46714",,3,2,1741
+487,https://www.zillow.com/homedetails/327-Crestwood-Ct-Bluffton-IN-46714/85787239_zpid/,"327 Crestwood Ct, Bluffton, IN 46714",,3,3.5,2181
+488,https://www.zillow.com/homedetails/119-E-Townley-St-Bluffton-IN-46714/85790613_zpid/,"119 E Townley St, Bluffton, IN 46714",,2,1,1116
+489,https://www.zillow.com/homedetails/127-E-Central-Ave-Bluffton-IN-46714/85790317_zpid/,"127 E Central Ave, Bluffton, IN 46714",,3,1.5,1289
+490,https://www.zillow.com/homedetails/1787-E-350-S-Bluffton-IN-46714/85788754_zpid/,"1787 E 350 S, Bluffton, IN 46714",,3,2,2956
+491,https://www.zillow.com/homedetails/15-Westgate-Rd-Bluffton-IN-46714/85791049_zpid/,"15 Westgate Rd, Bluffton, IN 46714",,3,1,1040
+492,https://www.zillow.com/homedetails/1422-Bell-Brook-Blvd-Bluffton-IN-46714/85787550_zpid/,"1422 Bell Brook Blvd, Bluffton, IN 46714",,3,2.5,1935
+493,https://www.zillow.com/homedetails/1525-Kensington-Dr-Bluffton-IN-46714/228165432_zpid/,"1525 Kensington Dr, Bluffton, IN 46714",,3,2.5,1774
+494,https://www.zillow.com/homedetails/226-Willowbrook-Trl-Bluffton-IN-46714/85787613_zpid/,"226 Willowbrook Trl, Bluffton, IN 46714",,4,2,1914
+495,https://www.zillow.com/homedetails/2412-E-Terrace-Dr-Bluffton-IN-46714/85787714_zpid/,"2412 E Terrace Dr, Bluffton, IN 46714",,3,3,2510
+496,https://www.zillow.com/homedetails/2259-SW-Church-Rd-Bluffton-IN-46714/228166271_zpid/,"2259 SW Church Rd, Bluffton, IN 46714",,3,1,1568
+497,https://www.zillow.com/homedetails/310-Toll-Cir-Bluffton-IN-46714/85787670_zpid/,"310 Toll Cir, Bluffton, IN 46714",,3,2,2232
+498,https://www.zillow.com/homedetails/1425-Lancaster-St-Bluffton-IN-46714/85787747_zpid/,"1425 Lancaster St, Bluffton, IN 46714",,3,1,1368
+499,https://www.zillow.com/homedetails/2243-SE-State-Route-116-Bluffton-IN-46714/120610810_zpid/,"2243 SE State Route 116, Bluffton, IN 46714",,3,2.5,2643
+500,https://www.zillow.com/homedetails/1108-N-Washington-St-Bluffton-IN-46714/85787084_zpid/,"1108 N Washington St, Bluffton, IN 46714",,3,2,1792
+501,https://www.zillow.com/homedetails/319-E-Central-Ave-Bluffton-IN-46714/85790351_zpid/,"319 E Central Ave, Bluffton, IN 46714",,2,1,1036
+502,https://www.zillow.com/homedetails/208-N-Johnson-St-Bluffton-IN-46714/94631980_zpid/,"208 N Johnson St, Bluffton, IN 46714",,6,6,3354
+503,https://www.zillow.com/homedetails/1314-W-Central-Ave-Bluffton-IN-46714/85790941_zpid/,"1314 W Central Ave, Bluffton, IN 46714",,2,1,600
+504,https://www.zillow.com/homedetails/328-S-Beth-Ave-Bluffton-IN-46714/85791000_zpid/,"328 S Beth Ave, Bluffton, IN 46714",,3,1,832
+505,https://www.zillow.com/homedetails/106-Briarcrest-Pl-Bluffton-IN-46714/85787553_zpid/,"106 Briarcrest Pl, Bluffton, IN 46714",,4,2,2000
+506,https://www.zillow.com/homedetails/1505-Bell-Brook-Ct-Bluffton-IN-46714/85787485_zpid/,"1505 Bell Brook Ct, Bluffton, IN 46714",,4,3,2145
+507,https://www.zillow.com/homedetails/1407-Stogdill-Rd-Bluffton-IN-46714/85788434_zpid/,"1407 Stogdill Rd, Bluffton, IN 46714",,3,2,1966
+508,https://www.zillow.com/homedetails/1426-Brookhaven-Ct-Bluffton-IN-46714/85788563_zpid/,"1426 Brookhaven Ct, Bluffton, IN 46714",,3,2,2000
+509,https://www.zillow.com/homedetails/1516-S-Sutton-Circle-Dr-Bluffton-IN-46714/94631916_zpid/,"1516 S Sutton Circle Dr, Bluffton, IN 46714",,3,3,2048
+510,https://www.zillow.com/homedetails/1423-Western-Ave-Bluffton-IN-46714/85790902_zpid/,"1423 Western Ave, Bluffton, IN 46714",,2,1,1649
+511,https://www.zillow.com/homedetails/1430-Hi-Lo-Dr-Bluffton-IN-46714/85791118_zpid/,"1430 Hi Lo Dr, Bluffton, IN 46714",,3,1,1056
+512,https://www.zillow.com/homedetails/1432-W-South-St-Bluffton-IN-46714/85790885_zpid/,"1432 W South St, Bluffton, IN 46714",,3,1,1500
+513,https://www.zillow.com/homedetails/155-E-Linn-Rd-Bluffton-IN-46714/85791173_zpid/,"155 E Linn Rd, Bluffton, IN 46714",,3,1.5,1058
+514,https://www.zillow.com/homedetails/122-E-Ohio-St-Bluffton-IN-46714/85789431_zpid/,"122 E Ohio St, Bluffton, IN 46714",,3,2.5,1808
+515,https://www.zillow.com/homedetails/1276-E-250-S-Bluffton-IN-46714/85788712_zpid/,"1276 E 250 S, Bluffton, IN 46714",,2,2,1464
+516,https://www.zillow.com/homedetails/1319-W-South-St-Bluffton-IN-46714/85790988_zpid/,"1319 W South St, Bluffton, IN 46714",,2,1.5,1140
+517,https://www.zillow.com/homedetails/1010-W-Wabash-St-Bluffton-IN-46714/85790167_zpid/,"1010 W Wabash St, Bluffton, IN 46714",,4,1,2536
+518,https://www.zillow.com/homedetails/125-Beechwood-Pl-Bluffton-IN-46714/85787615_zpid/,"125 Beechwood Pl, Bluffton, IN 46714",,3,2,1224
+519,https://www.zillow.com/homedetails/1015-S-Marion-St-Bluffton-IN-46714/85789408_zpid/,"1015 S Marion St, Bluffton, IN 46714",,2,1.5,1262
+520,https://www.zillow.com/homedetails/1177-S-450-E-Bluffton-IN-46714/85788451_zpid/,"1177 S 450 E, Bluffton, IN 46714",,3,2,1656
+521,https://www.zillow.com/homedetails/315-Stillwater-Dr-Bluffton-IN-46714/85787236_zpid/,"315 Stillwater Dr, Bluffton, IN 46714",,3,2.5,1764
+522,https://www.zillow.com/homedetails/2413-Red-Oak-Ct-Bluffton-IN-46714/85787306_zpid/,"2413 Red Oak Ct, Bluffton, IN 46714",,3,3.5,2109
+523,https://www.zillow.com/homedetails/1315-Hunter-Rd-Bluffton-IN-46714/85787660_zpid/,"1315 Hunter Rd, Bluffton, IN 46714",,3,2,1184
+524,https://www.zillow.com/homedetails/1635-S-Sutton-Circle-Dr-Bluffton-IN-46714/94631961_zpid/,"1635 S Sutton Circle Dr, Bluffton, IN 46714",,6,5,5082
+525,https://www.zillow.com/homedetails/24-Columbian-Ave-Bluffton-IN-46714/85791039_zpid/,"24 Columbian Ave, Bluffton, IN 46714",,3,2.5,1728
+526,https://www.zillow.com/homedetails/200-W-300-S-Bluffton-IN-46714/85791494_zpid/,"200 W 300 S, Bluffton, IN 46714",,3,2,1726
+527,https://www.zillow.com/homedetails/325-N-Williams-St-Bluffton-IN-46714/85787871_zpid/,"325 N Williams St, Bluffton, IN 46714",,2,1,1276
