@@ -32,8 +32,8 @@ h <- historical %>%
 i <- info %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>% separate(statezip, sep = ' ', into = c('state','zip'))
 ```
 ```{r}
-i <- i %>% filter(beds > 0 & baths > 0) %>% select(!'X' & !'list_price')
-h <- h[,-c(1:4)]
+i <- i %>% filter(beds > 0 & baths > 0) %>% select(link:sqft & !'list_price')
+h <- h %>% select(street:price)
 ```
 
 
@@ -44,7 +44,6 @@ change <- historical %>% filter(Event == "Price change") %>% separate(Price, sep
 ```
 
 ```{r}
-h
 sold_info <- sold %>%
   left_join(i, by = c("street","city","state","zip"))
 si <- sold_info %>%
@@ -66,7 +65,6 @@ si %>% filter(complete.cases(si)) %>%
   summarise(mean_sale = mean(price)) %>%
   as_tsibble(index = Date) %>%
   autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, All Homes")
-
 si %>% filter(complete.cases(si)) %>%
   mutate(Date = yearquarter(Date)) %>%
   group_by(Date) %>%
@@ -83,5 +81,15 @@ soldyr_ts <- si %>% filter(complete.cases(si)) %>%
   as_tsibble(index = Date)
 
 soldyr_ts %>% fill_gaps() %>% model(stl = STL(mean_sale)) %>% components() %>% autoplot() + ggtitle("Time Series Decomposition of Yearly Mean Sale Price, All Homes")
+```
+
+
+```{r}
+si %>% group_by(Date, County) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date, key = County) %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(total_sales)) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(count_sales)) %>% components() %>% autoplot()
+
 ```
 
