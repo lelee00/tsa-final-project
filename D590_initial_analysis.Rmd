@@ -1,5 +1,5 @@
 ---
-title: "D590 Final Project Initial Analysis"
+title: "Initial Analysis"
 author: "LE Lee"
 date: "3/30/2022"
 output: html_document
@@ -14,56 +14,74 @@ library(tidyr)
 library(lubridate)
 library(tsibble)
 library(stringr)
-```
-
-
-```{r}
-county_zips <- read.csv('county-zips.csv', header = T)
-historical <- read.csv('historical_initial.csv', header = T) %>%
-  separate(address, sep = ', ', into = c("street","city","statezip")) %>%
-  separate(statezip, sep = ' ', into = c('state','zip')) %>%
-  separate(Price, sep = " ", into = c("price", NA)) %>% select(! X)
-info <- read.csv('info_initial.csv', header = T) %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>% separate(statezip, sep = ' ', into = c('state','zip')) %>% select(! X)
-```
-
-
-```{r}
-h <- historical %>% mutate(Date = mdy(Date), .before = street)
-all = h %>% left_join(info, by = c('street', 'city', 'zip','state'))
-new <- all %>% filter(!duplicated(all[,-8])) %>% as_tsibble(index = Date, key = c(street, Event, price,link), regular = F) %>% mutate(my = yearmonth(Date),.after = Date) %>% mutate(price = as.numeric(str_replace_all(price, "[[$,]]","")))
-new %>% group_by(Event) %>% aggregate.ts(mean(price))
-new  %>% ggplot(aes(x = my, y = price, colour = Event)) + geom_point() + geom_line(group = new$street)
-```
-
-
-
-```{r}
-historical %>%
-  mutate(Date = mdy(Date), price = as.numeric(str_replace_all(price, "[[$,]]",""))) %>%
-  select(Date, Event, price, street) %>%
-  group_by(Date, Event) %>% summarise(mean = mean(price)) %>% ggplot(aes(x = Date, y = mean, colour = Event)) + geom_line()
-```
-
-
-```{r}
-historical
-historical %>% filter(Event != "Listed for rent") %>%
-  mutate(Date = mdy(Date), price = as.numeric(str_replace_all(price, "[[$,]]",""))) %>% ggplot(aes(x = price, colour = Event)) + geom_density() + facet_grid(.~zip)
+library(feasts)
+library(imputeTS)
 ```
 
 ```{r}
-info %>% ggplot(aes(x = beds)) + geom_density()
-info %>% ggplot(aes(x = baths)) + geom_density()
-historical %>% 
-  mutate(Date = mdy(Date), price = as.numeric(str_replace_all(price, "[[$,]]",""))) %>% ggplot(aes(x = Date, colour = Event)) + geom_density()
+county_zips <- read.csv('county-zips.csv', header = T) %>% rename(zip = Zip) %>% mutate(zip = as.character(zip))
+historical <- read.csv('historical_initial.csv', header = T)
+info <- read.csv('info_initial.csv', header = T)
 ```
 
 ```{r}
 h <- historical %>%
-  mutate(Date = mdy(Date), price = as.numeric(str_replace_all(price, "[[$,]]","")))
+  separate(address, sep = ', ', into = c("street","city","statezip")) %>%
+  separate(statezip, sep = ' ', into = c('state','zip')) %>%
+  separate(Price, sep = " ", into = c("price", NA))
+i <- info %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>% separate(statezip, sep = ' ', into = c('state','zip'))
+```
+```{r}
+i <- i %>% filter(beds > 0 & baths > 0) %>% select(!'X' & !'list_price')
+h <- h[,-c(1:4)]
+```
+
+
+```{r}
+sold <- h %>% filter(Event == "Sold")
+list <- h %>% filter(Event == "Listed for sale")
+change <- historical %>% filter(Event == "Price change") %>% separate(Price, sep = " ", into = c("to","pct"))
 ```
 
 ```{r}
-h %>% filter(Event == 'Sold') %>% ggplot(aes(x = Event, colour = Event)) + geom_boxplot() + facet_grid(.~year(Date))
+h
+sold_info <- sold %>%
+  left_join(i, by = c("street","city","state","zip"))
+si <- sold_info %>%
+  filter(complete.cases(sold_info)) %>%
+  left_join(county_zips, by = 'zip') %>%
+  relocate(Date, .before = street) %>%
+  relocate(County, .before = street) %>%
+  mutate(Date = yearmonth(mdy(Date)), price = as.numeric(str_replace_all(price, "[[$,]]",""))) 
+```
+
+```{r}
+si %>% filter(complete.cases(si)) %>%
+  group_by(Date, County) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date, key = County) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, All Homes, By County")
+si %>% filter(complete.cases(si)) %>%
+  group_by(Date) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, All Homes")
+
+si %>% filter(complete.cases(si)) %>%
+  mutate(Date = yearquarter(Date)) %>%
+  group_by(Date) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Quarterly Mean Sale Price, All Homes")
+```
+
+
+```{r}
+soldyr_ts <- si %>% filter(complete.cases(si)) %>%
+  mutate(Date = year(Date)) %>% group_by(Date) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date)
+
+soldyr_ts %>% fill_gaps() %>% model(stl = STL(mean_sale)) %>% components() %>% autoplot() + ggtitle("Time Series Decomposition of Yearly Mean Sale Price, All Homes")
 ```
 
