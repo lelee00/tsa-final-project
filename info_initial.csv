@@ -2360,3 +2360,743 @@
 2358,,https://www.zillow.com/homedetails/512-E-Pontiac-St-Fort-Wayne-IN-46803/73112711_zpid/,"512 E Pontiac St, Fort Wayne, IN 46803",,4,1,1898
 2359,,https://www.zillow.com/homedetails/755-Blaine-Ave-South-Bend-IN-46616/77020963_zpid/,"755 Blaine Ave, South Bend, IN 46616",,3,1,1344
 2360,,https://www.zillow.com/homedetails/1325-W-Jefferson-St-Kokomo-IN-46901/214228228_zpid/,"1325 W Jefferson St, Kokomo, IN 46901",,4,1,2184
+2361,,https://www.zillow.com/homedetails/2323-Fairfield-Ave-Fort-Wayne-IN-46807/122701679_zpid/,"2323 Fairfield Ave, Fort Wayne, IN 46807",,3,1,24928
+2362,,https://www.zillow.com/homedetails/1509-Spring-Cress-Rd-Fort-Wayne-IN-46814/73101022_zpid/,"1509 Spring Cress Rd, Fort Wayne, IN 46814",,3,3,2206
+2363,,https://www.zillow.com/homedetails/3781-W-1050-N-Kingman-IN-47952/85653986_zpid/,"3781 W 1050 N, Kingman, IN 47952",,4,1,2152
+2364,,https://www.zillow.com/homedetails/129-Lexington-Ct-Fort-Wayne-IN-46806/73117136_zpid/,"129 Lexington Ct, Fort Wayne, IN 46806",,3,1,1496
+2365,,https://www.zillow.com/homedetails/4019-Wenonah-Ln-Fort-Wayne-IN-46809/73189626_zpid/,"4019 Wenonah Ln, Fort Wayne, IN 46809",,2,1,1360
+2366,,https://www.zillow.com/homedetails/9655-Griffin-Rd-Griffin-IN-47616/128503959_zpid/,"9655 Griffin Rd, Griffin, IN 47616",,1,1,336
+2367,,https://www.zillow.com/homedetails/15102-Bristlecone-Ct-Fort-Wayne-IN-46814/180528832_zpid/,"15102 Bristlecone Ct, Fort Wayne, IN 46814",,4,2.5,2082
+2368,,https://www.zillow.com/homedetails/1132-Columbia-Ave-APT-2-Fort-Wayne-IN-46805/2087821573_zpid/,"1132 Columbia Ave APT 2, Fort Wayne, IN 46805",,3,1,950
+2369,,https://www.zillow.com/homedetails/2727-Busche-Dr-Fort-Wayne-IN-46815/73209830_zpid/,"2727 Busche Dr, Fort Wayne, IN 46815",,3,2.5,1962
+2370,,https://www.zillow.com/homedetails/14905-S-Harbourside-Dr-Fort-Wayne-IN-46814/73108837_zpid/,"14905 S Harbourside Dr, Fort Wayne, IN 46814",,4,3,1970
+2371,,https://www.zillow.com/homedetails/7295-N-1100-E-Colfax-IN-46035/94528832_zpid/,"7295 N 1100 E, Colfax, IN 46035",,3,2,1848
+2372,,https://www.zillow.com/homedetails/4667-S-500-W-Kingman-IN-47952/85250893_zpid/,"4667 S 500 W, Kingman, IN 47952",,0,2,1740
+2373,,https://www.zillow.com/homedetails/2936-Gay-St-Fort-Wayne-IN-46806/73187569_zpid/,"2936 Gay St, Fort Wayne, IN 46806",,2,1,869
+2374,,https://www.zillow.com/homedetails/1022-Jackson-St-Columbus-IN-47201/115570716_zpid/,"1022 Jackson St, Columbus, IN 47201",,2,2,1401
+2375,,https://www.zillow.com/homedetails/5272-S-700-E-Waldron-IN-46182/85702108_zpid/,"5272 S 700 E, Waldron, IN 46182",,2,3,3904
+2376,,https://www.zillow.com/homedetails/1457-Bockhofer-Rd-Fountain-City-IN-47341/85783800_zpid/,"1457 Bockhofer Rd, Fountain City, IN 47341",,3,1,1288
+2377,,https://www.zillow.com/homedetails/4348-S-State-Road-341-Kingman-IN-47952/231363051_zpid/,"4348 S State Road 341, Kingman, IN 47952",,0,1,1052
+2378,,https://www.zillow.com/homedetails/1620-Lakehurst-Dr-Fort-Wayne-IN-46815/2106549183_zpid/,"1620 Lakehurst Dr, Fort Wayne, IN 46815",,0,1,
+2379,,https://www.zillow.com/homedetails/302-W-Leith-St-Fort-Wayne-IN-46807/73115632_zpid/,"302 W Leith St, Fort Wayne, IN 46807",,3,1,1516
+2380,,https://www.zillow.com/homedetails/203-Sandalwood-Dr-Monticello-IN-47960/102899401_zpid/,"203 Sandalwood Dr, Monticello, IN 47960",,3,2,1674
+2381,,https://www.zillow.com/homedetails/10877-S-500-W-Columbus-IN-47201/85107380_zpid/,"10877 S 500 W, Columbus, IN 47201",,4,1.5,1987
+2382,,https://www.zillow.com/homedetails/1428-Swinney-Ave-Fort-Wayne-IN-46802/73187487_zpid/,"1428 Swinney Ave, Fort Wayne, IN 46802",,1,1,542
+2383,,https://www.zillow.com/homedetails/3432-Chelmsford-Pl-Fort-Wayne-IN-46815/73172165_zpid/,"3432 Chelmsford Pl, Fort Wayne, IN 46815",,3,2,1500
+2384,,https://www.zillow.com/homedetails/6148-N-Main-St-Ossian-IN-46777/85786025_zpid/,"6148 N Main St, Ossian, IN 46777",,3,1,1392
+2385,,https://www.zillow.com/homedetails/18043-W-Stoneberger-Rd-Griffin-IN-47616/224375864_zpid/,"18043 W Stoneberger Rd, Griffin, IN 47616",,0,1,672
+2386,,https://www.zillow.com/homedetails/1805-W-State-Blvd-Fort-Wayne-IN-46808/73203891_zpid/,"1805 W State Blvd, Fort Wayne, IN 46808",,3,1,1209
+2387,,https://www.zillow.com/homedetails/3014-McArthur-Dr-APT-3-Fort-Wayne-IN-46809/2088827679_zpid/,"3014 McArthur Dr APT 3, Fort Wayne, IN 46809",,2,1,850
+2388,,https://www.zillow.com/homedetails/3011-Getz-Rd-Fort-Wayne-IN-46804/73118814_zpid/,"3011 Getz Rd, Fort Wayne, IN 46804",,4,2,1683
+2389,,https://www.zillow.com/homedetails/1319-E-Vaile-Ave-Kokomo-IN-46901/85374989_zpid/,"1319 E Vaile Ave, Kokomo, IN 46901",,2,1,728
+2390,,https://www.zillow.com/homedetails/13075-W-Becks-Grove-Rd-Columbus-IN-47201/85081512_zpid/,"13075 W Becks Grove Rd, Columbus, IN 47201",,3,2,1904
+2391,,https://www.zillow.com/homedetails/1819-Connaught-Ct-Fort-Wayne-IN-46815/73210464_zpid/,"1819 Connaught Ct, Fort Wayne, IN 46815",,3,2,1416
+2392,,https://www.zillow.com/homedetails/1523-N-Anthony-Blvd-Fort-Wayne-IN-46805/73178039_zpid/,"1523 N Anthony Blvd, Fort Wayne, IN 46805",,2,2,1724
+2393,,https://www.zillow.com/homedetails/606-E-Main-Cross-St-Edinburgh-IN-46124/85436112_zpid/,"606 E Main Cross St, Edinburgh, IN 46124",,6,4,6000
+2394,,https://www.zillow.com/homedetails/2833-Abbott-St-Fort-Wayne-IN-46806/73194495_zpid/,"2833 Abbott St, Fort Wayne, IN 46806",,3,1,1315
+2395,,https://www.zillow.com/homedetails/10128-Kelsey-Dr-Fort-Wayne-IN-46804/180531803_zpid/,"10128 Kelsey Dr, Fort Wayne, IN 46804",,3,2,2182
+2396,,https://www.zillow.com/homedetails/3007-Allegany-Ave-Fort-Wayne-IN-46809/73119203_zpid/,"3007 Allegany Ave, Fort Wayne, IN 46809",,2,1,1004
+2397,,https://www.zillow.com/homedetails/3383-Bellview-Ln-Rising-Sun-IN-47040/94539548_zpid/,"3383 Bellview Ln, Rising Sun, IN 47040",,3,2,1152
+2398,,https://www.zillow.com/homedetails/3667-E-1000-N-Ossian-IN-46777/85784595_zpid/,"3667 E 1000 N, Ossian, IN 46777",,2,1.5,1344
+2399,,https://www.zillow.com/homedetails/1922-Saint-Joe-Blvd-Fort-Wayne-IN-46805/73177429_zpid/,"1922 Saint Joe Blvd, Fort Wayne, IN 46805",,3,1.5,1548
+2400,,https://www.zillow.com/homedetails/2832-Broadway-Fort-Wayne-IN-46807/73117847_zpid/,"2832 Broadway, Fort Wayne, IN 46807",,1,1,792
+2401,,https://www.zillow.com/homedetails/113-N-West-St-Griffin-IN-47616/94544922_zpid/,"113 N West St, Griffin, IN 47616",,3,1,1008
+2402,,https://www.zillow.com/homedetails/513-Fulford-Dr-Edinburgh-IN-46124/85435795_zpid/,"513 Fulford Dr, Edinburgh, IN 46124",,4,2,1175
+2403,,https://www.zillow.com/homedetails/122-Jones-St-Columbus-IN-47201/102839175_zpid/,"122 Jones St, Columbus, IN 47201",,2,1,1098
+2404,,https://www.zillow.com/homedetails/1805-Emerson-Ave-Fort-Wayne-IN-46808/73204023_zpid/,"1805 Emerson Ave, Fort Wayne, IN 46808",,2,1,1090
+2405,,https://www.zillow.com/homedetails/2908-Pinewood-Dr-Fort-Wayne-IN-46809/73191942_zpid/,"2908 Pinewood Dr, Fort Wayne, IN 46809",,3,2,1706
+2406,,https://www.zillow.com/homedetails/1820-W-Main-St-Fort-Wayne-IN-46808/73192510_zpid/,"1820 W Main St, Fort Wayne, IN 46808",,4,2,1632
+2407,,https://www.zillow.com/homedetails/1019-Erwin-St-Elkhart-IN-46514/50614351_zpid/,"1019 Erwin St, Elkhart, IN 46514",,3,2,1568
+2408,,https://www.zillow.com/homedetails/1425-Curdes-Ave-Fort-Wayne-IN-46805/73159356_zpid/,"1425 Curdes Ave, Fort Wayne, IN 46805",,3,1,1344
+2409,,https://www.zillow.com/homedetails/119-S-Seminole-Cir-Fort-Wayne-IN-46807/73121190_zpid/,"119 S Seminole Cir, Fort Wayne, IN 46807",,3,1.5,1588
+2410,,https://www.zillow.com/homedetails/522-Poplar-Dr-Pittsboro-IN-46167/85329308_zpid/,"522 Poplar Dr, Pittsboro, IN 46167",,2,1,1066
+2411,,https://www.zillow.com/homedetails/1823-Berkley-Ave-Fort-Wayne-IN-46815/73172975_zpid/,"1823 Berkley Ave, Fort Wayne, IN 46815",,3,1,1000
+2412,,https://www.zillow.com/homedetails/2618-Buckhurst-Run-Fort-Wayne-IN-46815/73182496_zpid/,"2618 Buckhurst Run, Fort Wayne, IN 46815",,4,3,3391
+2413,,https://www.zillow.com/homedetails/12033-Haddington-Ct-Fort-Wayne-IN-46814/73109250_zpid/,"12033 Haddington Ct, Fort Wayne, IN 46814",,2,3,2368
+2414,,https://www.zillow.com/homedetails/12918-Clydesdale-Ct-Fort-Wayne-IN-46814/180533324_zpid/,"12918 Clydesdale Ct, Fort Wayne, IN 46814",,3,2.5,2317
+2415,,https://www.zillow.com/homedetails/1121-High-St-Fort-Wayne-IN-46808/73126701_zpid/,"1121 High St, Fort Wayne, IN 46808",,2,1,660
+2416,,https://www.zillow.com/homedetails/18288-W-Stoneberger-Rd-Griffin-IN-47616/126943412_zpid/,"18288 W Stoneberger Rd, Griffin, IN 47616",,0,1,460
+2417,,https://www.zillow.com/homedetails/1315-W-Sycamore-St-Kokomo-IN-46901/94423215_zpid/,"1315 W Sycamore St, Kokomo, IN 46901",,6,2,2608
+2418,,https://www.zillow.com/homedetails/1435-Spy-Run-Ave-Fort-Wayne-IN-46805/73120171_zpid/,"1435 Spy Run Ave, Fort Wayne, IN 46805",,2,1,1272
+2419,,https://www.zillow.com/homedetails/10-E-800-S-Columbus-IN-47201/249936721_zpid/,"10 E 800 S, Columbus, IN 47201",,3,2.5,1608
+2420,,https://www.zillow.com/homedetails/11105-Ravenna-Way-Indianapolis-IN-46236/66384358_zpid/,"11105 Ravenna Way, Indianapolis, IN 46236",,0,3.5,3440
+2421,,https://www.zillow.com/homedetails/508-S-Odd-St-Kingman-IN-47952/114356736_zpid/,"508 S Odd St, Kingman, IN 47952",,3,2,938
+2422,,https://www.zillow.com/homedetails/1312-W-Sycamore-St-Kokomo-IN-46901/85370451_zpid/,"1312 W Sycamore St, Kokomo, IN 46901",,4,3,2227
+2423,,https://www.zillow.com/homedetails/607-High-School-Dr-Edinburgh-IN-46124/85435831_zpid/,"607 High School Dr, Edinburgh, IN 46124",,5,1,1513
+2424,,https://www.zillow.com/homedetails/451-W-Williams-St-Fort-Wayne-IN-46802/73186826_zpid/,"451 W Williams St, Fort Wayne, IN 46802",,4,4,2912
+2425,,https://www.zillow.com/homedetails/2625-Mounded-Ct-Fort-Wayne-IN-46815/73173318_zpid/,"2625 Mounded Ct, Fort Wayne, IN 46815",,3,2,1543
+2426,,https://www.zillow.com/homedetails/2401-John-St-Fort-Wayne-IN-46803/116256778_zpid/,"2401 John St, Fort Wayne, IN 46803",,3,2,1835
+2427,,https://www.zillow.com/homedetails/2925-Schaper-Dr-Fort-Wayne-IN-46806/73194917_zpid/,"2925 Schaper Dr, Fort Wayne, IN 46806",,3,2.5,1888
+2428,,https://www.zillow.com/homedetails/5388-E-800-N-Ossian-IN-46777/85785823_zpid/,"5388 E 800 N, Ossian, IN 46777",,4,2,2164
+2429,,https://www.zillow.com/homedetails/6612-Kingman-Dr-Indianapolis-IN-46256/1150837_zpid/,"6612 Kingman Dr, Indianapolis, IN 46256",,4,3,2206
+2430,,https://www.zillow.com/homedetails/1302-9th-St-Columbus-IN-47201/102838025_zpid/,"1302 9th St, Columbus, IN 47201",,1,1,768
+2431,,https://www.zillow.com/homedetails/1320-17th-St-Columbus-IN-47201/85099781_zpid/,"1320 17th St, Columbus, IN 47201",,3,1.5,1242
+2432,,https://www.zillow.com/homedetails/7102-Tuliptree-Trl-Indianapolis-IN-46256/1152089_zpid/,"7102 Tuliptree Trl, Indianapolis, IN 46256",,5,6,4889
+2433,,https://www.zillow.com/homedetails/5229-Bluffton-Rd-Fort-Wayne-IN-46809/73190065_zpid/,"5229 Bluffton Rd, Fort Wayne, IN 46809",,2,1,936
+2434,,https://www.zillow.com/homedetails/3002-E-Maple-Grove-Ave-Fort-Wayne-IN-46806/73194935_zpid/,"3002 E Maple Grove Ave, Fort Wayne, IN 46806",,3,2.5,1863
+2435,,https://www.zillow.com/homedetails/11428-Deep-Cut-Lake-Rd-Shoals-IN-47581/234920469_zpid/,"11428 Deep Cut Lake Rd, Shoals, IN 47581",,3,1,2136
+2436,,https://www.zillow.com/homedetails/1331-Pinehurst-Dr-Fort-Wayne-IN-46815/73138066_zpid/,"1331 Pinehurst Dr, Fort Wayne, IN 46815",,4,2,1992
+2437,,https://www.zillow.com/homedetails/11131-W-Grandview-Dr-Columbus-IN-47201/102833601_zpid/,"11131 W Grandview Dr, Columbus, IN 47201",,3,2,1412
+2438,,https://www.zillow.com/homedetails/10311-Weisbach-Rd-Shoals-IN-47581/103906149_zpid/,"10311 Weisbach Rd, Shoals, IN 47581",,2,2,1872
+2439,,https://www.zillow.com/homedetails/1728-N-Royal-Oaks-Dr-Monticello-IN-47960/112211414_zpid/,"1728 N Royal Oaks Dr, Monticello, IN 47960",,4,3,2668
+2440,,https://www.zillow.com/homedetails/220-W-Fleming-Ave-Fort-Wayne-IN-46807/73121200_zpid/,"220 W Fleming Ave, Fort Wayne, IN 46807",,3,3,1402
+2441,,https://www.zillow.com/homedetails/3024-Settlement-Creek-Run-Fort-Wayne-IN-46804/73184241_zpid/,"3024 Settlement Creek Run, Fort Wayne, IN 46804",,4,3,2094
+2442,,https://www.zillow.com/homedetails/2117-Bayside-Ct-A-Fort-Wayne-IN-46804/94269135_zpid/,"2117 Bayside Ct #A, Fort Wayne, IN 46804",,0,1.5,1296
+2443,,https://www.zillow.com/homedetails/2211-S-Calhoun-St-Fort-Wayne-IN-46802/73110435_zpid/,"2211 S Calhoun St, Fort Wayne, IN 46802",,8,5,3111
+2444,,https://www.zillow.com/homedetails/3686-Delaware-St-Gary-IN-46409/73341977_zpid/,"3686 Delaware St, Gary, IN 46409",,4,1.5,1450
+2445,,https://www.zillow.com/homedetails/1270-E-450-S-Columbus-IN-47201/102833929_zpid/,"1270 E 450 S, Columbus, IN 47201",,3,2,3606
+2446,,https://www.zillow.com/homedetails/2908-Holton-Ave-Fort-Wayne-IN-46806/73187842_zpid/,"2908 Holton Ave, Fort Wayne, IN 46806",,3,1,1520
+2447,,https://www.zillow.com/homedetails/205-Royalwood-Dr-Monticello-IN-47960/228038390_zpid/,"205 Royalwood Dr, Monticello, IN 47960",,3,3,1887
+2448,,https://www.zillow.com/homedetails/1247-N-Glendale-Dr-Fort-Wayne-IN-46804/73129080_zpid/,"1247 N Glendale Dr, Fort Wayne, IN 46804",,2,1,1110
+2449,,https://www.zillow.com/homedetails/3720-Mulberry-Rd-Fort-Wayne-IN-46802/73129559_zpid/,"3720 Mulberry Rd, Fort Wayne, IN 46802",,3,2,1712
+2450,,https://www.zillow.com/homedetails/324-S-Mulberry-St-Rising-Sun-IN-47040/85641089_zpid/,"324 S Mulberry St, Rising Sun, IN 47040",,2,1,1224
+2451,,https://www.zillow.com/homedetails/208-Ridge-Ct-Ossian-IN-46777/85785741_zpid/,"208 Ridge Ct, Ossian, IN 46777",,4,4,2734
+2452,,https://www.zillow.com/homedetails/1014-Oakland-St-Fort-Wayne-IN-46808/73126835_zpid/,"1014 Oakland St, Fort Wayne, IN 46808",,2,1,720
+2453,,https://www.zillow.com/homedetails/3326-Chelmsford-Pl-Fort-Wayne-IN-46815/73181474_zpid/,"3326 Chelmsford Pl, Fort Wayne, IN 46815",,4,2.5,1760
+2454,,https://www.zillow.com/homedetails/53-N-Maple-St-Pittsboro-IN-46167/94417639_zpid/,"53 N Maple St, Pittsboro, IN 46167",,2,1,1200
+2455,,https://www.zillow.com/homedetails/1124-Charlotte-Ave-Fort-Wayne-IN-46805/73161739_zpid/,"1124 Charlotte Ave, Fort Wayne, IN 46805",,3,1,936
+2456,,https://www.zillow.com/homedetails/10126-White-Cedar-Rd-Fort-Wayne-IN-46804/73177573_zpid/,"10126 White Cedar Rd, Fort Wayne, IN 46804",,3,2,1674
+2457,,https://www.zillow.com/homedetails/2207-Broadway-Fort-Wayne-IN-46802/73110531_zpid/,"2207 Broadway, Fort Wayne, IN 46802",,2,2,1553
+2458,,https://www.zillow.com/homedetails/1134-Dodge-Ave-Fort-Wayne-IN-46805/73161773_zpid/,"1134 Dodge Ave, Fort Wayne, IN 46805",,2,1,1292
+2459,,https://www.zillow.com/homedetails/2246-Muscoday-Pass-Fort-Wayne-IN-46809/94269964_zpid/,"2246 Muscoday Pass, Fort Wayne, IN 46809",,3,1,2724
+2460,,https://www.zillow.com/homedetails/6634-W-State-Road-252-Edinburgh-IN-46124/120248250_zpid/,"6634 W State Road 252, Edinburgh, IN 46124",,3,2,3108
+2461,,https://www.zillow.com/homedetails/12921-W-Old-Nashville-Rd-Columbus-IN-47201/85081269_zpid/,"12921 W Old Nashville Rd, Columbus, IN 47201",,3,2,1261
+2462,,https://www.zillow.com/homedetails/3321-Delray-Dr-Fort-Wayne-IN-46815/73208434_zpid/,"3321 Delray Dr, Fort Wayne, IN 46815",,4,2.5,2343
+2463,,https://www.zillow.com/homedetails/5137-Bauermeister-Rd-Ossian-IN-46777/73141991_zpid/,"5137 Bauermeister Rd, Ossian, IN 46777",,2,1,1638
+2464,,https://www.zillow.com/homedetails/4024-Mound-Pass-Fort-Wayne-IN-46809/73189592_zpid/,"4024 Mound Pass, Fort Wayne, IN 46809",,3,2,1512
+2465,,https://www.zillow.com/homedetails/908-S-Main-St-Edinburgh-IN-46124/85092092_zpid/,"908 S Main St, Edinburgh, IN 46124",,0,1,1064
+2466,,https://www.zillow.com/homedetails/11722-Eagle-Lake-Ct-Fort-Wayne-IN-46814/73107428_zpid/,"11722 Eagle Lake Ct, Fort Wayne, IN 46814",,4,2.5,2644
+2467,,https://www.zillow.com/homedetails/1030-Franklin-Ave-Fort-Wayne-IN-46808/111820739_zpid/,"1030 Franklin Ave, Fort Wayne, IN 46808",,2,1,536
+2468,,https://www.zillow.com/homedetails/12630-S-400-W-Columbus-IN-47201/217814660_zpid/,"12630 S 400 W, Columbus, IN 47201",,0,2,2128
+2469,,https://www.zillow.com/homedetails/2835-Oxford-St-Fort-Wayne-IN-46806/73133781_zpid/,"2835 Oxford St, Fort Wayne, IN 46806",,3,1,1112
+2470,,https://www.zillow.com/homedetails/5398-E-County-Road-550-N-Pittsboro-IN-46167/94417708_zpid/,"5398 E County Road 550 N, Pittsboro, IN 46167",,3,2,1625
+2471,,https://www.zillow.com/homedetails/14904-Remington-Pl-Fort-Wayne-IN-46814/180529291_zpid/,"14904 Remington Pl, Fort Wayne, IN 46814",,4,4,3053
+2472,,https://www.zillow.com/homedetails/9780-S-600-W-Edinburgh-IN-46124/85703160_zpid/,"9780 S 600 W, Edinburgh, IN 46124",,4,4,2673
+2473,,https://www.zillow.com/homedetails/1214-W-Oakdale-Dr-Fort-Wayne-IN-46807/73189481_zpid/,"1214 W Oakdale Dr, Fort Wayne, IN 46807",,4,2,2100
+2474,,https://www.zillow.com/homedetails/233-N-Cornell-Cir-Fort-Wayne-IN-46807/73120942_zpid/,"233 N Cornell Cir, Fort Wayne, IN 46807",,3,1,1300
+2475,,https://www.zillow.com/homedetails/3384-E-Us-Highway-224-Ossian-IN-46777/120612944_zpid/,"3384 E Us Highway 224, Ossian, IN 46777",,2,1,1248
+2476,,https://www.zillow.com/homedetails/11635-Buskirk-Rd-Fort-Wayne-IN-46809/73141544_zpid/,"11635 Buskirk Rd, Fort Wayne, IN 46809",,3,1,1760
+2477,,https://www.zillow.com/homedetails/3704-Frontier-Dr-Kingman-IN-47952/102853799_zpid/,"3704 Frontier Dr, Kingman, IN 47952",,3,1.5,1146
+2478,,https://www.zillow.com/homedetails/3721-Massachusetts-St-Gary-IN-46409/73413555_zpid/,"3721 Massachusetts St, Gary, IN 46409",,1,1,504
+2479,,https://www.zillow.com/homedetails/112-E-North-St-Fountain-City-IN-47341/85764645_zpid/,"112 E North St, Fountain City, IN 47341",,3,2,2182
+2480,,https://www.zillow.com/homedetails/2015-Thompson-Ave-Fort-Wayne-IN-46802/73116016_zpid/,"2015 Thompson Ave, Fort Wayne, IN 46802",,4,2.5,1500
+2481,,https://www.zillow.com/homedetails/1121-Garden-St-Fort-Wayne-IN-46802/73111322_zpid/,"1121 Garden St, Fort Wayne, IN 46802",,2,2,1519
+2482,,https://www.zillow.com/homedetails/4110-Indian-Hills-Dr-Fort-Wayne-IN-46809/73189602_zpid/,"4110 Indian Hills Dr, Fort Wayne, IN 46809",,3,1.5,1550
+2483,,https://www.zillow.com/homedetails/3104-Emerald-Lake-Dr-Fort-Wayne-IN-46804/73103679_zpid/,"3104 Emerald Lake Dr, Fort Wayne, IN 46804",,3,2.5,2197
+2484,,https://www.zillow.com/homedetails/3768-W-Mill-Creek-Dr-Kingman-IN-47952/2137730944_zpid/,"3768 W Mill Creek Dr, Kingman, IN 47952",,1,1,576
+2485,,https://www.zillow.com/homedetails/24134-Old-Us-Highway-52-Laurel-IN-47024/120212281_zpid/,"24134 Old Us Highway 52, Laurel, IN 47024",,0,1,1366
+2486,,https://www.zillow.com/homedetails/500-N-Oakland-St-Colfax-IN-46035/85143339_zpid/,"500 N Oakland St, Colfax, IN 46035",,3,1,1830
+2487,,https://www.zillow.com/homedetails/603-S-Pleasant-St-Edinburgh-IN-46124/85436533_zpid/,"603 S Pleasant St, Edinburgh, IN 46124",,3,1,1076
+2488,,https://www.zillow.com/homedetails/10711-Sherfick-School-Rd-Shoals-IN-47581/94509047_zpid/,"10711 Sherfick School Rd, Shoals, IN 47581",,2,2,1428
+2489,,https://www.zillow.com/homedetails/1013-Wilt-St-Fort-Wayne-IN-46802/73109641_zpid/,"1013 Wilt St, Fort Wayne, IN 46802",,2,1,952
+2490,,https://www.zillow.com/homedetails/6017-S-County-Road-880-W-Colfax-IN-46035/85150799_zpid/,"6017 S County Road 880 W, Colfax, IN 46035",,3,2.5,1704
+2491,,https://www.zillow.com/homedetails/1077-111-Greenleaf-Blvd-Elkhart-IN-46514/50615621_zpid/,"1077-111 Greenleaf Blvd, Elkhart, IN 46514",,2,2,1291
+2492,,https://www.zillow.com/homedetails/10925-Running-Tide-Ct-Indianapolis-IN-46236/1154013_zpid/,"10925 Running Tide Ct, Indianapolis, IN 46236",,4,3,2858
+2493,,https://www.zillow.com/homedetails/1815-Versailles-Village-Pl-Fort-Wayne-IN-46808/73157156_zpid/,"1815 Versailles Village Pl, Fort Wayne, IN 46808",,3,2,1128
+2494,,https://www.zillow.com/homedetails/2719-Morning-Gate-Pass-Fort-Wayne-IN-46804/73101634_zpid/,"2719 Morning Gate Pass, Fort Wayne, IN 46804",,2,2,1804
+2495,,https://www.zillow.com/homedetails/3026-Drexel-Ave-Fort-Wayne-IN-46806/73133796_zpid/,"3026 Drexel Ave, Fort Wayne, IN 46806",,3,1,1352
+2496,,https://www.zillow.com/homedetails/1025-W-North-St-Greenfield-IN-46140/85286909_zpid/,"1025 W North St, Greenfield, IN 46140",,3,1,1440
+2497,,https://www.zillow.com/homedetails/1228-Pearl-St-Columbus-IN-47201/85096190_zpid/,"1228 Pearl St, Columbus, IN 47201",,3,1,1144
+2498,,https://www.zillow.com/homedetails/1426-Saint-Joe-Blvd-Fort-Wayne-IN-46805/73109707_zpid/,"1426 Saint Joe Blvd, Fort Wayne, IN 46805",,3,1.5,1954
+2499,,https://www.zillow.com/homedetails/15029-Jasmine-Key-Ct-Fort-Wayne-IN-46814/73108747_zpid/,"15029 Jasmine Key Ct, Fort Wayne, IN 46814",,4,3,2501
+2500,,https://www.zillow.com/homedetails/5350-E-County-Road-550-N-Pittsboro-IN-46167/94417707_zpid/,"5350 E County Road 550 N, Pittsboro, IN 46167",,4,3,3288
+2501,,https://www.zillow.com/homedetails/5166-E-County-Road-550-N-Pittsboro-IN-46167/85342273_zpid/,"5166 E County Road 550 N, Pittsboro, IN 46167",,3,2,1471
+2502,,https://www.zillow.com/homedetails/2122-24th-Ave-Fort-Wayne-IN-46802/73114839_zpid/,"2122 24th Ave, Fort Wayne, IN 46802",,3,1,672
+2503,,https://www.zillow.com/homedetails/225-W-Allen-St-Roann-IN-46974/94618633_zpid/,"225 W Allen St, Roann, IN 46974",,2,1,1008
+2504,,https://www.zillow.com/homedetails/1918-Brown-St-Fort-Wayne-IN-46802/73112956_zpid/,"1918 Brown St, Fort Wayne, IN 46802",,2,1,1524
+2505,,https://www.zillow.com/homedetails/3773-Virginia-St-Gary-IN-46409/73337560_zpid/,"3773 Virginia St, Gary, IN 46409",,3,1.5,1188
+2506,,https://www.zillow.com/homedetails/1004-Woodview-Blvd-Fort-Wayne-IN-46806/73187654_zpid/,"1004 Woodview Blvd, Fort Wayne, IN 46806",,3,3,1901
+2507,,https://www.zillow.com/homedetails/1426-Kensington-Blvd-Fort-Wayne-IN-46805/73138219_zpid/,"1426 Kensington Blvd, Fort Wayne, IN 46805",,4,2.5,2158
+2508,,https://www.zillow.com/homedetails/3820-E-50-N-Knox-IN-46534/228092452_zpid/,"3820 E 50 N, Knox, IN 46534",,3,2,1438
+2509,,https://www.zillow.com/homedetails/319-Cameron-Hill-Pl-Fort-Wayne-IN-46804/73106441_zpid/,"319 Cameron Hill Pl, Fort Wayne, IN 46804",,4,3,2615
+2510,,https://www.zillow.com/homedetails/10911-W-Grandview-Dr-Columbus-IN-47201/85106386_zpid/,"10911 W Grandview Dr, Columbus, IN 47201",,3,2,1824
+2511,,https://www.zillow.com/homedetails/2529-Hillock-Ct-Fort-Wayne-IN-46815/73173320_zpid/,"2529 Hillock Ct, Fort Wayne, IN 46815",,3,2,1524
+2512,,https://www.zillow.com/homedetails/1502-Sweet-Flag-Cv-Fort-Wayne-IN-46814/73186519_zpid/,"1502 Sweet Flag Cv, Fort Wayne, IN 46814",,5,5,2630
+2513,,https://www.zillow.com/homedetails/28-Hite-Rd-Rising-Sun-IN-47040/2145084395_zpid/,"28 Hite Rd, Rising Sun, IN 47040",,4,2,2590
+2514,,https://www.zillow.com/homedetails/5961-W-Private-Road-Highland-Hills-Dr-Edinburgh-IN-46124/85703021_zpid/,"5961 W Private Road Highland Hills Dr, Edinburgh, IN 46124",,4,3,2788
+2515,,https://www.zillow.com/homedetails/1108-Clayton-Ave-Fort-Wayne-IN-46808/73159096_zpid/,"1108 Clayton Ave, Fort Wayne, IN 46808",,3,1,1164
+2516,,https://www.zillow.com/homedetails/2138-Bevel-Ave-Fort-Wayne-IN-46802/73114570_zpid/,"2138 Bevel Ave, Fort Wayne, IN 46802",,3,1,1568
+2517,,https://www.zillow.com/homedetails/3505-Delray-Dr-Fort-Wayne-IN-46815/73169674_zpid/,"3505 Delray Dr, Fort Wayne, IN 46815",,4,2.5,2210
+2518,,https://www.zillow.com/homedetails/1318-N-Apperson-Way-Kokomo-IN-46901/85375147_zpid/,"1318 N Apperson Way, Kokomo, IN 46901",,2,1,1220
+2519,,https://www.zillow.com/homedetails/5590-S-500-E-0-Waldron-IN-46182/2116842528_zpid/,"5590 S 500 E #0, Waldron, IN 46182",,3,1,2350
+2520,,https://www.zillow.com/homedetails/10105-Agora-Pl-Fort-Wayne-IN-46804/94260798_zpid/,"10105 Agora Pl, Fort Wayne, IN 46804",,4,2.5,2483
+2521,,https://www.zillow.com/homedetails/2929-E-800-N-Ossian-IN-46777/228162532_zpid/,"2929 E 800 N, Ossian, IN 46777",,3,2,1984
+2522,,https://www.zillow.com/homedetails/414-Buchanan-St-Fort-Wayne-IN-46803/73111673_zpid/,"414 Buchanan St, Fort Wayne, IN 46803",,3,2,1280
+2523,,https://www.zillow.com/homedetails/1141-W-Wildwood-Ave-Fort-Wayne-IN-46807/94269710_zpid/,"1141 W Wildwood Ave, Fort Wayne, IN 46807",,2,1,1024
+2524,,https://www.zillow.com/homedetails/517-Woodland-Pl-Pittsboro-IN-46167/94414341_zpid/,"517 Woodland Pl, Pittsboro, IN 46167",,3,2,1649
+2525,,https://www.zillow.com/homedetails/11149-Us-Shoals-IN-47581/234920219_zpid/,"11149 Us, Shoals, IN 47581",,0,0,176
+2526,,https://www.zillow.com/homedetails/13120-S-250-W-Columbus-IN-47201/249936718_zpid/,"13120 S 250 W, Columbus, IN 47201",,0,0,
+2527,,https://www.zillow.com/homedetails/13013-Crimson-Leaf-Dr-Fort-Wayne-IN-46814/94270046_zpid/,"13013 Crimson Leaf Dr, Fort Wayne, IN 46814",,2,3,2721
+2528,,https://www.zillow.com/homedetails/2701-Raymond-St-Fort-Wayne-IN-46803/73138114_zpid/,"2701 Raymond St, Fort Wayne, IN 46803",,3,1,672
+2529,,https://www.zillow.com/homedetails/206-Oak-Dr-Monticello-IN-47960/102899346_zpid/,"206 Oak Dr, Monticello, IN 47960",,3,2,2014
+2530,,https://www.zillow.com/homedetails/11028-Palatka-Ct-Indianapolis-IN-46236/1163772_zpid/,"11028 Palatka Ct, Indianapolis, IN 46236",,3,2,1475
+2531,,https://www.zillow.com/homedetails/3646-Delaware-St-Gary-IN-46409/73351820_zpid/,"3646 Delaware St, Gary, IN 46409",,2,1.5,822
+2532,,https://www.zillow.com/homedetails/1107-Fulton-St-Elkhart-IN-46514/50607843_zpid/,"1107 Fulton St, Elkhart, IN 46514",,3,1,1392
+2533,,https://www.zillow.com/homedetails/4906-Rocky-Knoll-Dr-Fort-Wayne-IN-46809/94262753_zpid/,"4906 Rocky Knoll Dr, Fort Wayne, IN 46809",,3,2,1227
+2534,,https://www.zillow.com/homedetails/2626-Winter-St-Fort-Wayne-IN-46803/73112200_zpid/,"2626 Winter St, Fort Wayne, IN 46803",,3,1,920
+2535,,https://www.zillow.com/homedetails/2610-Sandarac-Ln-Fort-Wayne-IN-46815/73210308_zpid/,"2610 Sandarac Ln, Fort Wayne, IN 46815",,3,3,1536
+2536,,https://www.zillow.com/homedetails/1924-Dodge-Ave-Fort-Wayne-IN-46805/73208924_zpid/,"1924 Dodge Ave, Fort Wayne, IN 46805",,4,3,1629
+2537,,https://www.zillow.com/homedetails/1308-E-Vaile-Ave-Kokomo-IN-46901/85374925_zpid/,"1308 E Vaile Ave, Kokomo, IN 46901",,3,1,1800
+2538,,https://www.zillow.com/homedetails/6068-N-West-St-Ossian-IN-46777/228163017_zpid/,"6068 N West St, Ossian, IN 46777",,1,1,600
+2539,,https://www.zillow.com/homedetails/1209-Eckart-St-Fort-Wayne-IN-46806/73112885_zpid/,"1209 Eckart St, Fort Wayne, IN 46806",,3,1,1144
+2540,,https://www.zillow.com/homedetails/8930-W-County-Road-650-S-Colfax-IN-46035/85150737_zpid/,"8930 W County Road 650 S, Colfax, IN 46035",,3,2,2062
+2541,,https://www.zillow.com/homedetails/2119-Stone-Fountain-Chas-Fort-Wayne-IN-46804/180525203_zpid/,"2119 Stone Fountain Chas, Fort Wayne, IN 46804",,3,3,2275
+2542,,https://www.zillow.com/homedetails/743-Sherman-Ave-South-Bend-IN-46616/94561956_zpid/,"743 Sherman Ave, South Bend, IN 46616",,3,1,1340
+2543,,https://www.zillow.com/homedetails/715-S-Walnut-St-Edinburgh-IN-46124/85092064_zpid/,"715 S Walnut St, Edinburgh, IN 46124",,3,1,1328
+2544,,https://www.zillow.com/homedetails/1425-Continental-Camp-Rd-Griffin-IN-47616/85662653_zpid/,"1425 Continental Camp Rd, Griffin, IN 47616",,3,1,1216
+2545,,https://www.zillow.com/homedetails/1077-Greenleaf-Blvd-APT-214-Elkhart-IN-46514/50615636_zpid/,"1077 Greenleaf Blvd APT 214, Elkhart, IN 46514",,2,2,1300
+2546,,https://www.zillow.com/homedetails/4478-E-Us-Highway-224-Ossian-IN-46777/85787289_zpid/,"4478 E Us Highway 224, Ossian, IN 46777",,3,1.5,1660
+2547,,https://www.zillow.com/homedetails/6905-Hague-Rd-Indianapolis-IN-46256/1143588_zpid/,"6905 Hague Rd, Indianapolis, IN 46256",,2,2,1497
+2548,,https://www.zillow.com/homedetails/11051-Palatka-Ct-Indianapolis-IN-46236/1163782_zpid/,"11051 Palatka Ct, Indianapolis, IN 46236",,3,2,1477
+2549,,https://www.zillow.com/homedetails/1030-Baldwin-St-Elkhart-IN-46514/138597982_zpid/,"1030 Baldwin St, Elkhart, IN 46514",,3,1,999
+2550,,https://www.zillow.com/homedetails/2939-Central-Dr-Fort-Wayne-IN-46806/73133177_zpid/,"2939 Central Dr, Fort Wayne, IN 46806",,3,1,1222
+2551,,https://www.zillow.com/homedetails/1324-N-Market-St-Kokomo-IN-46901/85365888_zpid/,"1324 N Market St, Kokomo, IN 46901",,3,1,1354
+2552,,https://www.zillow.com/homedetails/1112-Franklin-Ave-Fort-Wayne-IN-46808/73126692_zpid/,"1112 Franklin Ave, Fort Wayne, IN 46808",,2,1,1344
+2553,,https://www.zillow.com/homedetails/1829-Hale-Ave-Fort-Wayne-IN-46802/73115104_zpid/,"1829 Hale Ave, Fort Wayne, IN 46802",,1,1,576
+2554,,https://www.zillow.com/homedetails/310-S-High-St-Rising-Sun-IN-47040/85641169_zpid/,"310 S High St, Rising Sun, IN 47040",,5,4,3734
+2555,,https://www.zillow.com/homedetails/11160-W-State-Route-46-Columbus-IN-47201/85106522_zpid/,"11160 W State Route 46, Columbus, IN 47201",,3,2.5,1808
+2556,,https://www.zillow.com/homedetails/1109-W-Berry-St-Fort-Wayne-IN-46802/251683959_zpid/,"1109 W Berry St, Fort Wayne, IN 46802",,3,1,1848
+2557,,https://www.zillow.com/homedetails/305-Shawnee-Ave-Cambridge-City-IN-47327/85766873_zpid/,"305 Shawnee Ave, Cambridge City, IN 47327",,2,1,1192
+2558,,https://www.zillow.com/homedetails/1510-Dell-Cove-Dr-Fort-Wayne-IN-46804/73101035_zpid/,"1510 Dell Cove Dr, Fort Wayne, IN 46804",,3,4,3099
+2559,,https://www.zillow.com/homedetails/4710-W-Cedar-Crest-Cir-Fort-Wayne-IN-46809/73119068_zpid/,"4710 W Cedar Crest Cir, Fort Wayne, IN 46809",,2,1,1024
+2560,,https://www.zillow.com/homedetails/8965-W-County-Road-650-S-Frankfort-IN-46035/228548420_zpid/,"8965 W County Road 650 S, Frankfort, IN 46035",,3,1.5,1798
+2561,,https://www.zillow.com/homedetails/5604-E-Michigan-Rd-Waldron-IN-46182/221165412_zpid/,"5604 E Michigan Rd, Waldron, IN 46182",,3,1.5,1937
+2562,,https://www.zillow.com/homedetails/2804-Trent-Dr-Fort-Wayne-IN-46815/73182291_zpid/,"2804 Trent Dr, Fort Wayne, IN 46815",,3,1,2144
+2563,,https://www.zillow.com/homedetails/10762-N-State-Road-227-Fountain-City-IN-47341/94628442_zpid/,"10762 N State Road 227, Fountain City, IN 47341",,2,1,1054
+2564,,https://www.zillow.com/homedetails/422-Greenwood-Trl-Ossian-IN-46777/85785153_zpid/,"422 Greenwood Trl, Ossian, IN 46777",,3,2,1218
+2565,,https://www.zillow.com/homedetails/1022-California-St-Columbus-IN-47201/85096278_zpid/,"1022 California St, Columbus, IN 47201",,3,1,1176
+2566,,https://www.zillow.com/homedetails/2905-Hoevelwood-Dr-Fort-Wayne-IN-46806/73134971_zpid/,"2905 Hoevelwood Dr, Fort Wayne, IN 46806",,4,2.5,2130
+2567,,https://www.zillow.com/homedetails/13710-Brook-Hollow-Ct-Fort-Wayne-IN-46814/73104661_zpid/,"13710 Brook Hollow Ct, Fort Wayne, IN 46814",,3,3.5,2783
+2568,,https://www.zillow.com/homedetails/1701-Clover-Ln-Fort-Wayne-IN-46808/73169998_zpid/,"1701 Clover Ln, Fort Wayne, IN 46808",,2,1,1340
+2569,,https://www.zillow.com/homedetails/2528-Berkley-Ave-Fort-Wayne-IN-46815/73174319_zpid/,"2528 Berkley Ave, Fort Wayne, IN 46815",,3,1.5,1120
+2570,,https://www.zillow.com/homedetails/4107-Mound-Pass-Fort-Wayne-IN-46809/73118688_zpid/,"4107 Mound Pass, Fort Wayne, IN 46809",,2,1,1066
+2571,,https://www.zillow.com/homedetails/2518-Covington-Pointe-Trl-Fort-Wayne-IN-46804/73100989_zpid/,"2518 Covington Pointe Trl, Fort Wayne, IN 46804",,2,2,1636
+2572,,https://www.zillow.com/homedetails/1408-Dodge-Ave-Fort-Wayne-IN-46805/73161774_zpid/,"1408 Dodge Ave, Fort Wayne, IN 46805",,3,1.5,1358
+2573,,https://www.zillow.com/homedetails/609-Oakdale-Dr-Ossian-IN-46777/85784747_zpid/,"609 Oakdale Dr, Ossian, IN 46777",,3,1.5,1329
+2574,,https://www.zillow.com/homedetails/3709-S-Harrison-St-Fort-Wayne-IN-46807/73189144_zpid/,"3709 S Harrison St, Fort Wayne, IN 46807",,3,1,1636
+2575,,https://www.zillow.com/homedetails/1516-Rock-Dove-Rd-Fort-Wayne-IN-46814/94270164_zpid/,"1516 Rock Dove Rd, Fort Wayne, IN 46814",,4,4,3554
+2576,,https://www.zillow.com/homedetails/1408-Swinney-Ave-Fort-Wayne-IN-46802/73112233_zpid/,"1408 Swinney Ave, Fort Wayne, IN 46802",,4,1.5,2162
+2577,,https://www.zillow.com/homedetails/1503-Faulkner-Ct-Fort-Wayne-IN-46815/73210010_zpid/,"1503 Faulkner Ct, Fort Wayne, IN 46815",,4,2.5,2449
+2578,,https://www.zillow.com/homedetails/13753-Green-Park-Ave-Fort-Wayne-IN-46814/116256914_zpid/,"13753 Green Park Ave, Fort Wayne, IN 46814",,3,2,1334
+2579,,https://www.zillow.com/homedetails/1120-W-Wildwood-Ave-Fort-Wayne-IN-46807/73117819_zpid/,"1120 W Wildwood Ave, Fort Wayne, IN 46807",,3,1,1268
+2580,,https://www.zillow.com/homedetails/1077-206-Greenleaf-Blvd-Elkhart-IN-46514/50615625_zpid/,"1077-206 Greenleaf Blvd, Elkhart, IN 46514",,2,2,1227
+2581,,https://www.zillow.com/homedetails/10547-Center-Rd-Fountain-City-IN-47341/94631737_zpid/,"10547 Center Rd, Fountain City, IN 47341",,3,1,2040
+2582,,https://www.zillow.com/homedetails/1807-Kendawa-Dr-Fort-Wayne-IN-46815/73209964_zpid/,"1807 Kendawa Dr, Fort Wayne, IN 46815",,4,2.5,1869
+2583,,https://www.zillow.com/homedetails/101-Grandison-Rd-Greenfield-IN-46140/85287185_zpid/,"101 Grandison Rd, Greenfield, IN 46140",,3,1,1253
+2584,,https://www.zillow.com/homedetails/1745-Hale-Ave-Fort-Wayne-IN-46802/73114838_zpid/,"1745 Hale Ave, Fort Wayne, IN 46802",,3,2,1440
+2585,,https://www.zillow.com/homedetails/2716-Pennsylvania-St-Fort-Wayne-IN-46803/73137624_zpid/,"2716 Pennsylvania St, Fort Wayne, IN 46803",,3,1,1044
+2586,,https://www.zillow.com/homedetails/1102-W-300-N-Peru-IN-46970/111831170_zpid/,"1102 W 300 N, Peru, IN 46970",,3,2,1892
+2587,,https://www.zillow.com/homedetails/4839-S-County-Road-1000-W-Colfax-IN-46035/228541378_zpid/,"4839 S County Road 1000 W, Colfax, IN 46035",,4,2,
+2588,,https://www.zillow.com/homedetails/1127-W-Berry-St-Fort-Wayne-IN-46802/73128156_zpid/,"1127 W Berry St, Fort Wayne, IN 46802",,1,1,1000
+2589,,https://www.zillow.com/homedetails/3180-W-1000-N-Roann-IN-46974/2097053705_zpid/,"3180 W 1000 N, Roann, IN 46974",,3,1,1772
+2590,,https://www.zillow.com/homedetails/218-W-Crown-Ln-Fort-Wayne-IN-46807/73124291_zpid/,"218 W Crown Ln, Fort Wayne, IN 46807",,3,1,1014
+2591,,https://www.zillow.com/homedetails/1322-Vance-Ave-Fort-Wayne-IN-46805/73177187_zpid/,"1322 Vance Ave, Fort Wayne, IN 46805",,3,1,936
+2592,,https://www.zillow.com/homedetails/3021-Genessee-Ave-Fort-Wayne-IN-46809/73119154_zpid/,"3021 Genessee Ave, Fort Wayne, IN 46809",,4,2,2556
+2593,,https://www.zillow.com/homedetails/1232-Nevada-Ave-Fort-Wayne-IN-46805/73162577_zpid/,"1232 Nevada Ave, Fort Wayne, IN 46805",,6,2,1670
+2594,,https://www.zillow.com/homedetails/2642-S-State-Route-1-Cambridge-City-IN-47327/85227868_zpid/,"2642 S State Route 1, Cambridge City, IN 47327",,3,1.5,1400
+2595,,https://www.zillow.com/homedetails/11444-Hilltop-Honey-Rd-Shoals-IN-47581/244620425_zpid/,"11444 Hilltop Honey Rd, Shoals, IN 47581",,0,1,1500
+2596,,https://www.zillow.com/homedetails/2801-S-Anthony-Blvd-Fort-Wayne-IN-46806/73133145_zpid/,"2801 S Anthony Blvd, Fort Wayne, IN 46806",,3,1.5,1649
+2597,,https://www.zillow.com/homedetails/1811-Forest-Downs-Dr-Fort-Wayne-IN-46815/73182903_zpid/,"1811 Forest Downs Dr, Fort Wayne, IN 46815",,4,3,2047
+2598,,https://www.zillow.com/homedetails/1927-Taylor-St-Fort-Wayne-IN-46802/73112952_zpid/,"1927 Taylor St, Fort Wayne, IN 46802",,2,1,880
+2599,,https://www.zillow.com/homedetails/1214-High-St-Fort-Wayne-IN-46808/73192351_zpid/,"1214 High St, Fort Wayne, IN 46808",,4,2,1728
+2600,,https://www.zillow.com/homedetails/25030-Old-Us-Highway-52-Laurel-IN-47024/102854147_zpid/,"25030 Old Us Highway 52, Laurel, IN 47024",,3,1,1284
+2601,,https://www.zillow.com/homedetails/3275-N-Landing-Rd-Rising-Sun-IN-47040/85640686_zpid/,"3275 N Landing Rd, Rising Sun, IN 47040",,2,1,637
+2602,,https://www.zillow.com/homedetails/1222-Inwood-Dr-Fort-Wayne-IN-46815/73137115_zpid/,"1222 Inwood Dr, Fort Wayne, IN 46815",,5,2,2616
+2603,,https://www.zillow.com/homedetails/110-E-North-St-Fountain-City-IN-47341/85764646_zpid/,"110 E North St, Fountain City, IN 47341",,3,1,836
+2604,,https://www.zillow.com/homedetails/529-N-Maple-St-Pittsboro-IN-46167/85329348_zpid/,"529 N Maple St, Pittsboro, IN 46167",,3,1,1234
+2605,,https://www.zillow.com/homedetails/120-N-Main-St-Griffin-IN-47616/94544954_zpid/,"120 N Main St, Griffin, IN 47616",,2,1,1102
+2606,,https://www.zillow.com/homedetails/7110-Lantern-Rd-Indianapolis-IN-46256/1163032_zpid/,"7110 Lantern Rd, Indianapolis, IN 46256",,0,3.5,4753
+2607,,https://www.zillow.com/homedetails/12026-Sycamore-Lakes-Ct-Fort-Wayne-IN-46814/73109481_zpid/,"12026 Sycamore Lakes Ct, Fort Wayne, IN 46814",,2,3,2356
+2608,,https://www.zillow.com/homedetails/27-E-Front-St-Cambridge-City-IN-47327/85767102_zpid/,"27 E Front St, Cambridge City, IN 47327",,2,1,936
+2609,,https://www.zillow.com/homedetails/2312-Pittsburg-St-Fort-Wayne-IN-46803/73137698_zpid/,"2312 Pittsburg St, Fort Wayne, IN 46803",,2,1,740
+2610,,https://www.zillow.com/homedetails/15017-N-Harbourside-Dr-Fort-Wayne-IN-46814/73108963_zpid/,"15017 N Harbourside Dr, Fort Wayne, IN 46814",,4,2.5,2280
+2611,,https://www.zillow.com/homedetails/1645-W-4th-St-Fort-Wayne-IN-46808/73126105_zpid/,"1645 W 4th St, Fort Wayne, IN 46808",,3,1,1056
+2612,,https://www.zillow.com/homedetails/1208-W-Main-St-Fort-Wayne-IN-46808/73192695_zpid/,"1208 W Main St, Fort Wayne, IN 46808",,5,4,3560
+2613,,https://www.zillow.com/homedetails/5125-Tyrone-Rd-Fort-Wayne-IN-46809/73119339_zpid/,"5125 Tyrone Rd, Fort Wayne, IN 46809",,2,1,966
+2614,,https://www.zillow.com/homedetails/2115-Lake-Front-Dr-Fort-Wayne-IN-46804/180525154_zpid/,"2115 Lake Front Dr, Fort Wayne, IN 46804",,3,2,2075
+2615,,https://www.zillow.com/homedetails/251-S-Toner-St-Laurel-IN-47024/102854146_zpid/,"251 S Toner St, Laurel, IN 47024",,3,2,1680
+2616,,https://www.zillow.com/homedetails/1115-Cottage-Ave-Fort-Wayne-IN-46807/73117823_zpid/,"1115 Cottage Ave, Fort Wayne, IN 46807",,4,1,1476
+2617,,https://www.zillow.com/homedetails/11307-Anderson-Rd-Shoals-IN-47581/234923665_zpid/,"11307 Anderson Rd, Shoals, IN 47581",,4,1.5,1512
+2618,,https://www.zillow.com/homedetails/1116-Baxter-St-Fort-Wayne-IN-46806/73188192_zpid/,"1116 Baxter St, Fort Wayne, IN 46806",,3,1,750
+2619,,https://www.zillow.com/homedetails/3428-Chelmsford-Pl-Fort-Wayne-IN-46815/73170019_zpid/,"3428 Chelmsford Pl, Fort Wayne, IN 46815",,3,2,1488
+2620,,https://www.zillow.com/homedetails/5109-Kyle-Rd-Fort-Wayne-IN-46809/73119402_zpid/,"5109 Kyle Rd, Fort Wayne, IN 46809",,2,1,1025
+2621,,https://www.zillow.com/homedetails/2521-Knollwood-Ct-Fort-Wayne-IN-46815/73209841_zpid/,"2521 Knollwood Ct, Fort Wayne, IN 46815",,3,2,1452
+2622,,https://www.zillow.com/homedetails/1116-Rockhill-St-Fort-Wayne-IN-46802/2091864580_zpid/,"1116 Rockhill St, Fort Wayne, IN 46802",,2,1,812
+2623,,https://www.zillow.com/homedetails/3022-Reed-St-Fort-Wayne-IN-46806/73112761_zpid/,"3022 Reed St, Fort Wayne, IN 46806",,3,1,1144
+2624,,https://www.zillow.com/homedetails/1106-Elm-St-Fort-Wayne-IN-46808/73127875_zpid/,"1106 Elm St, Fort Wayne, IN 46808",,2,1,1664
+2625,,https://www.zillow.com/homedetails/819-Cushing-St-South-Bend-IN-46616/77020889_zpid/,"819 Cushing St, South Bend, IN 46616",,3,1,1500
+2626,,https://www.zillow.com/homedetails/3007-Euclid-Ave-Fort-Wayne-IN-46806/73133049_zpid/,"3007 Euclid Ave, Fort Wayne, IN 46806",,4,1.5,1868
+2627,,https://www.zillow.com/homedetails/6587-W-525-S-Edinburgh-IN-46124/85702595_zpid/,"6587 W 525 S, Edinburgh, IN 46124",,3,2,1749
+2628,,https://www.zillow.com/homedetails/1700-N-Royal-Oaks-Dr-Monticello-IN-47960/85793228_zpid/,"1700 N Royal Oaks Dr, Monticello, IN 47960",,4,2.5,2060
+2629,,https://www.zillow.com/homedetails/2118-Ontario-St-Fort-Wayne-IN-46802/73114725_zpid/,"2118 Ontario St, Fort Wayne, IN 46802",,2,1,520
+2630,,https://www.zillow.com/homedetails/5036-Lower-Huntington-Rd-Fort-Wayne-IN-46809/2140002381_zpid/,"5036 Lower Huntington Rd, Fort Wayne, IN 46809",,5,3,3690
+2631,,https://www.zillow.com/homedetails/3423-Amulet-Dr-Fort-Wayne-IN-46815/73208444_zpid/,"3423 Amulet Dr, Fort Wayne, IN 46815",,4,2.5,2921
+2632,,https://www.zillow.com/homedetails/214-W-Crown-Ln-Fort-Wayne-IN-46807/73124266_zpid/,"214 W Crown Ln, Fort Wayne, IN 46807",,3,1,988
+2633,,https://www.zillow.com/homedetails/114-S-Maple-St-Peru-IN-46970/94511178_zpid/,"114 S Maple St, Peru, IN 46970",,4,1,1224
+2634,,https://www.zillow.com/homedetails/2934-Holton-Ave-Fort-Wayne-IN-46806/73187849_zpid/,"2934 Holton Ave, Fort Wayne, IN 46806",,3,1,927
+2635,,https://www.zillow.com/homedetails/5035-Windy-Knoll-Ct-Fort-Wayne-IN-46809/73191084_zpid/,"5035 Windy Knoll Ct, Fort Wayne, IN 46809",,3,2,1158
+2636,,https://www.zillow.com/homedetails/12112-Blairmore-Ct-Fort-Wayne-IN-46814/73109201_zpid/,"12112 Blairmore Ct, Fort Wayne, IN 46814",,4,6,4691
+2637,,https://www.zillow.com/homedetails/1008-Pauls-Dr-Greenfield-IN-46140/85285417_zpid/,"1008 Pauls Dr, Greenfield, IN 46140",,4,3,2128
+2638,,https://www.zillow.com/homedetails/3412-Pleasure-Ct-Fort-Wayne-IN-46815/73167951_zpid/,"3412 Pleasure Ct, Fort Wayne, IN 46815",,3,1,1272
+2639,,https://www.zillow.com/homedetails/2305-Indian-Village-Blvd-Fort-Wayne-IN-46809/73118155_zpid/,"2305 Indian Village Blvd, Fort Wayne, IN 46809",,3,2,1928
+2640,,https://www.zillow.com/homedetails/1125-Ohio-St-Fort-Wayne-IN-46803/73117370_zpid/,"1125 Ohio St, Fort Wayne, IN 46803",,3,0,1178
+2641,,https://www.zillow.com/homedetails/1314-Forest-Ave-Fort-Wayne-IN-46805/73162719_zpid/,"1314 Forest Ave, Fort Wayne, IN 46805",,3,1,1268
+2642,,https://www.zillow.com/homedetails/1119-Nelson-St-Fort-Wayne-IN-46802/73111426_zpid/,"1119 Nelson St, Fort Wayne, IN 46802",,2,1,936
+2643,,https://www.zillow.com/homedetails/1117-W-Wildwood-Ave-Fort-Wayne-IN-46807/73189367_zpid/,"1117 W Wildwood Ave, Fort Wayne, IN 46807",,6,4,2660
+2644,,https://www.zillow.com/homedetails/511-S-Main-St-Edinburgh-IN-46124/85436476_zpid/,"511 S Main St, Edinburgh, IN 46124",,2,1,1098
+2645,,https://www.zillow.com/homedetails/436-W-Butler-St-Fort-Wayne-IN-46802/73186817_zpid/,"436 W Butler St, Fort Wayne, IN 46802",,2,1,1218
+2646,,https://www.zillow.com/homedetails/125-E-Maple-Grove-Ave-Fort-Wayne-IN-46806/73121362_zpid/,"125 E Maple Grove Ave, Fort Wayne, IN 46806",,3,2,1332
+2647,,https://www.zillow.com/homedetails/3619-S-Harrison-St-Fort-Wayne-IN-46807/73117037_zpid/,"3619 S Harrison St, Fort Wayne, IN 46807",,3,2,1503
+2648,,https://www.zillow.com/homedetails/504-S-Holland-St-Edinburgh-IN-46124/85436593_zpid/,"504 S Holland St, Edinburgh, IN 46124",,3,1,1248
+2649,,https://www.zillow.com/homedetails/1321-Franklin-St-Columbus-IN-47201/102835686_zpid/,"1321 Franklin St, Columbus, IN 47201",,4,3,2015
+2650,,https://www.zillow.com/homedetails/1616-E-Wayne-St-Fort-Wayne-IN-46803/73116492_zpid/,"1616 E Wayne St, Fort Wayne, IN 46803",,0,0,
+2651,,https://www.zillow.com/homedetails/611-S-Walnut-St-Edinburgh-IN-46124/85436573_zpid/,"611 S Walnut St, Edinburgh, IN 46124",,3,2,1636
+2652,,https://www.zillow.com/homedetails/2947-Central-Dr-Fort-Wayne-IN-46806/180571028_zpid/,"2947 Central Dr, Fort Wayne, IN 46806",,3,1,1102
+2653,,https://www.zillow.com/homedetails/1324-Michigan-Ave-Fort-Wayne-IN-46802/73188770_zpid/,"1324 Michigan Ave, Fort Wayne, IN 46802",,1,1,1003
+2654,,https://www.zillow.com/homedetails/529-Memorial-Dr-Edinburgh-IN-46124/85435866_zpid/,"529 Memorial Dr, Edinburgh, IN 46124",,3,1,900
+2655,,https://www.zillow.com/homedetails/3009-McArthur-Dr-Fort-Wayne-IN-46809/73127063_zpid/,"3009 McArthur Dr, Fort Wayne, IN 46809",,4,1.5,1680
+2656,,https://www.zillow.com/homedetails/427-W-Butler-St-Fort-Wayne-IN-46802/73109911_zpid/,"427 W Butler St, Fort Wayne, IN 46802",,2,1,1152
+2657,,https://www.zillow.com/homedetails/3527-Glencairn-Dr-Fort-Wayne-IN-46815/73170742_zpid/,"3527 Glencairn Dr, Fort Wayne, IN 46815",,3,2,1696
+2658,,https://www.zillow.com/homedetails/754-Cottage-Grove-Ave-South-Bend-IN-46616/94561821_zpid/,"754 Cottage Grove Ave, South Bend, IN 46616",,3,2,1352
+2659,,https://www.zillow.com/homedetails/5721-Kimberley-Rd-Fort-Wayne-IN-46809/73119689_zpid/,"5721 Kimberley Rd, Fort Wayne, IN 46809",,3,1,1200
+2660,,https://www.zillow.com/homedetails/1025-Kinsmoor-Ave-Fort-Wayne-IN-46807/73115223_zpid/,"1025 Kinsmoor Ave, Fort Wayne, IN 46807",,4,1,1460
+2661,,https://www.zillow.com/homedetails/2307-John-St-Fort-Wayne-IN-46803/73111602_zpid/,"2307 John St, Fort Wayne, IN 46803",,3,2.5,1480
+2662,,https://www.zillow.com/homedetails/1027-Cone-St-Elkhart-IN-46514/50614071_zpid/,"1027 Cone St, Elkhart, IN 46514",,2,1,624
+2663,,https://www.zillow.com/homedetails/308-N-Gay-St-Cambridge-City-IN-47327/85766667_zpid/,"308 N Gay St, Cambridge City, IN 47327",,3,2,1400
+2664,,https://www.zillow.com/homedetails/2002-Phenie-St-Fort-Wayne-IN-46802/73116183_zpid/,"2002 Phenie St, Fort Wayne, IN 46802",,4,2,697
+2665,,https://www.zillow.com/homedetails/3615-Harvest-Pl-Fort-Wayne-IN-46815/73170986_zpid/,"3615 Harvest Pl, Fort Wayne, IN 46815",,3,2,1388
+2666,,https://www.zillow.com/homedetails/600-S-Main-St-Edinburgh-IN-46124/85436558_zpid/,"600 S Main St, Edinburgh, IN 46124",,3,1,1450
+2667,,https://www.zillow.com/homedetails/1015-W-Packard-Ave-Fort-Wayne-IN-46807/73115030_zpid/,"1015 W Packard Ave, Fort Wayne, IN 46807",,2,2,2320
+2668,,https://www.zillow.com/homedetails/12018-Sycamore-Lakes-Ct-Fort-Wayne-IN-46814/73109490_zpid/,"12018 Sycamore Lakes Ct, Fort Wayne, IN 46814",,3,4,2965
+2669,,https://www.zillow.com/homedetails/1263-Tellman-Rd-Columbus-IN-47201/217820143_zpid/,"1263 Tellman Rd, Columbus, IN 47201",,2,1,822
+2670,,https://www.zillow.com/homedetails/2124-Brooklyn-Ave-Fort-Wayne-IN-46802/73113554_zpid/,"2124 Brooklyn Ave, Fort Wayne, IN 46802",,2,1,780
+2671,,https://www.zillow.com/homedetails/5981-W-900-S-Edinburgh-IN-46124/85703122_zpid/,"5981 W 900 S, Edinburgh, IN 46124",,5,2,2188
+2672,,https://www.zillow.com/homedetails/1106-Degroff-St-Fort-Wayne-IN-46808/73126787_zpid/,"1106 Degroff St, Fort Wayne, IN 46808",,3,1,668
+2673,,https://www.zillow.com/homedetails/419-S-Odd-St-Kingman-IN-47952/94316250_zpid/,"419 S Odd St, Kingman, IN 47952",,4,2,1568
+2674,,https://www.zillow.com/homedetails/1227-California-Ave-APT-4-Fort-Wayne-IN-46805/2103077386_zpid/,"1227 California Ave APT 4, Fort Wayne, IN 46805",,1,1,600
+2675,,https://www.zillow.com/homedetails/1210-Oak-St-Fort-Wayne-IN-46803/73117431_zpid/,"1210 Oak St, Fort Wayne, IN 46803",,2,1,1066
+2676,,https://www.zillow.com/homedetails/3908-Elmcrest-Dr-Fort-Wayne-IN-46809/73190139_zpid/,"3908 Elmcrest Dr, Fort Wayne, IN 46809",,3,2.5,1929
+2677,,https://www.zillow.com/homedetails/3701-Reynolds-St-Fort-Wayne-IN-46803/180565304_zpid/,"3701 Reynolds St, Fort Wayne, IN 46803",,4,1.5,1827
+2678,,https://www.zillow.com/homedetails/439-E-Wayne-St-APT-4-Fort-Wayne-IN-46802/2094101148_zpid/,"439 E Wayne St APT 4, Fort Wayne, IN 46802",,1,1,773
+2679,,https://www.zillow.com/homedetails/2922-Warsaw-St-Fort-Wayne-IN-46806/73112549_zpid/,"2922 Warsaw St, Fort Wayne, IN 46806",,2,1,700
+2680,,https://www.zillow.com/homedetails/1311-N-Anthony-Blvd-Fort-Wayne-IN-46805/73187252_zpid/,"1311 N Anthony Blvd, Fort Wayne, IN 46805",,2,1,1211
+2681,,https://www.zillow.com/homedetails/116-Congress-Ave-Fort-Wayne-IN-46806/73121096_zpid/,"116 Congress Ave, Fort Wayne, IN 46806",,3,1,1154
+2682,,https://www.zillow.com/homedetails/3009-Euclid-Ave-Fort-Wayne-IN-46806/73133326_zpid/,"3009 Euclid Ave, Fort Wayne, IN 46806",,3,1,1920
+2683,,https://www.zillow.com/homedetails/1019-Wilt-St-Fort-Wayne-IN-46802/73186646_zpid/,"1019 Wilt St, Fort Wayne, IN 46802",,2,1,1632
+2684,,https://www.zillow.com/homedetails/Bayou-Creek-Rd-Griffin-IN-47616/112582937_zpid/,"Bayou Creek Rd, Griffin, IN 47616",,3,0,240
+2685,,https://www.zillow.com/homedetails/120-East-St-Griffin-IN-47616/112582526_zpid/,"120 East St, Griffin, IN 47616",,3,1,850
+2686,,https://www.zillow.com/homedetails/1502-White-Coral-Ct-Fort-Wayne-IN-46814/122699236_zpid/,"1502 White Coral Ct, Fort Wayne, IN 46814",,3,3,2693
+2687,,https://www.zillow.com/homedetails/1422-Hurd-St-Fort-Wayne-IN-46803/73111778_zpid/,"1422 Hurd St, Fort Wayne, IN 46803",,4,2,2096
+2688,,https://www.zillow.com/homedetails/1223-Summit-St-Fort-Wayne-IN-46803/73117362_zpid/,"1223 Summit St, Fort Wayne, IN 46803",,3,1,1116
+2689,,https://www.zillow.com/homedetails/5702-Gates-Dr-Fort-Wayne-IN-46809/73119692_zpid/,"5702 Gates Dr, Fort Wayne, IN 46809",,3,1,975
+2690,,https://www.zillow.com/homedetails/1104-Franklin-St-Columbus-IN-47201/85096162_zpid/,"1104 Franklin St, Columbus, IN 47201",,5,4,4700
+2691,,https://www.zillow.com/homedetails/519-Memorial-Dr-Edinburgh-IN-46124/85435870_zpid/,"519 Memorial Dr, Edinburgh, IN 46124",,3,1,950
+2692,,https://www.zillow.com/homedetails/10007-Tiffany-Dr-Fort-Wayne-IN-46804/73103991_zpid/,"10007 Tiffany Dr, Fort Wayne, IN 46804",,3,2,1294
+2693,,https://www.zillow.com/homedetails/10673-Poplar-Grove-Rd-Shoals-IN-47581/234921619_zpid/,"10673 Poplar Grove Rd, Shoals, IN 47581",,4,3,1792
+2694,,https://www.zillow.com/homedetails/1820-Grafton-Pl-Fort-Wayne-IN-46808/111817331_zpid/,"1820 Grafton Pl, Fort Wayne, IN 46808",,4,3,1791
+2695,,https://www.zillow.com/homedetails/2032-Randall-Rd-Fort-Wayne-IN-46804/73193216_zpid/,"2032 Randall Rd, Fort Wayne, IN 46804",,3,2,1628
+2696,,https://www.zillow.com/homedetails/1417-Kitch-St-Fort-Wayne-IN-46803/180565206_zpid/,"1417 Kitch St, Fort Wayne, IN 46803",,3,3,1352
+2697,,https://www.zillow.com/homedetails/3418-Rockwood-Dr-Fort-Wayne-IN-46815/73181367_zpid/,"3418 Rockwood Dr, Fort Wayne, IN 46815",,5,4,3160
+2698,,https://www.zillow.com/homedetails/112-W-Paulding-Rd-Fort-Wayne-IN-46807/73190672_zpid/,"112 W Paulding Rd, Fort Wayne, IN 46807",,2,1,876
+2699,,https://www.zillow.com/homedetails/2907-Lafayette-St-Fort-Wayne-IN-46806/94269543_zpid/,"2907 Lafayette St, Fort Wayne, IN 46806",,3,2,1320
+2700,,https://www.zillow.com/homedetails/14930-S-Harbourside-Dr-Fort-Wayne-IN-46814/73186450_zpid/,"14930 S Harbourside Dr, Fort Wayne, IN 46814",,3,2,1491
+2701,,https://www.zillow.com/homedetails/1007-Waverly-Dr-Fort-Wayne-IN-46803/73136641_zpid/,"1007 Waverly Dr, Fort Wayne, IN 46803",,3,2,840
+2702,,https://www.zillow.com/homedetails/1550-South-St-Griffin-IN-47616/303745445_zpid/,"1550 South St, Griffin, IN 47616",,0,0,
+2703,,https://www.zillow.com/homedetails/11047-Indian-Lake-Blvd-Indianapolis-IN-46236/1163739_zpid/,"11047 Indian Lake Blvd, Indianapolis, IN 46236",,0,1,1641
+2704,,https://www.zillow.com/homedetails/1416-Faulkner-Ct-Fort-Wayne-IN-46815/73210016_zpid/,"1416 Faulkner Ct, Fort Wayne, IN 46815",,3,2.5,1750
+2705,,https://www.zillow.com/homedetails/1295-N-Nelson-Ridge-Rd-Columbus-IN-47201/116052473_zpid/,"1295 N Nelson Ridge Rd, Columbus, IN 47201",,0,1,1416
+2706,,https://www.zillow.com/homedetails/3652-Maryland-St-Gary-IN-46409/73343709_zpid/,"3652 Maryland St, Gary, IN 46409",,2,1.5,764
+2707,,https://www.zillow.com/homedetails/1014-E-7th-St-Greenfield-IN-46140/85289149_zpid/,"1014 E 7th St, Greenfield, IN 46140",,3,1,1192
+2708,,https://www.zillow.com/homedetails/2608-Covington-Pointe-Way-Fort-Wayne-IN-46804/73100876_zpid/,"2608 Covington Pointe Way, Fort Wayne, IN 46804",,2,2,1780
+2709,,https://www.zillow.com/homedetails/2922-Alexander-St-Fort-Wayne-IN-46806/73132604_zpid/,"2922 Alexander St, Fort Wayne, IN 46806",,2,1,792
+2710,,https://www.zillow.com/homedetails/309-W-Parkway-Dr-Cambridge-City-IN-47327/85766886_zpid/,"309 W Parkway Dr, Cambridge City, IN 47327",,3,1,1008
+2711,,https://www.zillow.com/homedetails/1014-Pond-View-Dr-Greenfield-IN-46140/2067833427_zpid/,"1014 Pond View Dr, Greenfield, IN 46140",,4,4,4065
+2712,,https://www.zillow.com/homedetails/1928-Hoagland-Ave-Fort-Wayne-IN-46802/73109866_zpid/,"1928 Hoagland Ave, Fort Wayne, IN 46802",,3,1.5,1008
+2713,,https://www.zillow.com/homedetails/3830-S-County-Road-210-Knox-IN-46534/122602544_zpid/,"3830 S County Road 210, Knox, IN 46534",,2,1.5,1000
+2714,,https://www.zillow.com/homedetails/14810-Sea-Holly-Ct-Fort-Wayne-IN-46814/73186492_zpid/,"14810 Sea Holly Ct, Fort Wayne, IN 46814",,4,3,2918
+2715,,https://www.zillow.com/homedetails/1401-Georgetowne-Park-Dr-Fort-Wayne-IN-46815/73175253_zpid/,"1401 Georgetowne Park Dr, Fort Wayne, IN 46815",,3,2.5,2213
+2716,,https://www.zillow.com/homedetails/1882-N-Hallsdale-Rd-Monticello-IN-47960/85792655_zpid/,"1882 N Hallsdale Rd, Monticello, IN 47960",,2,1,1152
+2717,,https://www.zillow.com/homedetails/1709-Wells-St-Fort-Wayne-IN-46808/73158803_zpid/,"1709 Wells St, Fort Wayne, IN 46808",,3,1.5,1690
+2718,,https://www.zillow.com/homedetails/2928-Trentman-Ave-Fort-Wayne-IN-46806/73133780_zpid/,"2928 Trentman Ave, Fort Wayne, IN 46806",,3,1,1257
+2719,,https://www.zillow.com/homedetails/200-Francis-St-Monticello-IN-47960/112211404_zpid/,"200 Francis St, Monticello, IN 47960",,3,3,2000
+2720,,https://www.zillow.com/homedetails/1301-Grand-Ave-Columbus-IN-47201/102837864_zpid/,"1301 Grand Ave, Columbus, IN 47201",,3,1,792
+2721,,https://www.zillow.com/homedetails/12131-N-500-E-Roann-IN-46974/97914875_zpid/,"12131 N 500 E, Roann, IN 46974",,3,1,1568
+2722,,https://www.zillow.com/homedetails/1211-Glenwood-Ave-Fort-Wayne-IN-46805/73177192_zpid/,"1211 Glenwood Ave, Fort Wayne, IN 46805",,3,2,1136
+2723,,https://www.zillow.com/homedetails/2525-Cheverly-Ln-Fort-Wayne-IN-46804/73103551_zpid/,"2525 Cheverly Ln, Fort Wayne, IN 46804",,2,2.5,2181
+2724,,https://www.zillow.com/homedetails/1310-Sycamore-St-Columbus-IN-47201/85096191_zpid/,"1310 Sycamore St, Columbus, IN 47201",,2,1,968
+2725,,https://www.zillow.com/homedetails/2334-Hoagland-Ave-Fort-Wayne-IN-46807/73110520_zpid/,"2334 Hoagland Ave, Fort Wayne, IN 46807",,4,1.5,2552
+2726,,https://www.zillow.com/homedetails/1420-Dell-Cove-Dr-Fort-Wayne-IN-46804/73101159_zpid/,"1420 Dell Cove Dr, Fort Wayne, IN 46804",,5,3,3388
+2727,,https://www.zillow.com/homedetails/11102-Azbury-Blvd-Fort-Wayne-IN-46809/180578440_zpid/,"11102 Azbury Blvd, Fort Wayne, IN 46809",,4,4,4526
+2728,,https://www.zillow.com/homedetails/2801-Central-Dr-Fort-Wayne-IN-46806/73132859_zpid/,"2801 Central Dr, Fort Wayne, IN 46806",,2,1,884
+2729,,https://www.zillow.com/homedetails/5610-Winters-Rd-Fort-Wayne-IN-46809/73146003_zpid/,"5610 Winters Rd, Fort Wayne, IN 46809",,0,1,1440
+2730,,https://www.zillow.com/homedetails/420-Shady-Ln-Ossian-IN-46777/85785372_zpid/,"420 Shady Ln, Ossian, IN 46777",,3,2,1480
+2731,,https://www.zillow.com/homedetails/1002-California-St-Columbus-IN-47201/85096275_zpid/,"1002 California St, Columbus, IN 47201",,3,1,1200
+2732,,https://www.zillow.com/homedetails/1814-Round-A-Bout-Rd-Monticello-IN-47960/85793512_zpid/,"1814 Round A Bout Rd, Monticello, IN 47960",,3,1.5,1196
+2733,,https://www.zillow.com/homedetails/6925-Knollcreek-Dr-Indianapolis-IN-46256/1164618_zpid/,"6925 Knollcreek Dr, Indianapolis, IN 46256",,0,2,2473
+2734,,https://www.zillow.com/homedetails/317-Glenmoor-Dr-Fort-Wayne-IN-46804/73106465_zpid/,"317 Glenmoor Dr, Fort Wayne, IN 46804",,4,4,2100
+2735,,https://www.zillow.com/homedetails/5117-Fernwood-Ave-Fort-Wayne-IN-46809/73119468_zpid/,"5117 Fernwood Ave, Fort Wayne, IN 46809",,3,1.5,1344
+2736,,https://www.zillow.com/homedetails/13740-Beal-Brook-Ct-Fort-Wayne-IN-46814/180522049_zpid/,"13740 Beal Brook Ct, Fort Wayne, IN 46814",,4,2.5,1536
+2737,,https://www.zillow.com/homedetails/1017-E-Apple-Blossom-Ln-Greenfield-IN-46140/85285663_zpid/,"1017 E Apple Blossom Ln, Greenfield, IN 46140",,2,2,1348
+2738,,https://www.zillow.com/homedetails/4214-Arrown-Dr-Fort-Wayne-IN-46809/2144053401_zpid/,"4214 Arrown Dr, Fort Wayne, IN 46809",,3,2,
+2739,,https://www.zillow.com/homedetails/513-Middle-Park-Dr-Edinburgh-IN-46124/85436776_zpid/,"513 Middle Park Dr, Edinburgh, IN 46124",,3,1.5,1144
+2740,,https://www.zillow.com/homedetails/1128-Somerset-Ln-Fort-Wayne-IN-46805/73203081_zpid/,"1128 Somerset Ln, Fort Wayne, IN 46805",,2,1.5,1048
+2741,,https://www.zillow.com/homedetails/120-Esmond-St-Fort-Wayne-IN-46806/73115523_zpid/,"120 Esmond St, Fort Wayne, IN 46806",,3,1.5,1482
+2742,,https://www.zillow.com/homedetails/1213-Burgess-St-Fort-Wayne-IN-46808/73127837_zpid/,"1213 Burgess St, Fort Wayne, IN 46808",,3,1,990
+2743,,https://www.zillow.com/homedetails/1402-Pemberton-Dr-Fort-Wayne-IN-46805/73137273_zpid/,"1402 Pemberton Dr, Fort Wayne, IN 46805",,3,1,840
+2744,,https://www.zillow.com/homedetails/10275-S-800-W-Columbus-IN-47201/123794085_zpid/,"10275 S 800 W, Columbus, IN 47201",,3,2,1632
+2745,,https://www.zillow.com/homedetails/2329-S-Harrison-St-Fort-Wayne-IN-46807/73110466_zpid/,"2329 S Harrison St, Fort Wayne, IN 46807",,1,1,700
+2746,,https://www.zillow.com/homedetails/2460-Randall-Rd-Fort-Wayne-IN-46804/73129522_zpid/,"2460 Randall Rd, Fort Wayne, IN 46804",,3,1,2300
+2747,,https://www.zillow.com/homedetails/604-Maier-St-Edinburgh-IN-46124/85092114_zpid/,"604 Maier St, Edinburgh, IN 46124",,2,2,1376
+2748,,https://www.zillow.com/homedetails/2111-Stone-Fountain-Chase-Fort-Wayne-IN-46804/180525202_zpid/,"2111 Stone Fountain Chase, Fort Wayne, IN 46804",,4,4,2206
+2749,,https://www.zillow.com/homedetails/1808-Versailles-Village-Pl-Fort-Wayne-IN-46808/73155044_zpid/,"1808 Versailles Village Pl, Fort Wayne, IN 46808",,4,2,1646
+2750,,https://www.zillow.com/homedetails/2125-Bayside-Ct-A-Fort-Wayne-IN-46804/94269142_zpid/,"2125 Bayside Ct #A, Fort Wayne, IN 46804",,3,1.5,1548
+2751,,https://www.zillow.com/homedetails/13728-Ruffner-Rd-Fort-Wayne-IN-46814/122700775_zpid/,"13728 Ruffner Rd, Fort Wayne, IN 46814",,4,3,2578
+2752,,https://www.zillow.com/homedetails/505-E-County-Road-1025-N-Lizton-IN-46167/248075415_zpid/,"505 E County Road 1025 N, Lizton, IN 46167",,3,2.5,3305
+2753,,https://www.zillow.com/homedetails/1019-Rewill-Dr-Fort-Wayne-IN-46804/73192987_zpid/,"1019 Rewill Dr, Fort Wayne, IN 46804",,3,1.5,1692
+2754,,https://www.zillow.com/homedetails/1035-Wilt-St-Fort-Wayne-IN-46802/73109638_zpid/,"1035 Wilt St, Fort Wayne, IN 46802",,4,3,2024
+2755,,https://www.zillow.com/homedetails/818-Blaine-Ave-South-Bend-IN-46616/99218796_zpid/,"818 Blaine Ave, South Bend, IN 46616",,3,1,1076
+2756,,https://www.zillow.com/homedetails/201-S-Illinois-St-Monticello-IN-47960/303579187_zpid/,"201 S Illinois St, Monticello, IN 47960",,0,0,
+2757,,https://www.zillow.com/homedetails/1025-E-Rudisill-Blvd-Fort-Wayne-IN-46806/73188203_zpid/,"1025 E Rudisill Blvd, Fort Wayne, IN 46806",,3,2,1814
+2758,,https://www.zillow.com/homedetails/3518-Rodgers-Ave-Fort-Wayne-IN-46803/73138682_zpid/,"3518 Rodgers Ave, Fort Wayne, IN 46803",,3,1,1080
+2759,,https://www.zillow.com/homedetails/2216-S-Calhoun-St-Fort-Wayne-IN-46802/73110658_zpid/,"2216 S Calhoun St, Fort Wayne, IN 46802",,5,2,5648
+2760,,https://www.zillow.com/homedetails/1305-Jackson-St-Fort-Wayne-IN-46802/73186668_zpid/,"1305 Jackson St, Fort Wayne, IN 46802",,3,1,1568
+2761,,https://www.zillow.com/homedetails/10306-Middle-Rd-Fountain-City-IN-47341/85783797_zpid/,"10306 Middle Rd, Fountain City, IN 47341",,3,2.5,2658
+2762,,https://www.zillow.com/homedetails/1114-Elm-St-Fort-Wayne-IN-46808/73128024_zpid/,"1114 Elm St, Fort Wayne, IN 46808",,2,1,840
+2763,,https://www.zillow.com/homedetails/1701-Shalimar-Ct-Fort-Wayne-IN-46808/73158455_zpid/,"1701 Shalimar Ct, Fort Wayne, IN 46808",,3,2,2040
+2764,,https://www.zillow.com/homedetails/1525-Northlawn-Dr-Fort-Wayne-IN-46805/73156843_zpid/,"1525 Northlawn Dr, Fort Wayne, IN 46805",,2,1,1066
+2765,,https://www.zillow.com/homedetails/5621-Allendale-Dr-Fort-Wayne-IN-46809/73119760_zpid/,"5621 Allendale Dr, Fort Wayne, IN 46809",,3,2,1643
+2766,,https://www.zillow.com/homedetails/1429-Silver-Linden-Ct-Fort-Wayne-IN-46804/73101435_zpid/,"1429 Silver Linden Ct, Fort Wayne, IN 46804",,3,3,2316
+2767,,https://www.zillow.com/homedetails/4032-Indian-Hills-Dr-Fort-Wayne-IN-46809/73118443_zpid/,"4032 Indian Hills Dr, Fort Wayne, IN 46809",,3,2,1344
+2768,,https://www.zillow.com/homedetails/2201-Riedmiller-Ave-Fort-Wayne-IN-46802/73117620_zpid/,"2201 Riedmiller Ave, Fort Wayne, IN 46802",,2,1,660
+2769,,https://www.zillow.com/homedetails/3740-Manito-Blvd-Fort-Wayne-IN-46809/73117939_zpid/,"3740 Manito Blvd, Fort Wayne, IN 46809",,3,2,1137
+2770,,https://www.zillow.com/homedetails/10691-Boyd-Hollow-Rd-Shoals-IN-47581/112202594_zpid/,"10691 Boyd Hollow Rd, Shoals, IN 47581",,2,1,520
+2771,,https://www.zillow.com/homedetails/5847-E-Us-Highway-224-Ossian-IN-46777/120614865_zpid/,"5847 E Us Highway 224, Ossian, IN 46777",,3,2,1776
+2772,,https://www.zillow.com/homedetails/1412-Broadway-Fort-Wayne-IN-46802/73109401_zpid/,"1412 Broadway, Fort Wayne, IN 46802",,2,1,1376
+2773,,https://www.zillow.com/homedetails/14769-Sandstone-Dr-Fort-Wayne-IN-46814/180522510_zpid/,"14769 Sandstone Dr, Fort Wayne, IN 46814",,4,3.5,2990
+2774,,https://www.zillow.com/homedetails/2622-Forest-Valley-Dr-Fort-Wayne-IN-46815/73209828_zpid/,"2622 Forest Valley Dr, Fort Wayne, IN 46815",,3,1.5,1565
+2775,,https://www.zillow.com/homedetails/1009-S-Morristown-Pike-Greenfield-IN-46140/85274105_zpid/,"1009 S Morristown Pike, Greenfield, IN 46140",,3,1,1834
+2776,,https://www.zillow.com/homedetails/309-N-Main-St-Griffin-IN-47616/85665062_zpid/,"309 N Main St, Griffin, IN 47616",,2,1,1060
+2777,,https://www.zillow.com/homedetails/3022-Euclid-Ave-Fort-Wayne-IN-46806/73194509_zpid/,"3022 Euclid Ave, Fort Wayne, IN 46806",,3,1,1320
+2778,,https://www.zillow.com/homedetails/2004-Dodge-Ave-Fort-Wayne-IN-46805/73181865_zpid/,"2004 Dodge Ave, Fort Wayne, IN 46805",,4,2,1769
+2779,,https://www.zillow.com/homedetails/3217-Oak-Glen-Trl-Fort-Wayne-IN-46804/73102822_zpid/,"3217 Oak Glen Trl, Fort Wayne, IN 46804",,3,2.5,2474
+2780,,https://www.zillow.com/homedetails/3614-Kirkfield-Dr-Fort-Wayne-IN-46815/73208704_zpid/,"3614 Kirkfield Dr, Fort Wayne, IN 46815",,4,3,2487
+2781,,https://www.zillow.com/homedetails/1302-Franklin-St-B-Columbus-IN-47201/2088582412_zpid/,"1302 Franklin St #B, Columbus, IN 47201",,1,1,500
+2782,,https://www.zillow.com/homedetails/18488-W-Stoneberger-Rd-Griffin-IN-47616/126943257_zpid/,"18488 W Stoneberger Rd, Griffin, IN 47616",,0,1,380
+2783,,https://www.zillow.com/homedetails/1615-California-Ave-Fort-Wayne-IN-46805/73160364_zpid/,"1615 California Ave, Fort Wayne, IN 46805",,4,1.5,1758
+2784,,https://www.zillow.com/homedetails/105-W-Pike-St-Roann-IN-46974/94618604_zpid/,"105 W Pike St, Roann, IN 46974",,2,1,1364
+2785,,https://www.zillow.com/homedetails/1641-Rumsey-Ave-Fort-Wayne-IN-46808/73159405_zpid/,"1641 Rumsey Ave, Fort Wayne, IN 46808",,4,2,1962
+2786,,https://www.zillow.com/homedetails/3645-Virginia-St-Gary-IN-46409/73343693_zpid/,"3645 Virginia St, Gary, IN 46409",,4,1.5,2042
+2787,,https://www.zillow.com/homedetails/6829-Bruton-Dr-Indianapolis-IN-46256/1150916_zpid/,"6829 Bruton Dr, Indianapolis, IN 46256",,4,2.5,3300
+2788,,https://www.zillow.com/homedetails/1521-Stophlet-St-Fort-Wayne-IN-46802/73111965_zpid/,"1521 Stophlet St, Fort Wayne, IN 46802",,3,1,850
+2789,,https://www.zillow.com/homedetails/1618-Hale-Ave-Fort-Wayne-IN-46802/73116249_zpid/,"1618 Hale Ave, Fort Wayne, IN 46802",,4,1.5,1192
+2790,,https://www.zillow.com/homedetails/1208-Marion-St-Fort-Wayne-IN-46808/73119378_zpid/,"1208 Marion St, Fort Wayne, IN 46808",,3,1,1424
+2791,,https://www.zillow.com/homedetails/5370-E-County-Road-550-N-Pittsboro-IN-46167/85342287_zpid/,"5370 E County Road 550 N, Pittsboro, IN 46167",,3,2,1507
+2792,,https://www.zillow.com/homedetails/1512-Forest-Park-Blvd-Fort-Wayne-IN-46805/73162738_zpid/,"1512 Forest Park Blvd, Fort Wayne, IN 46805",,4,6,4500
+2793,,https://www.zillow.com/homedetails/3525-Rockwood-Dr-Fort-Wayne-IN-46815/73181327_zpid/,"3525 Rockwood Dr, Fort Wayne, IN 46815",,4,2.5,2454
+2794,,https://www.zillow.com/homedetails/4022-Wawonaissa-Trl-Fort-Wayne-IN-46809/73189646_zpid/,"4022 Wawonaissa Trl, Fort Wayne, IN 46809",,3,2,986
+2795,,https://www.zillow.com/homedetails/10017-Woodland-Rdg-W-Fort-Wayne-IN-46804/73107240_zpid/,"10017 Woodland Rdg W, Fort Wayne, IN 46804",,3,2.5,1360
+2796,,https://www.zillow.com/homedetails/5711-Fernwood-Ave-Fort-Wayne-IN-46809/73119584_zpid/,"5711 Fernwood Ave, Fort Wayne, IN 46809",,4,2,2464
+2797,,https://www.zillow.com/homedetails/1302-Dodge-Ave-Fort-Wayne-IN-46805/73204812_zpid/,"1302 Dodge Ave, Fort Wayne, IN 46805",,3,1,1403
+2798,,https://www.zillow.com/homedetails/3621-Bascom-Corner-Rd-Rising-Sun-IN-47040/193835682_zpid/,"3621 Bascom Corner Rd, Rising Sun, IN 47040",,3,1,2299
+2799,,https://www.zillow.com/homedetails/1657-Sprunger-Ave-Fort-Wayne-IN-46808/73169816_zpid/,"1657 Sprunger Ave, Fort Wayne, IN 46808",,2,1,734
+2800,,https://www.zillow.com/homedetails/122-Reo-St-Columbus-IN-47201/102839149_zpid/,"122 Reo St, Columbus, IN 47201",,2,1,1265
+2801,,https://www.zillow.com/homedetails/26049-Chapel-Rd-Laurel-IN-47024/85255046_zpid/,"26049 Chapel Rd, Laurel, IN 47024",,3,2,1403
+2802,,https://www.zillow.com/homedetails/533-Poplar-Dr-Pittsboro-IN-46167/85329492_zpid/,"533 Poplar Dr, Pittsboro, IN 46167",,3,1,1080
+2803,,https://www.zillow.com/homedetails/11915-Eagle-Creek-Pl-Fort-Wayne-IN-46814/73185873_zpid/,"11915 Eagle Creek Pl, Fort Wayne, IN 46814",,4,2.5,2556
+2804,,https://www.zillow.com/homedetails/6902-Creek-Ridge-Trl-Indianapolis-IN-46256/1152522_zpid/,"6902 Creek Ridge Trl, Indianapolis, IN 46256",,3,4,4124
+2805,,https://www.zillow.com/homedetails/2917-Euclid-Ave-Fort-Wayne-IN-46806/124603600_zpid/,"2917 Euclid Ave, Fort Wayne, IN 46806",,3,1,806
+2806,,https://www.zillow.com/homedetails/2527-Bluewater-Trl-Fort-Wayne-IN-46804/73100978_zpid/,"2527 Bluewater Trl, Fort Wayne, IN 46804",,3,2,1602
+2807,,https://www.zillow.com/homedetails/11045-Limbach-Cir-Indianapolis-IN-46236/1161638_zpid/,"11045 Limbach Cir, Indianapolis, IN 46236",,3,3,3537
+2808,,https://www.zillow.com/homedetails/4009-Mound-Pass-Fort-Wayne-IN-46809/73118643_zpid/,"4009 Mound Pass, Fort Wayne, IN 46809",,2,1,1176
+2809,,https://www.zillow.com/homedetails/2316-Oliver-St-Fort-Wayne-IN-46803/73187421_zpid/,"2316 Oliver St, Fort Wayne, IN 46803",,3,1,1722
+2810,,https://www.zillow.com/homedetails/12655-W-Sawmill-Rd-Columbus-IN-47201/85107179_zpid/,"12655 W Sawmill Rd, Columbus, IN 47201",,3,2,2288
+2811,,https://www.zillow.com/homedetails/1128-W-Berry-St-Fort-Wayne-IN-46802/73192740_zpid/,"1128 W Berry St, Fort Wayne, IN 46802",,4,1.5,2812
+2812,,https://www.zillow.com/homedetails/1309-N-McCann-St-Kokomo-IN-46901/85365499_zpid/,"1309 N McCann St, Kokomo, IN 46901",,2,1,912
+2813,,https://www.zillow.com/homedetails/25090-Sanes-Creek-Rd-Laurel-IN-47024/85253832_zpid/,"25090 Sanes Creek Rd, Laurel, IN 47024",,2,1,1140
+2814,,https://www.zillow.com/homedetails/5710-E-Us-Highway-224-Ossian-IN-46777/85786969_zpid/,"5710 E Us Highway 224, Ossian, IN 46777",,3,2,1120
+2815,,https://www.zillow.com/homedetails/1809-Majestic-Ln-Fort-Wayne-IN-46815/73209734_zpid/,"1809 Majestic Ln, Fort Wayne, IN 46815",,4,3,1788
+2816,,https://www.zillow.com/homedetails/15022-Bristlecone-Ct-Fort-Wayne-IN-46814/73104318_zpid/,"15022 Bristlecone Ct, Fort Wayne, IN 46814",,4,3,2124
+2817,,https://www.zillow.com/homedetails/2906-Barr-St-Fort-Wayne-IN-46806/73115652_zpid/,"2906 Barr St, Fort Wayne, IN 46806",,2,1,1000
+2818,,https://www.zillow.com/homedetails/506-E-Main-Cross-St-Edinburgh-IN-46124/85436080_zpid/,"506 E Main Cross St, Edinburgh, IN 46124",,4,1.5,2258
+2819,,https://www.zillow.com/homedetails/1003-Irene-Ave-Fort-Wayne-IN-46808/73169637_zpid/,"1003 Irene Ave, Fort Wayne, IN 46808",,2,1,754
+2820,,https://www.zillow.com/homedetails/2110-Blue-Harbor-Dr-Fort-Wayne-IN-46804/73100617_zpid/,"2110 Blue Harbor Dr, Fort Wayne, IN 46804",,4,3,2232
+2821,,https://www.zillow.com/homedetails/1813-Kinsmoor-Ave-Fort-Wayne-IN-46809/73189275_zpid/,"1813 Kinsmoor Ave, Fort Wayne, IN 46809",,2,1,1032
+2822,,https://www.zillow.com/homedetails/339-W-Church-St-Cambridge-City-IN-47327/85767025_zpid/,"339 W Church St, Cambridge City, IN 47327",,4,2,2280
+2823,,https://www.zillow.com/homedetails/5730-Arbor-Ave-Fort-Wayne-IN-46809/73189894_zpid/,"5730 Arbor Ave, Fort Wayne, IN 46809",,3,2,1502
+2824,,https://www.zillow.com/homedetails/5109-Fernwood-Ave-Fort-Wayne-IN-46809/73119466_zpid/,"5109 Fernwood Ave, Fort Wayne, IN 46809",,2,1.5,974
+2825,,https://www.zillow.com/homedetails/4429-Arrow-Dr-Fort-Wayne-IN-46809/73190005_zpid/,"4429 Arrow Dr, Fort Wayne, IN 46809",,3,3,1881
+2826,,https://www.zillow.com/homedetails/3326-Merrimack-Pl-Fort-Wayne-IN-46815/73172277_zpid/,"3326 Merrimack Pl, Fort Wayne, IN 46815",,3,2,1516
+2827,,https://www.zillow.com/homedetails/550-Continental-Camp-Rd-Griffin-IN-47616/120242562_zpid/,"550 Continental Camp Rd, Griffin, IN 47616",,3,2,1733
+2828,,https://www.zillow.com/homedetails/3116-Summersworth-Run-Fort-Wayne-IN-46804/73102384_zpid/,"3116 Summersworth Run, Fort Wayne, IN 46804",,3,2,2046
+2829,,https://www.zillow.com/homedetails/501-Buchanan-St-Fort-Wayne-IN-46803/73111457_zpid/,"501 Buchanan St, Fort Wayne, IN 46803",,3,1,1605
+2830,,https://www.zillow.com/homedetails/2145-Miner-St-Fort-Wayne-IN-46802/73110225_zpid/,"2145 Miner St, Fort Wayne, IN 46802",,3,1,2300
+2831,,https://www.zillow.com/homedetails/1607-Kensington-Blvd-Fort-Wayne-IN-46805/73171868_zpid/,"1607 Kensington Blvd, Fort Wayne, IN 46805",,3,1.5,1665
+2832,,https://www.zillow.com/homedetails/15027-Butterbough-Ln-Fort-Wayne-IN-46814/180528890_zpid/,"15027 Butterbough Ln, Fort Wayne, IN 46814",,4,3,1992
+2833,,https://www.zillow.com/homedetails/218-N-Main-St-Griffin-IN-47616/94544934_zpid/,"218 N Main St, Griffin, IN 47616",,3,2,938
+2834,,https://www.zillow.com/homedetails/1320-W-Washington-Blvd-Fort-Wayne-IN-46802/94269033_zpid/,"1320 W Washington Blvd, Fort Wayne, IN 46802",,5,4,3219
+2835,,https://www.zillow.com/homedetails/25016-Old-Us-Highway-52-Laurel-IN-47024/85258137_zpid/,"25016 Old Us Highway 52, Laurel, IN 47024",,0,2,1344
+2836,,https://www.zillow.com/homedetails/15123-N-Harbourside-Dr-Fort-Wayne-IN-46814/73108842_zpid/,"15123 N Harbourside Dr, Fort Wayne, IN 46814",,3,3,2044
+2837,,https://www.zillow.com/homedetails/10633-Mill-Rd-Shoals-IN-47581/103906198_zpid/,"10633 Mill Rd, Shoals, IN 47581",,3,2,2352
+2838,,https://www.zillow.com/homedetails/10172-S-Jonesville-Rd-Columbus-IN-47201/85091997_zpid/,"10172 S Jonesville Rd, Columbus, IN 47201",,3,1.5,1420
+2839,,https://www.zillow.com/homedetails/5341-E-County-Road-750-N-Pittsboro-IN-46167/85309820_zpid/,"5341 E County Road 750 N, Pittsboro, IN 46167",,3,2,1837
+2840,,https://www.zillow.com/homedetails/124-East-St-Griffin-IN-47616/112582527_zpid/,"124 East St, Griffin, IN 47616",,2,1,876
+2841,,https://www.zillow.com/homedetails/1111-Illsley-Dr-Fort-Wayne-IN-46807/73118383_zpid/,"1111 Illsley Dr, Fort Wayne, IN 46807",,3,2.5,1796
+2842,,https://www.zillow.com/homedetails/3027-Piqua-Ave-Fort-Wayne-IN-46806/73115519_zpid/,"3027 Piqua Ave, Fort Wayne, IN 46806",,3,1,1566
+2843,,https://www.zillow.com/homedetails/2918-S-Wayne-Ave-Fort-Wayne-IN-46807/73115618_zpid/,"2918 S Wayne Ave, Fort Wayne, IN 46807",,3,1,42
+2844,,https://www.zillow.com/homedetails/25077-Vanatta-Rd-Laurel-IN-47024/85253863_zpid/,"25077 Vanatta Rd, Laurel, IN 47024",,3,1,980
+2845,,https://www.zillow.com/homedetails/1117-3rd-St-Fort-Wayne-IN-46808/73126423_zpid/,"1117 3rd St, Fort Wayne, IN 46808",,2,1,1312
+2846,,https://www.zillow.com/homedetails/725-N-Scott-St-South-Bend-IN-46616/77020691_zpid/,"725 N Scott St, South Bend, IN 46616",,2,1.5,2016
+2847,,https://www.zillow.com/homedetails/4737-Pinecrest-Dr-Fort-Wayne-IN-46809/73119017_zpid/,"4737 Pinecrest Dr, Fort Wayne, IN 46809",,3,1,768
+2848,,https://www.zillow.com/homedetails/1307-N-Jay-St-Kokomo-IN-46901/85375186_zpid/,"1307 N Jay St, Kokomo, IN 46901",,2,1,816
+2849,,https://www.zillow.com/homedetails/4016-Meda-Pass-Fort-Wayne-IN-46809/73118651_zpid/,"4016 Meda Pass, Fort Wayne, IN 46809",,3,2,1582
+2850,,https://www.zillow.com/homedetails/12717-Grand-Station-Dr-12717-Fort-Wayne-IN-46814/73108651_zpid/,"12717 Grand Station Dr #12717, Fort Wayne, IN 46814",,2,2,1291
+2851,,https://www.zillow.com/homedetails/2904-Knode-Ct-Fort-Wayne-IN-46806/73133109_zpid/,"2904 Knode Ct, Fort Wayne, IN 46806",,3,1,884
+2852,,https://www.zillow.com/homedetails/2-S-4th-St-Cambridge-City-IN-47327/85767303_zpid/,"2 S 4th St, Cambridge City, IN 47327",,3,1,672
+2853,,https://www.zillow.com/homedetails/1633-Wells-St-Fort-Wayne-IN-46808/73158821_zpid/,"1633 Wells St, Fort Wayne, IN 46808",,4,2,1480
+2854,,https://www.zillow.com/homedetails/1103-Central-Ave-APT-3-Columbus-IN-47201/2081565521_zpid/,"1103 Central Ave APT 3, Columbus, IN 47201",,2,1,900
+2855,,https://www.zillow.com/homedetails/3136-Fairway-Dr-Fort-Wayne-IN-46804/73118887_zpid/,"3136 Fairway Dr, Fort Wayne, IN 46804",,2,2,1675
+2856,,https://www.zillow.com/homedetails/2350-S-Harrison-St-Fort-Wayne-IN-46807/73110838_zpid/,"2350 S Harrison St, Fort Wayne, IN 46807",,2,2.5,1682
+2857,,https://www.zillow.com/homedetails/2701-Kingsland-Ct-Fort-Wayne-IN-46815/73175827_zpid/,"2701 Kingsland Ct, Fort Wayne, IN 46815",,3,1,835
+2858,,https://www.zillow.com/homedetails/535-Freedom-Dr-Pittsboro-IN-46167/207936702_zpid/,"535 Freedom Dr, Pittsboro, IN 46167",,3,2.5,2472
+2859,,https://www.zillow.com/homedetails/412-Ingle-Dr-Ossian-IN-46777/85785088_zpid/,"412 Ingle Dr, Ossian, IN 46777",,3,1.5,1402
+2860,,https://www.zillow.com/homedetails/5620-Allendale-Dr-Fort-Wayne-IN-46809/73119679_zpid/,"5620 Allendale Dr, Fort Wayne, IN 46809",,3,1,1251
+2861,,https://www.zillow.com/homedetails/3019-Holton-Ave-Fort-Wayne-IN-46806/73113069_zpid/,"3019 Holton Ave, Fort Wayne, IN 46806",,3,1,1408
+2862,,https://www.zillow.com/homedetails/1206-Elmwood-Ave-Fort-Wayne-IN-46805/73109784_zpid/,"1206 Elmwood Ave, Fort Wayne, IN 46805",,5,2,1638
+2863,,https://www.zillow.com/homedetails/1416-Lofton-Way-Fort-Wayne-IN-46815/73137106_zpid/,"1416 Lofton Way, Fort Wayne, IN 46815",,4,2,1703
+2864,,https://www.zillow.com/homedetails/11020-Echo-Trl-Indianapolis-IN-46236/1161336_zpid/,"11020 Echo Trl, Indianapolis, IN 46236",,0,1.5,3246
+2865,,https://www.zillow.com/homedetails/26169-Us-Highway-52-Laurel-IN-47024/85254151_zpid/,"26169 Us Highway 52, Laurel, IN 47024",,0,2,1484
+2866,,https://www.zillow.com/homedetails/24206-Old-Us-52-Laurel-IN-47024/2091133992_zpid/,"24206 Old Us 52, Laurel, IN 47024",,3,2,1680
+2867,,https://www.zillow.com/homedetails/2922-McArthur-Dr-Fort-Wayne-IN-46809/73192472_zpid/,"2922 McArthur Dr, Fort Wayne, IN 46809",,3,1.5,1186
+2868,,https://www.zillow.com/homedetails/1603-E-Wayne-St-Fort-Wayne-IN-46803/73189003_zpid/,"1603 E Wayne St, Fort Wayne, IN 46803",,3,2,1760
+2869,,https://www.zillow.com/homedetails/10128-Arbor-Trl-Fort-Wayne-IN-46804/73107100_zpid/,"10128 Arbor Trl, Fort Wayne, IN 46804",,4,2,1701
+2870,,https://www.zillow.com/homedetails/1105-17th-St-APT-4-Columbus-IN-47201/2084608553_zpid/,"1105 17th St APT 4, Columbus, IN 47201",,1,1,535
+2871,,https://www.zillow.com/homedetails/2133-Owaissa-Way-Fort-Wayne-IN-46809/73189434_zpid/,"2133 Owaissa Way, Fort Wayne, IN 46809",,2,1,977
+2872,,https://www.zillow.com/homedetails/1622-Randford-Pl-Fort-Wayne-IN-46815/73182709_zpid/,"1622 Randford Pl, Fort Wayne, IN 46815",,3,2,1860
+2873,,https://www.zillow.com/homedetails/7035-E-Harrold-Pl-Churubusco-IN-46723/85801088_zpid/,"7035 E Harrold Pl, Churubusco, IN 46723",,3,4,3250
+2874,,https://www.zillow.com/homedetails/1431-Taylor-St-Fort-Wayne-IN-46802/73188717_zpid/,"1431 Taylor St, Fort Wayne, IN 46802",,1,1,1586
+2875,,https://www.zillow.com/homedetails/611-Millside-Ct-Ossian-IN-46777/85784725_zpid/,"611 Millside Ct, Ossian, IN 46777",,3,1,1008
+2876,,https://www.zillow.com/homedetails/2822-Plaza-Dr-Fort-Wayne-IN-46806/73132864_zpid/,"2822 Plaza Dr, Fort Wayne, IN 46806",,3,1,1349
+2877,,https://www.zillow.com/homedetails/3506-Utah-Dr-Fort-Wayne-IN-46815/73167923_zpid/,"3506 Utah Dr, Fort Wayne, IN 46815",,3,2,1215
+2878,,https://www.zillow.com/homedetails/1819-Coronet-Dr-Fort-Wayne-IN-46815/73173121_zpid/,"1819 Coronet Dr, Fort Wayne, IN 46815",,3,1,1356
+2879,,https://www.zillow.com/homedetails/3780-Rhode-Island-St-Gary-IN-46409/73336586_zpid/,"3780 Rhode Island St, Gary, IN 46409",,2,1,924
+2880,,https://www.zillow.com/homedetails/2725-Alexander-St-Fort-Wayne-IN-46806/122698285_zpid/,"2725 Alexander St, Fort Wayne, IN 46806",,3,1,1150
+2881,,https://www.zillow.com/homedetails/1811-Trinity-Blvd-Fort-Wayne-IN-46808/73203765_zpid/,"1811 Trinity Blvd, Fort Wayne, IN 46808",,3,1,912
+2882,,https://www.zillow.com/homedetails/1605-California-Ave-Fort-Wayne-IN-46805/73205081_zpid/,"1605 California Ave, Fort Wayne, IN 46805",,3,2,2402
+2883,,https://www.zillow.com/homedetails/410-W-Adams-St-Roann-IN-46974/85742001_zpid/,"410 W Adams St, Roann, IN 46974",,3,2,1440
+2884,,https://www.zillow.com/homedetails/11224-Branstrator-Rd-Fort-Wayne-IN-46809/73196744_zpid/,"11224 Branstrator Rd, Fort Wayne, IN 46809",,4,3.5,2872
+2885,,https://www.zillow.com/homedetails/112-W-Washington-Blvd-APT-235-Fort-Wayne-IN-46802/73123635_zpid/,"112 W Washington Blvd APT 235, Fort Wayne, IN 46802",,1,1,680
+2886,,https://www.zillow.com/homedetails/1119-College-St-Fort-Wayne-IN-46802/2096774647_zpid/,"1119 College St, Fort Wayne, IN 46802",,3,1,1228
+2887,,https://www.zillow.com/homedetails/407-Oakdale-Dr-Ossian-IN-46777/85784966_zpid/,"407 Oakdale Dr, Ossian, IN 46777",,3,2,1680
+2888,,https://www.zillow.com/homedetails/4430-Arrow-Dr-Fort-Wayne-IN-46809/73119822_zpid/,"4430 Arrow Dr, Fort Wayne, IN 46809",,3,2.5,1588
+2889,,https://www.zillow.com/homedetails/3445-State-Route-56-N-Rising-Sun-IN-47040/120950645_zpid/,"3445 State Route 56 N, Rising Sun, IN 47040",,2,2,930
+2890,,https://www.zillow.com/homedetails/1205-W-Oakdale-Dr-Fort-Wayne-IN-46807/73189489_zpid/,"1205 W Oakdale Dr, Fort Wayne, IN 46807",,3,1,1712
+2891,,https://www.zillow.com/homedetails/2812-Barr-St-Fort-Wayne-IN-46806/73115496_zpid/,"2812 Barr St, Fort Wayne, IN 46806",,3,1,1536
+2892,,https://www.zillow.com/homedetails/12004-Fairway-Winds-Ct-Fort-Wayne-IN-46814/180521443_zpid/,"12004 Fairway Winds Ct, Fort Wayne, IN 46814",,4,4,3356
+2893,,https://www.zillow.com/homedetails/1311-Timberlake-Trl-Fort-Wayne-IN-46804/73100528_zpid/,"1311 Timberlake Trl, Fort Wayne, IN 46804",,4,3,3065
+2894,,https://www.zillow.com/homedetails/1807-Hale-Ave-Fort-Wayne-IN-46802/73188371_zpid/,"1807 Hale Ave, Fort Wayne, IN 46802",,2,1,600
+2895,,https://www.zillow.com/homedetails/12032-Kingsbridge-Rd-Fort-Wayne-IN-46814/73104605_zpid/,"12032 Kingsbridge Rd, Fort Wayne, IN 46814",,5,5,6702
+2896,,https://www.zillow.com/homedetails/496-W-1000-S-Kingman-IN-47952/231362496_zpid/,"496 W 1000 S, Kingman, IN 47952",,0,1,144
+2897,,https://www.zillow.com/homedetails/1821-Mary-St-Fort-Wayne-IN-46808/73192487_zpid/,"1821 Mary St, Fort Wayne, IN 46808",,3,2,1396
+2898,,https://www.zillow.com/homedetails/1302-Garfield-St-Fort-Wayne-IN-46805/122701705_zpid/,"1302 Garfield St, Fort Wayne, IN 46805",,3,2,723
+2899,,https://www.zillow.com/homedetails/606-Millside-Ct-Ossian-IN-46777/85784712_zpid/,"606 Millside Ct, Ossian, IN 46777",,3,1,1100
+2900,,https://www.zillow.com/homedetails/1024-E-Wayne-St-Fort-Wayne-IN-46803/73189239_zpid/,"1024 E Wayne St, Fort Wayne, IN 46803",,2,1,1440
+2901,,https://www.zillow.com/homedetails/610-S-775-E-Waldron-IN-46182/111832053_zpid/,"610 S 775 E, Waldron, IN 46182",,1,1,1128
+2902,,https://www.zillow.com/homedetails/405-Bass-St-Fort-Wayne-IN-46802/73109843_zpid/,"405 Bass St, Fort Wayne, IN 46802",,3,1,1104
+2903,,https://www.zillow.com/homedetails/2730-Mauldin-Dr-Fort-Wayne-IN-46806/73133356_zpid/,"2730 Mauldin Dr, Fort Wayne, IN 46806",,2,1,915
+2904,,https://www.zillow.com/homedetails/1216-Wefel-St-Fort-Wayne-IN-46808/73189992_zpid/,"1216 Wefel St, Fort Wayne, IN 46808",,4,1.5,1638
+2905,,https://www.zillow.com/homedetails/3605-Rodgers-Ave-Fort-Wayne-IN-46803/73196359_zpid/,"3605 Rodgers Ave, Fort Wayne, IN 46803",,2,1,780
+2906,,https://www.zillow.com/homedetails/2021-Inverness-Lakes-Xing-Fort-Wayne-IN-46804/73101445_zpid/,"2021 Inverness Lakes Xing, Fort Wayne, IN 46804",,5,7,5236
+2907,,https://www.zillow.com/homedetails/1133-W-Branning-Ave-Fort-Wayne-IN-46807/73118463_zpid/,"1133 W Branning Ave, Fort Wayne, IN 46807",,3,1.5,1727
+2908,,https://www.zillow.com/homedetails/1117-Wilt-St-Fort-Wayne-IN-46802/73187400_zpid/,"1117 Wilt St, Fort Wayne, IN 46802",,3,1,1592
+2909,,https://www.zillow.com/homedetails/304-W-Church-St-Cambridge-City-IN-47327/85767040_zpid/,"304 W Church St, Cambridge City, IN 47327",,2,1,1100
+2910,,https://www.zillow.com/homedetails/1006-Normandale-Dr-Fort-Wayne-IN-46808/73203290_zpid/,"1006 Normandale Dr, Fort Wayne, IN 46808",,3,2,1264
+2911,,https://www.zillow.com/homedetails/121-Hege-Ave-Columbus-IN-47201/85101403_zpid/,"121 Hege Ave, Columbus, IN 47201",,8,2,1280
+2912,,https://www.zillow.com/homedetails/109-West-St-Griffin-IN-47616/94544923_zpid/,"109 West St, Griffin, IN 47616",,2,1,1820
+2913,,https://www.zillow.com/homedetails/1210-Dell-Cove-Dr-Fort-Wayne-IN-46804/73101135_zpid/,"1210 Dell Cove Dr, Fort Wayne, IN 46804",,3,2,1608
+2914,,https://www.zillow.com/homedetails/604-E-Pearl-St-Waldron-IN-46182/94584905_zpid/,"604 E Pearl St, Waldron, IN 46182",,2,1,1008
+2915,,https://www.zillow.com/homedetails/2010-Winding-Creek-Ln-Fort-Wayne-IN-46804/73184344_zpid/,"2010 Winding Creek Ln, Fort Wayne, IN 46804",,3,3,1895
+2916,,https://www.zillow.com/homedetails/3622-Nuttman-Ave-Fort-Wayne-IN-46802/73189558_zpid/,"3622 Nuttman Ave, Fort Wayne, IN 46802",,3,1.5,1739
+2917,,https://www.zillow.com/homedetails/334-S-Mulberry-St-Rising-Sun-IN-47040/85641091_zpid/,"334 S Mulberry St, Rising Sun, IN 47040",,4,2,2560
+2918,,https://www.zillow.com/homedetails/10281-W-50-N-Columbus-IN-47201/102834671_zpid/,"10281 W 50 N, Columbus, IN 47201",,4,1,1184
+2919,,https://www.zillow.com/homedetails/10927-Tallow-Wood-Ln-Indianapolis-IN-46236/79593331_zpid/,"10927 Tallow Wood Ln, Indianapolis, IN 46236",,4,3,3873
+2920,,https://www.zillow.com/homedetails/1077-313-Greenleaf-Blvd-Elkhart-IN-46514/62627182_zpid/,"1077-313 Greenleaf Blvd, Elkhart, IN 46514",,2,2,1305
+2921,,https://www.zillow.com/homedetails/1922-N-West-Shafer-Dr-Monticello-IN-47960/228031016_zpid/,"1922 N West Shafer Dr, Monticello, IN 47960",,4,1,2102
+2922,,https://www.zillow.com/homedetails/3715-S-Wayne-Ave-Fort-Wayne-IN-46807/73188823_zpid/,"3715 S Wayne Ave, Fort Wayne, IN 46807",,3,2,1570
+2923,,https://www.zillow.com/homedetails/453-W-1100-N-Ossian-IN-46777/85786218_zpid/,"453 W 1100 N, Ossian, IN 46777",,5,2.5,2912
+2924,,https://www.zillow.com/homedetails/10922-W-Hillview-Pl-Columbus-IN-47201/102833810_zpid/,"10922 W Hillview Pl, Columbus, IN 47201",,3,1,1008
+2925,,https://www.zillow.com/homedetails/2703-Briar-Bush-Ln-Fort-Wayne-IN-46815/73174254_zpid/,"2703 Briar Bush Ln, Fort Wayne, IN 46815",,4,3,2518
+2926,,https://www.zillow.com/homedetails/3016-Webster-St-Fort-Wayne-IN-46807/73115921_zpid/,"3016 Webster St, Fort Wayne, IN 46807",,3,1,1292
+2927,,https://www.zillow.com/homedetails/5959-W-Mount-Auburn-Fourth-St-Edinburgh-IN-46124/85703035_zpid/,"5959 W Mount Auburn Fourth St, Edinburgh, IN 46124",,3,1.5,1284
+2928,,https://www.zillow.com/homedetails/11034-Woods-Bay-Ln-Indianapolis-IN-46236/1160423_zpid/,"11034 Woods Bay Ln, Indianapolis, IN 46236",,5,6,6493
+2929,,https://www.zillow.com/homedetails/3020-Plaza-Dr-Fort-Wayne-IN-46806/73132768_zpid/,"3020 Plaza Dr, Fort Wayne, IN 46806",,4,2,1832
+2930,,https://www.zillow.com/homedetails/750-Harrison-Ave-South-Bend-IN-46616/94561906_zpid/,"750 Harrison Ave, South Bend, IN 46616",,3,1,1144
+2931,,https://www.zillow.com/homedetails/1326-Curdes-Ave-Fort-Wayne-IN-46805/73204771_zpid/,"1326 Curdes Ave, Fort Wayne, IN 46805",,3,2,1456
+2932,,https://www.zillow.com/homedetails/6755-E-Harrold-Rd-Churubusco-IN-46723/85801126_zpid/,"6755 E Harrold Rd, Churubusco, IN 46723",,3,2,1216
+2933,,https://www.zillow.com/homedetails/2720-Pennsylvania-St-Fort-Wayne-IN-46803/73137844_zpid/,"2720 Pennsylvania St, Fort Wayne, IN 46803",,2,1,720
+2934,,https://www.zillow.com/homedetails/2920-Radcliffe-Dr-Fort-Wayne-IN-46806/73133611_zpid/,"2920 Radcliffe Dr, Fort Wayne, IN 46806",,2,1,832
+2935,,https://www.zillow.com/homedetails/1636-Barthold-St-Fort-Wayne-IN-46808/73204518_zpid/,"1636 Barthold St, Fort Wayne, IN 46808",,3,1,1268
+2936,,https://www.zillow.com/homedetails/8935-S-Mount-Auburn-Mulberry-St-Edinburgh-IN-46124/316716964_zpid/,"8935 S Mount Auburn Mulberry St, Edinburgh, IN 46124",,3,1,720
+2937,,https://www.zillow.com/homedetails/1110-S-475-W-Columbus-IN-47201/85106751_zpid/,"1110 S 475 W, Columbus, IN 47201",,4,2,1710
+2938,,https://www.zillow.com/homedetails/317-4th-St-Rising-Sun-IN-47040/85640858_zpid/,"317 4th St, Rising Sun, IN 47040",,2,1,796
+2939,,https://www.zillow.com/homedetails/10012-Crown-Point-Dr-Fort-Wayne-IN-46804/73105502_zpid/,"10012 Crown Point Dr, Fort Wayne, IN 46804",,4,4,3428
+2940,,https://www.zillow.com/homedetails/1705-Illinois-St-Fort-Wayne-IN-46808/122698240_zpid/,"1705 Illinois St, Fort Wayne, IN 46808",,3,2,1872
+2941,,https://www.zillow.com/homedetails/12891-W-Becks-Grove-Rd-Columbus-IN-47201/217812011_zpid/,"12891 W Becks Grove Rd, Columbus, IN 47201",,3,2,1426
+2942,,https://www.zillow.com/homedetails/1121-Hamilton-Ave-Fort-Wayne-IN-46806/73113825_zpid/,"1121 Hamilton Ave, Fort Wayne, IN 46806",,2,1,1039
+2943,,https://www.zillow.com/homedetails/420-E-Dewald-St-Fort-Wayne-IN-46803/73187313_zpid/,"420 E Dewald St, Fort Wayne, IN 46803",,3,1,1472
+2944,,https://www.zillow.com/homedetails/3006-Reed-St-Fort-Wayne-IN-46806/73187719_zpid/,"3006 Reed St, Fort Wayne, IN 46806",,3,1,900
+2945,,https://www.zillow.com/homedetails/6342-W-County-Road-600-S-Colfax-IN-46035/331630847_zpid/,"6342 W County Road 600 S, Colfax, IN 46035",,2,2.5,2040
+2946,,https://www.zillow.com/homedetails/4625-Kekionga-Dr-Fort-Wayne-IN-46809/73119202_zpid/,"4625 Kekionga Dr, Fort Wayne, IN 46809",,3,1.5,1680
+2947,,https://www.zillow.com/homedetails/1129-Dodge-Ave-Fort-Wayne-IN-46805/73177287_zpid/,"1129 Dodge Ave, Fort Wayne, IN 46805",,2,1,704
+2948,,https://www.zillow.com/homedetails/2807-Bowser-Ave-Fort-Wayne-IN-46806/73112680_zpid/,"2807 Bowser Ave, Fort Wayne, IN 46806",,3,1,1248
+2949,,https://www.zillow.com/homedetails/2727-Old-Pond-Cv-Fort-Wayne-IN-46815/73209566_zpid/,"2727 Old Pond Cv, Fort Wayne, IN 46815",,3,4,2377
+2950,,https://www.zillow.com/homedetails/240-N-Church-St-Roann-IN-46974/127031079_zpid/,"240 N Church St, Roann, IN 46974",,3,1,1438
+2951,,https://www.zillow.com/homedetails/1535-E-Wayne-St-Fort-Wayne-IN-46803/122699457_zpid/,"1535 E Wayne St, Fort Wayne, IN 46803",,4,2,1972
+2952,,https://www.zillow.com/homedetails/3516-S-Wayne-Ave-Fort-Wayne-IN-46807/94269739_zpid/,"3516 S Wayne Ave, Fort Wayne, IN 46807",,3,1.5,1288
+2953,,https://www.zillow.com/homedetails/25004-Us-Highway-52-Laurel-IN-47024/85258146_zpid/,"25004 Us Highway 52, Laurel, IN 47024",,0,1,1216
+2954,,https://www.zillow.com/homedetails/313-E-Main-St-3-Cambridge-City-IN-47327/2080331821_zpid/,"313 E Main St #3, Cambridge City, IN 47327",,0,0,
+2955,,https://www.zillow.com/homedetails/1601-Landers-Ct-Fort-Wayne-IN-46815/73173682_zpid/,"1601 Landers Ct, Fort Wayne, IN 46815",,4,2.5,2334
+2956,,https://www.zillow.com/homedetails/2336-E-Pontiac-St-Fort-Wayne-IN-46803/73132880_zpid/,"2336 E Pontiac St, Fort Wayne, IN 46803",,5,2,2500
+2957,,https://www.zillow.com/homedetails/4353-W-1300-N-Kingman-IN-47952/85654013_zpid/,"4353 W 1300 N, Kingman, IN 47952",,3,1,1290
+2958,,https://www.zillow.com/homedetails/1810-Hale-Ave-Fort-Wayne-IN-46802/73187958_zpid/,"1810 Hale Ave, Fort Wayne, IN 46802",,2,2,1080
+2959,,https://www.zillow.com/homedetails/2949-Holton-Ave-Fort-Wayne-IN-46806/73112518_zpid/,"2949 Holton Ave, Fort Wayne, IN 46806",,2,1,1224
+2960,,https://www.zillow.com/homedetails/24221-Kokomo-Hill-Rd-Laurel-IN-47024/85258359_zpid/,"24221 Kokomo Hill Rd, Laurel, IN 47024",,3,1,1320
+2961,,https://www.zillow.com/homedetails/12118-Amber-Ridge-Dr-Fort-Wayne-IN-46814/73185984_zpid/,"12118 Amber Ridge Dr, Fort Wayne, IN 46814",,4,2.5,3364
+2962,,https://www.zillow.com/homedetails/4635-E-625-S-Waldron-IN-46182/85703516_zpid/,"4635 E 625 S, Waldron, IN 46182",,3,1.5,1344
+2963,,https://www.zillow.com/homedetails/3629-Felician-St-Fort-Wayne-IN-46803/73138673_zpid/,"3629 Felician St, Fort Wayne, IN 46803",,2,1,709
+2964,,https://www.zillow.com/homedetails/2929-Oliver-St-Fort-Wayne-IN-46806/73187823_zpid/,"2929 Oliver St, Fort Wayne, IN 46806",,3,1.5,1512
+2965,,https://www.zillow.com/homedetails/6885-E-Harrold-Rd-Churubusco-IN-46723/85801132_zpid/,"6885 E Harrold Rd, Churubusco, IN 46723",,4,2,1150
+2966,,https://www.zillow.com/homedetails/1207-Scott-Ave-Fort-Wayne-IN-46807/73117515_zpid/,"1207 Scott Ave, Fort Wayne, IN 46807",,5,3,2421
+2967,,https://www.zillow.com/homedetails/1647-N-Highlands-Blvd-Fort-Wayne-IN-46808/73169997_zpid/,"1647 N Highlands Blvd, Fort Wayne, IN 46808",,3,1,1386
+2968,,https://www.zillow.com/homedetails/602-High-School-Dr-Edinburgh-IN-46124/85435827_zpid/,"602 High School Dr, Edinburgh, IN 46124",,3,1,1225
+2969,,https://www.zillow.com/homedetails/4116-S-Ratcliff-Rd-Kingman-IN-47952/112015540_zpid/,"4116 S Ratcliff Rd, Kingman, IN 47952",,4,2,2584
+2970,,https://www.zillow.com/homedetails/1214-Polk-St-Fort-Wayne-IN-46808/73126517_zpid/,"1214 Polk St, Fort Wayne, IN 46808",,3,1,1152
+2971,,https://www.zillow.com/homedetails/1807-N-Highlands-Blvd-Fort-Wayne-IN-46808/73159392_zpid/,"1807 N Highlands Blvd, Fort Wayne, IN 46808",,3,1,759
+2972,,https://www.zillow.com/homedetails/2007-Saint-Joe-Blvd-Fort-Wayne-IN-46805/73177620_zpid/,"2007 Saint Joe Blvd, Fort Wayne, IN 46805",,4,1,840
+2973,,https://www.zillow.com/homedetails/601-S-Main-St-Waldron-IN-46182/85702041_zpid/,"601 S Main St, Waldron, IN 46182",,4,2,2400
+2974,,https://www.zillow.com/homedetails/1318-W-Sycamore-St-Kokomo-IN-46901/2141443928_zpid/,"1318 W Sycamore St, Kokomo, IN 46901",,4,2,1721
+2975,,https://www.zillow.com/homedetails/1217-Columbia-Ave-Fort-Wayne-IN-46805/73111834_zpid/,"1217 Columbia Ave, Fort Wayne, IN 46805",,3,2,1725
+2976,,https://www.zillow.com/homedetails/3738-Nokomis-Rd-Fort-Wayne-IN-46809/73189462_zpid/,"3738 Nokomis Rd, Fort Wayne, IN 46809",,2,2,2130
+2977,,https://www.zillow.com/homedetails/516-S-Main-St-Edinburgh-IN-46124/85436550_zpid/,"516 S Main St, Edinburgh, IN 46124",,4,3,2238
+2978,,https://www.zillow.com/homedetails/3698-S-County-Road-210-Knox-IN-46534/2120939630_zpid/,"3698 S County Road 210, Knox, IN 46534",,3,2.5,5700
+2979,,https://www.zillow.com/homedetails/1000-E-Columbus-IN-47201/249936578_zpid/,"1000 E, Columbus, IN 47201",,0,0,
+2980,,https://www.zillow.com/homedetails/7020-E-Harrold-Rd-Churubusco-IN-46723/85801156_zpid/,"7020 E Harrold Rd, Churubusco, IN 46723",,3,2,1344
+2981,,https://www.zillow.com/homedetails/2230-Shadybrook-Dr-Fort-Wayne-IN-46803/73138286_zpid/,"2230 Shadybrook Dr, Fort Wayne, IN 46803",,3,1,1008
+2982,,https://www.zillow.com/homedetails/3775-E-400-S-Knox-IN-46534/85718029_zpid/,"3775 E 400 S, Knox, IN 46534",,3,1,1388
+2983,,https://www.zillow.com/homedetails/131-Cleveland-St-Columbus-IN-47201/85101272_zpid/,"131 Cleveland St, Columbus, IN 47201",,3,1,1000
+2984,,https://www.zillow.com/homedetails/1004-N-Noble-St-Greenfield-IN-46140/85287239_zpid/,"1004 N Noble St, Greenfield, IN 46140",,3,1,1325
+2985,,https://www.zillow.com/homedetails/1157-Cedar-St-Fort-Wayne-IN-46803/73117497_zpid/,"1157 Cedar St, Fort Wayne, IN 46803",,3,1,1454
+2986,,https://www.zillow.com/homedetails/2309-Engle-Rd-Fort-Wayne-IN-46809/73190006_zpid/,"2309 Engle Rd, Fort Wayne, IN 46809",,3,1.5,1716
+2987,,https://www.zillow.com/homedetails/3888-W-1050-N-Roann-IN-46974/228066617_zpid/,"3888 W 1050 N, Roann, IN 46974",,3,1.5,1680
+2988,,https://www.zillow.com/homedetails/1032-Degroff-St-Fort-Wayne-IN-46808/73126534_zpid/,"1032 Degroff St, Fort Wayne, IN 46808",,3,1.5,893
+2989,,https://www.zillow.com/homedetails/3029-Euclid-Ave-Fort-Wayne-IN-46806/73194521_zpid/,"3029 Euclid Ave, Fort Wayne, IN 46806",,3,1,1560
+2990,,https://www.zillow.com/homedetails/201-Royalwood-Dr-Monticello-IN-47960/2098419126_zpid/,"201 Royalwood Dr, Monticello, IN 47960",,3,2,1650
+2991,,https://www.zillow.com/homedetails/728-Portage-Ave-APT-4-South-Bend-IN-46616/2090117052_zpid/,"728 Portage Ave APT 4, South Bend, IN 46616",,1,1,
+2992,,https://www.zillow.com/homedetails/3404-Kenaston-Dr-Fort-Wayne-IN-46815/73208075_zpid/,"3404 Kenaston Dr, Fort Wayne, IN 46815",,4,2.5,1888
+2993,,https://www.zillow.com/homedetails/3522-Felician-St-Fort-Wayne-IN-46803/73196421_zpid/,"3522 Felician St, Fort Wayne, IN 46803",,3,1.5,1264
+2994,,https://www.zillow.com/homedetails/26139-Us-Highway-52-Laurel-IN-47024/227884760_zpid/,"26139 Us Highway 52, Laurel, IN 47024",,3,2,1516
+2995,,https://www.zillow.com/homedetails/3715-Webster-St-Fort-Wayne-IN-46807/73117215_zpid/,"3715 Webster St, Fort Wayne, IN 46807",,3,1.5,1435
+2996,,https://www.zillow.com/homedetails/1107-Caribe-Blvd-Fort-Wayne-IN-46815/73137085_zpid/,"1107 Caribe Blvd, Fort Wayne, IN 46815",,3,1.5,1876
+2997,,https://www.zillow.com/homedetails/2133-Taylor-St-Fort-Wayne-IN-46802/73187954_zpid/,"2133 Taylor St, Fort Wayne, IN 46802",,3,1,856
+2998,,https://www.zillow.com/homedetails/1422-Stophlet-St-Fort-Wayne-IN-46802/73112085_zpid/,"1422 Stophlet St, Fort Wayne, IN 46802",,3,1,1754
+2999,,https://www.zillow.com/homedetails/25030-Us-Highway-52-Laurel-IN-47024/85255132_zpid/,"25030 Us Highway 52, Laurel, IN 47024",,3,2,1809
+3000,,https://www.zillow.com/homedetails/503-Madison-Fort-Wayne-IN-46802/2130803458_zpid/,"503 Madison, Fort Wayne, IN 46802",,7,2,2260
+3001,,https://www.zillow.com/homedetails/1320-Ardsley-Ct-Fort-Wayne-IN-46815/73195567_zpid/,"1320 Ardsley Ct, Fort Wayne, IN 46815",,3,2.5,2304
+3002,,https://www.zillow.com/homedetails/2113-Cozy-Ct-Fort-Wayne-IN-46802/73113565_zpid/,"2113 Cozy Ct, Fort Wayne, IN 46802",,2,1,824
+3003,,https://www.zillow.com/homedetails/13815-N-600-E-Roann-IN-46974/224445736_zpid/,"13815 N 600 E, Roann, IN 46974",,3,2,2576
+3004,,https://www.zillow.com/homedetails/1704-Hensch-St-Fort-Wayne-IN-46808/73204502_zpid/,"1704 Hensch St, Fort Wayne, IN 46808",,3,1,952
+3005,,https://www.zillow.com/homedetails/2906-Oliver-St-Fort-Wayne-IN-46806/73112938_zpid/,"2906 Oliver St, Fort Wayne, IN 46806",,3,1,1344
+3006,,https://www.zillow.com/homedetails/1133-Somerset-Ln-Fort-Wayne-IN-46805/73156683_zpid/,"1133 Somerset Ln, Fort Wayne, IN 46805",,2,1,990
+3007,,https://www.zillow.com/homedetails/1227-California-Ave-APT-2-Fort-Wayne-IN-46805/2101504756_zpid/,"1227 California Ave APT 2, Fort Wayne, IN 46805",,1,1,600
+3008,,https://www.zillow.com/homedetails/4221-Rurode-Ln-Fort-Wayne-IN-46809/73126461_zpid/,"4221 Rurode Ln, Fort Wayne, IN 46809",,3,3,2420
+3009,,https://www.zillow.com/homedetails/1228-Pemberton-Dr-Fort-Wayne-IN-46805/73137348_zpid/,"1228 Pemberton Dr, Fort Wayne, IN 46805",,3,1,1120
+3010,,https://www.zillow.com/homedetails/2920-Allegany-Ave-Fort-Wayne-IN-46809/73119089_zpid/,"2920 Allegany Ave, Fort Wayne, IN 46809",,3,2,1104
+3011,,https://www.zillow.com/homedetails/2305-Hiawatha-Blvd-Fort-Wayne-IN-46809/73118056_zpid/,"2305 Hiawatha Blvd, Fort Wayne, IN 46809",,3,2,2100
+3012,,https://www.zillow.com/homedetails/1618-Inwood-Dr-Fort-Wayne-IN-46815/73209437_zpid/,"1618 Inwood Dr, Fort Wayne, IN 46815",,2,1,2100
+3013,,https://www.zillow.com/homedetails/12812-Galena-Creek-Trl-Fort-Wayne-IN-46814/246017661_zpid/,"12812 Galena Creek Trl, Fort Wayne, IN 46814",,3,2,1830
+3014,,https://www.zillow.com/homedetails/504-Freedom-Dr-Pittsboro-IN-46167/97328033_zpid/,"504 Freedom Dr, Pittsboro, IN 46167",,3,2,1500
+3015,,https://www.zillow.com/homedetails/7102-S-Edinburgh-Rd-Edinburgh-IN-46124/244154746_zpid/,"7102 S Edinburgh Rd, Edinburgh, IN 46124",,3,3.5,2148
+3016,,https://www.zillow.com/homedetails/3239-Blackberry-Ln-Rising-Sun-IN-47040/85639928_zpid/,"3239 Blackberry Ln, Rising Sun, IN 47040",,4,4,2830
+3017,,https://www.zillow.com/homedetails/10819-N-Stockdale-Rd-Roann-IN-46974/224445851_zpid/,"10819 N Stockdale Rd, Roann, IN 46974",,3,2,1980
+3018,,https://www.zillow.com/homedetails/1148-E-Seven-State-Rd-124-Peru-IN-46970/97913842_zpid/,"1148 E Seven State Rd #124, Peru, IN 46970",,1,1,480
+3019,,https://www.zillow.com/homedetails/418-Greenwood-Trl-Ossian-IN-46777/85785116_zpid/,"418 Greenwood Trl, Ossian, IN 46777",,3,2,1448
+3020,,https://www.zillow.com/homedetails/3711-S-Wayne-Ave-Fort-Wayne-IN-46807/73116338_zpid/,"3711 S Wayne Ave, Fort Wayne, IN 46807",,3,1.5,768
+3021,,https://www.zillow.com/homedetails/1608-Bayer-Ave-Fort-Wayne-IN-46805/73162379_zpid/,"1608 Bayer Ave, Fort Wayne, IN 46805",,2,1,780
+3022,,https://www.zillow.com/homedetails/1208-Vance-Ave-Fort-Wayne-IN-46805/73177195_zpid/,"1208 Vance Ave, Fort Wayne, IN 46805",,3,1,1620
+3023,,https://www.zillow.com/homedetails/5616-Mason-Dr-Fort-Wayne-IN-46809/73119628_zpid/,"5616 Mason Dr, Fort Wayne, IN 46809",,3,1,1308
+3024,,https://www.zillow.com/homedetails/2129-Oakley-St-Fort-Wayne-IN-46802/73109775_zpid/,"2129 Oakley St, Fort Wayne, IN 46802",,4,1.5,1600
+3025,,https://www.zillow.com/homedetails/341-French-Ave-Fort-Wayne-IN-46807/73189067_zpid/,"341 French Ave, Fort Wayne, IN 46807",,3,1,1224
+3026,,https://www.zillow.com/homedetails/3713-Logan-Ave-Fort-Wayne-IN-46803/73139088_zpid/,"3713 Logan Ave, Fort Wayne, IN 46803",,3,1,1565
+3027,,https://www.zillow.com/homedetails/11626-W-Sycamore-Hills-Dr-Fort-Wayne-IN-46814/73109220_zpid/,"11626 W Sycamore Hills Dr, Fort Wayne, IN 46814",,4,3.5,4386
+3028,,https://www.zillow.com/homedetails/14904-Sandstone-Dr-Fort-Wayne-IN-46814/180522396_zpid/,"14904 Sandstone Dr, Fort Wayne, IN 46814",,3,2.5,2041
+3029,,https://www.zillow.com/homedetails/2610-Busche-Dr-Fort-Wayne-IN-46815/73209835_zpid/,"2610 Busche Dr, Fort Wayne, IN 46815",,5,2.5,2326
+3030,,https://www.zillow.com/homedetails/3414-Saint-Croix-Dr-Fort-Wayne-IN-46815/73172395_zpid/,"3414 Saint Croix Dr, Fort Wayne, IN 46815",,3,2,1802
+3031,,https://www.zillow.com/homedetails/1637-Lakeview-Dr-Fort-Wayne-IN-46808/73158594_zpid/,"1637 Lakeview Dr, Fort Wayne, IN 46808",,3,1,912
+3032,,https://www.zillow.com/homedetails/9701-Griffin-Rd-Griffin-IN-47616/94546276_zpid/,"9701 Griffin Rd, Griffin, IN 47616",,2,1,1456
+3033,,https://www.zillow.com/homedetails/1022-N-Nelson-Ridge-Rd-Columbus-IN-47201/102846764_zpid/,"1022 N Nelson Ridge Rd, Columbus, IN 47201",,3,2,1150
+3034,,https://www.zillow.com/homedetails/10185-W-450-S-Columbus-IN-47201/85081498_zpid/,"10185 W 450 S, Columbus, IN 47201",,5,3.5,2223
+3035,,https://www.zillow.com/homedetails/3945-S-270-E-Kingman-IN-47952/249744357_zpid/,"3945 S 270 E, Kingman, IN 47952",,0,0,
+3036,,https://www.zillow.com/homedetails/113-Miller-St-Shoals-IN-47581/114367110_zpid/,"113 Miller St, Shoals, IN 47581",,3,2,1216
+3037,,https://www.zillow.com/homedetails/1105-Barksdale-Ave-Peru-IN-46970/97913805_zpid/,"1105 Barksdale Ave, Peru, IN 46970",,2,1,925
+3038,,https://www.zillow.com/homedetails/1010-7th-St-Columbus-IN-47201/102835924_zpid/,"1010 7th St, Columbus, IN 47201",,3,2,1060
+3039,,https://www.zillow.com/homedetails/1805-Wells-St-Fort-Wayne-IN-46808/111820749_zpid/,"1805 Wells St, Fort Wayne, IN 46808",,8,3,2154
+3040,,https://www.zillow.com/homedetails/10930-Sherfick-School-Rd-Shoals-IN-47581/120234171_zpid/,"10930 Sherfick School Rd, Shoals, IN 47581",,0,0,
+3041,,https://www.zillow.com/homedetails/2220-Nuttman-Ave-APT-D-Fort-Wayne-IN-46809/2089578429_zpid/,"2220 Nuttman Ave APT D, Fort Wayne, IN 46809",,2,1,700
+3042,,https://www.zillow.com/homedetails/3685-Virginia-St-Gary-IN-46409/73343689_zpid/,"3685 Virginia St, Gary, IN 46409",,3,1,1088
+3043,,https://www.zillow.com/homedetails/1220-S-Hadley-Rd-Fort-Wayne-IN-46804/94269119_zpid/,"1220 S Hadley Rd, Fort Wayne, IN 46804",,3,2.5,1497
+3044,,https://www.zillow.com/homedetails/2901-Fairoak-Dr-Fort-Wayne-IN-46809/73192067_zpid/,"2901 Fairoak Dr, Fort Wayne, IN 46809",,2,1,940
+3045,,https://www.zillow.com/homedetails/10215-Coverdale-Rd-Fort-Wayne-IN-46809/73145999_zpid/,"10215 Coverdale Rd, Fort Wayne, IN 46809",,3,2,1562
+3046,,https://www.zillow.com/homedetails/1114-Elm-St-1118-Fort-Wayne-IN-46808/2077128266_zpid/,"1114 Elm St #1118, Fort Wayne, IN 46808",,3,1,1260
+3047,,https://www.zillow.com/homedetails/11462-Elliott-Rd-Fountain-City-IN-47341/120212267_zpid/,"11462 Elliott Rd, Fountain City, IN 47341",,3,2,1782
+3048,,https://www.zillow.com/homedetails/4335-Lower-Huntington-Rd-Fort-Wayne-IN-46809/73126192_zpid/,"4335 Lower Huntington Rd, Fort Wayne, IN 46809",,2,1.5,1204
+3049,,https://www.zillow.com/homedetails/3021-Dockshire-Ln-Fort-Wayne-IN-46804/73184314_zpid/,"3021 Dockshire Ln, Fort Wayne, IN 46804",,3,2.5,1654
+3050,,https://www.zillow.com/homedetails/1517-Sweet-Flag-Cv-Fort-Wayne-IN-46814/180522976_zpid/,"1517 Sweet Flag Cv, Fort Wayne, IN 46814",,4,4,3265
+3051,,https://www.zillow.com/homedetails/1314-Pearl-St-Columbus-IN-47201/85096189_zpid/,"1314 Pearl St, Columbus, IN 47201",,3,1,1442
+3052,,https://www.zillow.com/homedetails/2923-Radcliffe-Dr-Fort-Wayne-IN-46806/73133618_zpid/,"2923 Radcliffe Dr, Fort Wayne, IN 46806",,3,1,1188
+3053,,https://www.zillow.com/homedetails/1523-Echo-Ln-Fort-Wayne-IN-46815/73173923_zpid/,"1523 Echo Ln, Fort Wayne, IN 46815",,3,1,1066
+3054,,https://www.zillow.com/homedetails/12563-S-Hillview-Rd-Columbus-IN-47201/85081467_zpid/,"12563 S Hillview Rd, Columbus, IN 47201",,3,1,1160
+3055,,https://www.zillow.com/homedetails/1318-Sycamore-Hills-Pkwy-Fort-Wayne-IN-46814/180523425_zpid/,"1318 Sycamore Hills Pkwy, Fort Wayne, IN 46814",,5,3.5,3006
+3056,,https://www.zillow.com/homedetails/705-S-Pleasant-St-Edinburgh-IN-46124/85436525_zpid/,"705 S Pleasant St, Edinburgh, IN 46124",,3,1,1880
+3057,,https://www.zillow.com/homedetails/3010-Prairie-Grove-Dr-Fort-Wayne-IN-46809/73125401_zpid/,"3010 Prairie Grove Dr, Fort Wayne, IN 46809",,3,2,1248
+3058,,https://www.zillow.com/homedetails/705-W-Franklin-St-Colfax-IN-46035/85143308_zpid/,"705 W Franklin St, Colfax, IN 46035",,3,2,1512
+3059,,https://www.zillow.com/homedetails/1210-Lynn-Ave-Fort-Wayne-IN-46805/73177323_zpid/,"1210 Lynn Ave, Fort Wayne, IN 46805",,3,1,1104
+3060,,https://www.zillow.com/homedetails/35-E-36th-Ave-Gary-IN-46409/99198654_zpid/,"35 E 36th Ave, Gary, IN 46409",,3,1,1225
+3061,,https://www.zillow.com/homedetails/2912-Lower-Huntington-Fort-Wayne-IN-46809/2089551659_zpid/,"2912 Lower Huntington, Fort Wayne, IN 46809",,0,0,1500
+3062,,https://www.zillow.com/homedetails/801-Park-Ave-South-Bend-IN-46616/77020373_zpid/,"801 Park Ave, South Bend, IN 46616",,4,3,2770
+3063,,https://www.zillow.com/homedetails/10980-E-325-S-Peru-IN-46970/251686346_zpid/,"10980 E 325 S, Peru, IN 46970",,3,1,1920
+3064,,https://www.zillow.com/homedetails/722-N-Scott-St-South-Bend-IN-46616/303809026_zpid/,"722 N Scott St, South Bend, IN 46616",,0,0,
+3065,,https://www.zillow.com/homedetails/3032-Queen-St-Fort-Wayne-IN-46806/73133431_zpid/,"3032 Queen St, Fort Wayne, IN 46806",,3,1,1144
+3066,,https://www.zillow.com/homedetails/4940-Kyle-Rd-Fort-Wayne-IN-46809/73189839_zpid/,"4940 Kyle Rd, Fort Wayne, IN 46809",,3,3,3525
+3067,,https://www.zillow.com/homedetails/1011-Scott-Ave-Fort-Wayne-IN-46807/73110076_zpid/,"1011 Scott Ave, Fort Wayne, IN 46807",,3,1.5,1680
+3068,,https://www.zillow.com/homedetails/3747-S-300-E-Knox-IN-46534/120950159_zpid/,"3747 S 300 E, Knox, IN 46534",,2,3,896
+3069,,https://www.zillow.com/homedetails/1124-Nelson-St-Fort-Wayne-IN-46802/73111696_zpid/,"1124 Nelson St, Fort Wayne, IN 46802",,2,1,1634
+3070,,https://www.zillow.com/homedetails/25129-Stipps-Hill-Rd-Laurel-IN-47024/128499997_zpid/,"25129 Stipps Hill Rd, Laurel, IN 47024",,0,1,1792
+3071,,https://www.zillow.com/homedetails/1208-Lake-Forest-Dr-Fort-Wayne-IN-46815/73136855_zpid/,"1208 Lake Forest Dr, Fort Wayne, IN 46815",,4,2,1614
+3072,,https://www.zillow.com/homedetails/425-Bittersweet-Ln-Ossian-IN-46777/85785362_zpid/,"425 Bittersweet Ln, Ossian, IN 46777",,3,3,2392
+3073,,https://www.zillow.com/homedetails/2725-Palisade-Dr-Fort-Wayne-IN-46806/73134542_zpid/,"2725 Palisade Dr, Fort Wayne, IN 46806",,3,3,2385
+3074,,https://www.zillow.com/homedetails/461-E-Pontiac-St-Fort-Wayne-IN-46803/73111475_zpid/,"461 E Pontiac St, Fort Wayne, IN 46803",,3,2,1518
+3075,,https://www.zillow.com/homedetails/1602-Benham-Dr-Fort-Wayne-IN-46815/73173679_zpid/,"1602 Benham Dr, Fort Wayne, IN 46815",,3,2,1631
+3076,,https://www.zillow.com/homedetails/321-Eagle-Ct-Ossian-IN-46777/228162602_zpid/,"321 Eagle Ct, Ossian, IN 46777",,0,0,
+3077,,https://www.zillow.com/homedetails/26147-Stipps-Hill-Rd-Laurel-IN-47024/85256488_zpid/,"26147 Stipps Hill Rd, Laurel, IN 47024",,2,2,1160
+3078,,https://www.zillow.com/homedetails/2817-John-St-Fort-Wayne-IN-46806/73112529_zpid/,"2817 John St, Fort Wayne, IN 46806",,4,1,2272
+3079,,https://www.zillow.com/homedetails/11199-Doe-Run-Ave-Shoals-IN-47581/244620430_zpid/,"11199 Doe Run Ave, Shoals, IN 47581",,0,1,660
+3080,,https://www.zillow.com/homedetails/1905-E-Pontiac-St-Fort-Wayne-IN-46803/73137953_zpid/,"1905 E Pontiac St, Fort Wayne, IN 46803",,3,1,1144
+3081,,https://www.zillow.com/homedetails/508-S-Main-St-Edinburgh-IN-46124/85436545_zpid/,"508 S Main St, Edinburgh, IN 46124",,3,1,896
+3082,,https://www.zillow.com/homedetails/2601-Lillie-St-Fort-Wayne-IN-46803/73111909_zpid/,"2601 Lillie St, Fort Wayne, IN 46803",,3,1,960
+3083,,https://www.zillow.com/homedetails/4260-S-430-W-Kingman-IN-47952/85250891_zpid/,"4260 S 430 W, Kingman, IN 47952",,3,1,2870
+3084,,https://www.zillow.com/homedetails/6704-Sargent-Rd-Indianapolis-IN-46256/1147573_zpid/,"6704 Sargent Rd, Indianapolis, IN 46256",,5,2,2176
+3085,,https://www.zillow.com/homedetails/1006-Archer-Ave-Fort-Wayne-IN-46808/73157427_zpid/,"1006 Archer Ave, Fort Wayne, IN 46808",,3,1,1482
+3086,,https://www.zillow.com/homedetails/10022-White-Cedar-Rd-Fort-Wayne-IN-46804/73101469_zpid/,"10022 White Cedar Rd, Fort Wayne, IN 46804",,4,2.5,2639
+3087,,https://www.zillow.com/homedetails/1201-Elm-St-Fort-Wayne-IN-46808/73192765_zpid/,"1201 Elm St, Fort Wayne, IN 46808",,3,1,1320
+3088,,https://www.zillow.com/homedetails/311-S-High-St-Rising-Sun-IN-47040/85641173_zpid/,"311 S High St, Rising Sun, IN 47040",,3,1,1742
+3089,,https://www.zillow.com/homedetails/10017-Neil-Armstrong-Ct-Fort-Wayne-IN-46804/73105415_zpid/,"10017 Neil Armstrong Ct, Fort Wayne, IN 46804",,4,3,2384
+3090,,https://www.zillow.com/homedetails/425-E-Wayne-St-APT-35-Fort-Wayne-IN-46802/2083103861_zpid/,"425 E Wayne St APT 35, Fort Wayne, IN 46802",,0,1,421
+3091,,https://www.zillow.com/homedetails/11414-Branstrator-Rd-Fort-Wayne-IN-46809/73196742_zpid/,"11414 Branstrator Rd, Fort Wayne, IN 46809",,3,4,3368
+3092,,https://www.zillow.com/homedetails/12005-Boundary-Rd-Fountain-City-IN-47341/217949661_zpid/,"12005 Boundary Rd, Fountain City, IN 47341",,4,1.5,2169
+3093,,https://www.zillow.com/homedetails/3229-Wendover-Rd-Fort-Wayne-IN-46809/73119295_zpid/,"3229 Wendover Rd, Fort Wayne, IN 46809",,3,1.5,1258
+3094,,https://www.zillow.com/homedetails/2728-Queen-St-Fort-Wayne-IN-46806/73132595_zpid/,"2728 Queen St, Fort Wayne, IN 46806",,2,1,840
+3095,,https://www.zillow.com/homedetails/11241-N-Us-Highway-27-Fountain-City-IN-47341/112019384_zpid/,"11241 N Us Highway 27, Fountain City, IN 47341",,2,2,2098
+3096,,https://www.zillow.com/homedetails/1423-Summit-St-Fort-Wayne-IN-46803/73189182_zpid/,"1423 Summit St, Fort Wayne, IN 46803",,3,1,1320
+3097,,https://www.zillow.com/homedetails/115-S-Ohio-St-Roann-IN-46974/94618647_zpid/,"115 S Ohio St, Roann, IN 46974",,3,1,912
+3098,,https://www.zillow.com/homedetails/N-Washington-St-Colfax-IN-46035/228548386_zpid/,"N Washington St, Colfax, IN 46035",,0,0,
+3099,,https://www.zillow.com/homedetails/25096-Us-52-Laurel-IN-47024/2111354676_zpid/,"25096 Us 52, Laurel, IN 47024",,4,1,1900
+3100,,https://www.zillow.com/homedetails/3588-Connecticut-St-Gary-IN-46409/73345879_zpid/,"3588 Connecticut St, Gary, IN 46409",,5,3,2148
