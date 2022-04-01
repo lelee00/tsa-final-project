@@ -54,6 +54,8 @@ si <- sold_info %>%
   mutate(Date = yearmonth(mdy(Date)), price = as.numeric(str_replace_all(price, "[[$,]]",""))) 
 ```
 
+
+
 ```{r}
 si %>% filter(complete.cases(si)) %>%
   group_by(Date, County) %>%
@@ -74,15 +76,6 @@ si %>% filter(complete.cases(si)) %>%
 ```
 
 
-```{r}
-soldyr_ts <- si %>% filter(complete.cases(si)) %>%
-  mutate(Date = year(Date)) %>% group_by(Date) %>%
-  summarise(mean_sale = mean(price)) %>%
-  as_tsibble(index = Date)
-
-soldyr_ts %>% fill_gaps() %>% model(stl = STL(mean_sale)) %>% components() %>% autoplot() + ggtitle("Time Series Decomposition of Yearly Mean Sale Price, All Homes")
-```
-
 
 ```{r}
 si %>% group_by(Date, County) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date, key = County) %>% autoplot()
@@ -90,6 +83,14 @@ si %>% group_by(Date, County) %>% summarise(total_sales = sum(price), count_sale
 si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(total_sales)) %>% components() %>% autoplot()
 
 si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(count_sales)) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps(count_sales = 0) %>% model(classical_decomposition(count_sales, type = "additive")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date) %>% fill_gaps(mean_sale = 0) %>% model(classical_decomposition(mean_sale, type = "additive")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps(count_sales = 0) %>% model(classical_decomposition(count_sales, type = "multiplicative")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date) %>% fill_gaps(mean_sale = 0) %>% model(classical_decomposition(mean_sale, type = "multiplicative")) %>% components() %>% autoplot()
 
 ```
 
