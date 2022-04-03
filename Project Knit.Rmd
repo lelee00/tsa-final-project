@@ -1,0 +1,241 @@
+---
+title: "Initial Analysis"
+author: "LE Lee"
+date: "3/30/2022"
+output:
+  html_document:
+    fig_height: 5
+    fig_width: 8
+    toc: yes
+    toc_depth: 1
+    toc_float:
+      collapsed: false
+    number_sections: false
+    theme: readable
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(fable)
+library(tidyr)
+library(lubridate)
+library(tsibble)
+library(stringr)
+library(feasts)
+library(imputeTS)
+
+```
+
+```{r}
+county_zips <- read.csv('county-zips.csv', header = T) %>% rename(zip = Zip) %>% mutate(zip = as.character(zip))
+historical <- read.csv('historical_initial.csv', header = T)
+info <- read.csv('info_initial.csv', header = T)
+```
+
+```{r}
+h <- historical %>%
+  separate(address, sep = ', ', into = c("street","city","statezip")) %>%
+  separate(statezip, sep = ' ', into = c('state','zip')) %>%
+  separate(Price, sep = " ", into = c("price", NA))
+i <- info %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>% separate(statezip, sep = ' ', into = c('state','zip'))
+```
+```{r}
+i <- i %>% filter(beds > 0 & baths > 0) %>% select(link:sqft & !'list_price')
+h <- h %>% select(street:price)
+```
+
+
+```{r}
+sold <- h %>% filter(Event == "Sold")
+list <- h %>% filter(Event == "Listed for sale")
+change <- historical %>% filter(Event == "Price change") %>% separate(Price, sep = " ", into = c("to","pct"))
+```
+
+```{r}
+sold_info <- sold %>%
+  left_join(i, by = c("street","city","state","zip"))
+
+si <- sold_info %>%
+  filter(complete.cases(sold_info)) %>%
+  left_join(county_zips, by = 'zip') %>%
+  relocate(Date, .before = street) %>%
+  relocate(ï..County, .before = street) %>%
+  mutate(Date = yearmonth(mdy(Date)), price = as.numeric(str_replace_all(price, "[[$,]]",""))) 
+
+colnames(si)[2] <- "County"
+
+```
+
+
+
+```{r}
+si %>% filter(complete.cases(si)) %>%
+  group_by(Date, County) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date, key = County) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, All Homes, By County")
+si %>% filter(complete.cases(si)) %>%
+  group_by(Date) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, All Homes")
+si %>% filter(complete.cases(si)) %>%
+  mutate(Date = yearquarter(Date)) %>%
+  group_by(Date) %>%
+  summarise(mean_sale = mean(price)) %>%
+  as_tsibble(index = Date) %>%
+  autoplot() + xlab("Date of Sale") + ylab("Mean Sale Price") + ggtitle("Quarterly Mean Sale Price, All Homes")
+```
+
+
+
+```{r}
+si %>% group_by(Date, County) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date, key = County) %>% autoplot()
+
+#si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(total_sales)) %>% components() %>% autoplot()
+
+#si %>% filter(complete.cases(si)) %>% mutate(Date = year(Date)) %>% group_by(Date) %>% summarise(total_sales = sum(price), count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps() %>% model(stl = STL(count_sales)) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps(count_sales = 0) %>% model(classical_decomposition(count_sales, type = "additive")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date) %>% fill_gaps(mean_sale = 0) %>% model(classical_decomposition(mean_sale, type = "additive")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(count_sales = n()) %>% as_tsibble(index = Date) %>% fill_gaps(count_sales = 0) %>% model(classical_decomposition(count_sales, type = "multiplicative")) %>% components() %>% autoplot()
+
+si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date) %>% fill_gaps(mean_sale = 0) %>% model(classical_decomposition(mean_sale, type = "multiplicative")) %>% components() %>% autoplot()
+
+```
+
+```{r}
+si %>% filter(complete.cases(si)) %>% mutate(price_sqft = price/sqft) %>% filter(price_sqft != 75000) %>% group_by(Date) %>% summarise(mean_pricesqft = mean(price_sqft)) %>% as_tsibble(index = Date) %>% fill_gaps(mean_pricesqft = 0) %>% model(classical_decomposition(mean_pricesqft, type = "multiplicative")) %>% components() %>% autoplot()
+ 
+```
+
+
+
+```{r}
+sales_agg <- si %>%
+  filter(complete.cases(si)) %>%
+  group_by(Date, zip, County, beds, baths) %>%
+  summarise(mean_sale = mean(price), mean_sqft = mean(sqft)) %>%
+  as_tsibble(index = Date, key = c(zip, County, beds, baths))
+```
+
+
+```{r}
+#cpi = read.csv('cpiai.csv')
+#cpi = cpi %>% mutate(Date = yearmonth(ymd(Date))) %>% select(Date, Index)
+#sales_adj = si %>% left_join(cpi, by = "Date") %>% mutate(price_adj = price/Index * 100)
+#sales_adj %>% filter(complete.cases(sales_adj)) %>% group_by(Date) %>% summarise(mean_sale = mean(price), mean_adj = #mean(price_adj)) %>% as_tsibble(index = Date) %>% pivot_longer(c(mean_sale, mean_adj),
+ #              values_to = "Price") %>%
+  #mutate(name = factor(name,
+   #      levels=c("mean_price","mean_adj"))) %>%
+  #ggplot(aes(x = Date, y = Price)) +
+  #geom_line() +
+#  facet_grid(name ~ ., scales = "free_y") +
+#  labs(title = "Price",
+#       y = "$USD")
+```
+
+
+## Exponential Smoothing Model
+
+Exponential Smoothing Models aim to explain trend & seasonality in the TS (both of which are present in our data)
+
+```{r}
+msales_median <- si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(median_sale = median(price)) %>% as_tsibble() %>% fill_gaps(median_sale = 0)
+msales_median %>% autoplot()
+msales_dcomp_add <- msales_median %>% model(classical_decomposition(median_sale, type = "additive")) %>% components() %>% autoplot()
+msales_dcomp_mult <- msales_median %>% model(classical_decomposition(median_sale, type = "multiplicative")) %>% components() %>% autoplot()
+msales_dcomp_x11 <- msales_median %>% model(x11 = X_13ARIMA_SEATS(median_sale ~ x11())) %>%
+  components() %>% autoplot()
+msales_dcomp_stl <- msales_median %>% model(stl = STL(median_sale)) %>%
+  components() %>% autoplot()
+msales_dcomp_add
+msales_dcomp_mult
+msales_dcomp_x11
+msales_dcomp_stl
+```
+
+```{r}
+
+fit <- msales_median %>% model(TSLM(median_sale ~ trend()))
+fit %>% forecast(h = "10 months") %>% autoplot(msales_median)
+```
+
+```{r}
+#county_region = read.csv("county_regions.csv")
+#reg <- si %>% left_join(county_region, by = "County") %>% group_by(Date, Region) %>% summarise(mean_sale = mean(price)) %>% as.data.frame()
+#class(reg)
+#reg <- reg %>% filter(complete.cases(.)) %>% as_tsibble(key = Region) %>% fill_gaps(mean_sale = 0)
+```
+
+```{r}
+#reg %>% ggplot(aes(x = Date, y = mean_sale, colour = Region)) + geom_line() + facet_wrap(.~Region)
+#fits <- reg %>% model(base = ETS(mean_sale)) %>%
+ # reconcile(
+  #  bu = bottom_up(base),
+   # ols = min_trace(base, method = "ols"),
+    #mint = min_trace(base, method = "mint_shrink"),
+  #)
+
+#fits %>% forecast(h = "5 months")
+```
+
+
+
+
+
+```{r}
+library(leaps)
+```
+
+
+
+```{r}
+ts <- si %>% filter(complete.cases(si)) %>% group_by(Date) %>% summarise(median_sqft = median(sqft), median_price = median(price), median_baths = median(baths), median_beds = median(beds)) %>% as_tsibble() %>% fill_gaps(median_sqft = 0, median_price = 0, median_baths = 0, median_beds = 0)
+
+autoplot(ts, median_price)
+```
+
+
+
+
+```{r}
+
+subset <- regsubsets(median_price ~ median_beds + median_baths + median_sqft + median_beds:median_baths + median_beds:median_sqft + median_baths:median_sqft, data = ts)
+plot(subset, scale = "Cp")
+
+
+model_best <- lm(median_price ~ median_sqft + median_beds:median_baths + median_beds:median_sqft, data = ts)
+AIC(model_best)
+
+fit_nick <- ts %>%
+  model(TSLM(median_price ~ median_sqft + median_beds:median_baths + median_beds:median_sqft))
+report(fit_nick)
+
+fit_nick %>% gg_tsresiduals()
+augment(fit_nick) %>%
+  ggplot(aes(x = .fitted, y = .resid)) +
+  geom_point() + labs(x = "Fitted", y = "Residuals")
+
+fit_arima <- ts %>%
+  model(ARIMA(median_price))
+
+report(fit_arima)
+
+fit_arima %>% gg_tsresiduals()
+augment(fit_arima) %>%
+  ggplot(aes(x = .fitted, y = .resid)) +
+  geom_point() + labs(x = "Fitted", y = "Residuals")
+
+```
+
+
+
+
+
+
