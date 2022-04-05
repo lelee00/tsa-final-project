@@ -1,0 +1,145 @@
+---
+title: "D590 Initial Visualizations"
+author: "LE Lee"
+date: "4/5/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(fable)
+library(tidyr)
+library(lubridate)
+library(tsibble)
+library(stringr)
+library(feasts)
+library(imputeTS)
+library(leaps)
+```
+
+## Data Cleaning
+
+```{r}
+historical <- read.csv("historical_initial.csv", header = T)
+info <- read.csv("info_initial.csv", header = T)
+county_zips <- read.csv('county-zips.csv', header = T) %>% rename(zip = Zip) %>% mutate(zip = as.character(zip))
+county_region = read.csv("county_regions.csv")
+```
+
+```{r}
+h <- historical %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>%
+  separate(statezip, sep = ' ', into = c('state','zip')) %>%
+  separate(Price, sep = " ", into = c("price", NA)) %>%
+  mutate(Date = yearmonth(mdy(Date)), price = as.numeric(str_replace_all(price, "[[$,]]",""))) %>%
+  select(street:price) %>% relocate(Date, .before = street) %>% relocate(zip, .before = street)
+
+i <- info %>% separate(address, sep = ', ', into = c("street","city","statezip")) %>%
+  separate(statezip, sep = ' ', into = c('state','zip')) %>% select(link:sqft & !list_price) %>%
+  filter(beds > 0 & baths > 0)
+```
+
+
+```{r}
+zr <- county_zips %>% left_join(county_region, by = "County") %>% select(zip, Region) %>% filter(!duplicated(.))
+hi <- h %>% left_join(i, by = c("zip","street","city","state")) %>% left_join(zr, by = "zip") %>% filter(complete.cases(.) & !duplicated(.))
+```
+
+```{r}
+si <- hi %>% filter(Event == "Sold")
+```
+
+```{r}
+ts_mean <- si %>% group_by(Date) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date)
+ts_region <- si %>% group_by(Date, Region) %>% summarise(mean_sale = mean(price)) %>% as_tsibble(index = Date, key = Region)
+
+ts_median <- si %>% group_by(Date) %>% summarise(median_sale = median(price)) %>% as_tsibble(index = Date)
+ts_mdregion <- si %>% group_by(Date, Region) %>% summarise(median_sale = median(price)) %>% as_tsibble(index = Date, key = Region)
+```
+
+## TS Visualizations
+
+```{r}
+ts_mean %>% autoplot() + xlab("Month of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Home Sale Price, All Homes")
+ts_region %>% autoplot() + xlab("Month of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Home Sale Price, by Region")
+ts_region %>% autoplot() + facet_wrap(.~Region) + xlab("Month of Sale") + ylab("Mean Sale Price") + ggtitle("Monthly Mean Home Sale Price, by Region")
+
+ts_median %>% autoplot() + xlab("Month of Sale") + ylab("Median Sale Price") + ggtitle("Monthly Median Home Sale Price, All Homes")
+ts_mdregion %>% autoplot() + xlab("Month of Sale") + ylab("Median Sale Price") + ggtitle("Monthly Median Home Sale Price, by Region")
+ts_mdregion %>% autoplot() + facet_wrap(.~Region) + xlab("Month of Sale") + ylab("Median Sale Price") + ggtitle("Monthly Median Home Sale Price, by Region")
+
+ts_mean %>% full_join(ts_median) %>% pivot_longer(cols = c('mean_sale', 'median_sale'), names_to = 'measure', values_to = "price") %>% autoplot() + xlab("Date") + ggtitle("Monthly Home Sale Price, All Homes, Mean and Median")
+ts_region %>% full_join(ts_mdregion) %>% pivot_longer(cols = c('mean_sale', 'median_sale'), names_to = 'measure', values_to = "price") %>% ggplot(aes(x = Date, y = price, colour = measure)) + geom_line() + facet_wrap(.~Region)
+```
+
+```{r}
+si %>% mutate(sq_int = case_when(sqft <= 1000 ~ "0-1000 sqft",
+                                 1000 < sqft & sqft < 1500 ~ "1000-1500 sqft",
+                                 1500 <= sqft ~ "1500+ sqft")) %>%
+  group_by(Date, sq_int, Region) %>%
+  summarise(mean_sale = mean(price)) %>% 
+  as_tsibble(index = Date, key = c(sq_int, Region)) %>%
+  ggplot(aes(x = Date, y = mean_sale, colour = Region)) +
+  geom_line() +
+  facet_wrap(.~sq_int) + 
+  ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, by Region and Square Footage")
+
+si %>% mutate(sq_int = case_when(sqft <= 1000 ~ "0-1000 sqft",
+                                 1000 < sqft & sqft < 1500 ~ "1000-1500 sqft",
+                                 1500 <= sqft ~ "1500+ sqft")) %>%
+  group_by(Date, sq_int, Region) %>%
+  summarise(median_sale = median(price)) %>% 
+  as_tsibble(index = Date, key = c(sq_int, Region)) %>%
+  ggplot(aes(x = Date, y = median_sale, colour = Region)) +
+  geom_line() +
+  facet_wrap(.~sq_int) + 
+  ylab("Median Sale Price") + ggtitle("Monthly Median Sale Price, by Region and Square Footage")
+
+si %>% mutate(sq_int = case_when(sqft <= 1000 ~ "0-1000 sqft",
+                                 1000 < sqft & sqft < 1500 ~ "1000-1500 sqft",
+                                 1500 <= sqft ~ "1500+ sqft")) %>%
+  group_by(Date, sq_int) %>%
+  summarise(mean_sale = mean(price)) %>% 
+  as_tsibble(index = Date, key = sq_int) %>%
+  ggplot(aes(x = Date, y = mean_sale, colour = sq_int)) +
+  geom_line() +
+  ylab("Mean Sale Price") + ggtitle("Monthly Mean Sale Price, by Square Footage")
+
+si %>% mutate(sq_int = case_when(sqft <= 1000 ~ "0-1000 sqft",
+                                 1000 < sqft & sqft < 1500 ~ "1000-1500 sqft",
+                                 1500 <= sqft ~ "1500+ sqft")) %>%
+  group_by(Date, sq_int) %>%
+  summarise(median_sale = median(price)) %>% 
+  as_tsibble(index = Date, key = sq_int) %>%
+  ggplot(aes(x = Date, y = median_sale, colour = sq_int)) +
+  geom_line() +
+  ylab("Median Sale Price") + ggtitle("Monthly Median Sale Price, by Square Footage")
+```
+
+
+## Decomposition
+
+```{r}
+ts_mean %>%
+  fill_gaps(mean_sale = 0) %>% 
+  model(classical_decomposition(mean_sale, type = "additive")) %>%
+  components() %>%
+  autoplot()
+ts_mean %>%
+  fill_gaps(mean_sale = 0) %>%
+  model(classical_decomposition(mean_sale, type = "multiplicative")) %>%
+  components() %>%
+  autoplot()
+ts_mean %>% 
+  fill_gaps(mean_sale = 0) %>%
+  model(x11 = X_13ARIMA_SEATS(mean_sale ~ x11())) %>%
+  components() %>%
+  autoplot()
+ts_mean %>%
+  fill_gaps(mean_sale = 0) %>%
+  model(stl = STL(mean_sale)) %>%
+  components() %>%
+  autoplot()
+```
+
